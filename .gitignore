@@ -1,0 +1,12 @@
+# ignore everything
+*
+!*/
+
+# unignore github and curseforge  files
+!.gitignore
+!config.json
+!.gitattributes
+!.github/**
+
+!.minecraft/config/**
+!.minecraft/mods/.index/**

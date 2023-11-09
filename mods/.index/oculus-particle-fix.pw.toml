@@ -1,0 +1,14 @@
+name = "Oculus Particle Fix"
+filename = "oculusparticlefix-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d3a2cb73bf43b7ff0ae1c744d16d0776701748ac"
+
+[update]
+[update.curseforge]
+file-id = 4787564
+project-id = 920888

@@ -8,5 +8,7 @@
 !.gitattributes
 !.github/**
 
-!.minecraft/config/**
-!.minecraft/mods/.index/**
+!/config/**
+/config/valkyrienskies/**
+/config/jei/world/local/**
+!/mods/.index/**

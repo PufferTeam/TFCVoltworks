@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/pane",
+  "textures": {
+    "pane": "framedblocks:block/framed_block",
+    "edge": "framedblocks:block/framed_block"
+  }
+}

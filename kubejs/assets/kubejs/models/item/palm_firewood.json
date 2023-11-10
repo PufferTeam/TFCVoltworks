@@ -1,0 +1,8 @@
+{
+	"parent": "kubejs:item/firewood",
+	"textures": {
+	  "log": "tfc:block/wood/log/palm",
+	  "log_top": "tfc:block/wood/log_top/palm",
+	  "stripped_log": "tfc:block/wood/stripped_log/palm"
+	}
+}

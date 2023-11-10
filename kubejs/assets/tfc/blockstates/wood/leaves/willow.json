@@ -1,0 +1,30 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "tfc:block/wood/leaves/willow"
+			},
+			{
+				"model": "tfc:block/wood/leaves/mirrored/willow"
+			},
+			{
+				"model": "tfc:block/wood/leaves/willow",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/wood/leaves/mirrored/willow",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/wood/leaves/willow",
+				"x": 180,
+				"z": 180
+			},
+			{
+				"model": "tfc:block/wood/leaves/mirrored/willow",
+				"x": 180,
+				"z": 180
+			}
+		]
+	}
+}

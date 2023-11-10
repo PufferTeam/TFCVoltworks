@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "tfc_metalwork:item/metal/large_rod/beryllium_copper"
+  }
+}

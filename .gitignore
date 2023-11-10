@@ -9,6 +9,7 @@
 !.github/**
 
 !/config/**
+!/kubejs/**
 /config/valkyrienskies/**
 /config/jei/world/local/**
 !/mods/.index/**

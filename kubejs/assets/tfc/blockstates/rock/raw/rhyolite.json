@@ -1,0 +1,90 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "tfc:block/rock/raw/rhyolite"
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite"
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"y": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"y": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"x": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"x": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"x": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"x": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"x": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"x": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"x": 180,
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"x": 180,
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/rhyolite",
+				"x": 270,
+				"y": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/rhyolite",
+				"x": 270,
+				"y": 270
+			}
+		]
+	}
+}

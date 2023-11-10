@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_outer",
+	"textures": {
+		"particle": "quark:block/green_shingles",
+		"1_2": "quark:block/green_shingles"
+	}
+}

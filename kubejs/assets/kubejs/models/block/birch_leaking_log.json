@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tfc:block/wood/log_top/birch",
+    "side": "kubejs:block/wood/leaking/birch"
+  }
+}

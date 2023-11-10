@@ -1,0 +1,10 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "CTM",
+    "layer": "CUTOUT_MIPPED",
+    "textures": [
+      "kubejs:block/iron_overlay_ctm"
+    ]
+  }
+}

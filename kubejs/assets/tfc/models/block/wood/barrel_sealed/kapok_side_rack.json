@@ -1,0 +1,9 @@
+{
+	"parent": "tfc:block/barrel_side_sealed_rack",
+	"textures": {
+		"particle": 	"tfc:block/wood/barrel/outside/kapok",
+		"outside": 		"tfc:block/wood/barrel/outside/kapok",
+		"inside": 		"tfc:block/wood/barrel/inside/kapok",
+		"sheet": 		"tfc:block/wood/barrel/sheet/kapok"
+	}
+}

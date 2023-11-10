@@ -1,0 +1,9 @@
+{
+	"parent": "tfc:block/barrel",
+	"textures": {
+		"particle": 	"tfc:block/wood/barrel/outside/ash",
+		"outside": 		"tfc:block/wood/barrel/outside/ash",
+		"inside": 		"tfc:block/wood/barrel/inside/ash",
+		"sheet": 		"tfc:block/wood/barrel/sheet/ash"
+	}
+}

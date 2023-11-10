@@ -1,0 +1,30 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "tfc:block/rock/raw/andesite"
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/andesite"
+			},
+			{
+				"model": "tfc:block/rock/raw/andesite",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/andesite",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/andesite",
+				"x": 180,
+				"z": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/andesite",
+				"x": 180,
+				"z": 180
+			}
+		]
+	}
+}

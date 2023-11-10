@@ -1,0 +1,30 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "tfc:block/rock/raw/chert"
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/chert"
+			},
+			{
+				"model": "tfc:block/rock/raw/chert",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/chert",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/chert",
+				"x": 180,
+				"z": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/chert",
+				"x": 180,
+				"z": 180
+			}
+		]
+	}
+}

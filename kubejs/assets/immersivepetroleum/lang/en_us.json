@@ -1,0 +1,16 @@
+{
+    "item.immersivepetroleum.diesel_bucket": "Diesel Bucket",
+	"item.immersivepetroleum.diesel_sulfur_bucket": "Sulfurized Diesel Bucket",
+	"item.immersivepetroleum.crudeoil_bucket": "Crude Oil Bucket",
+	"item.immersivepetroleum.lubricant_bucket": "Lubricant Bucket",
+	"item.immersivepetroleum.gasoline_bucket": "Gasoline Bucket",
+	"item.immersivepetroleum.napalm_bucket": "Napalm Bucket",
+	"item.immersivepetroleum.naphtha_bucket": "Naphtha Bucket",
+	"item.immersivepetroleum.naphtha_cracked_bucket": "Cracked Naphta Bucket",
+	"item.immersivepetroleum.benzene_bucket": "Benzene Bucket",
+	"item.immersivepetroleum.propylene_bucket": "Propylene Bucket",
+	"item.immersivepetroleum.ethylene_bucket": "Ethylene Bucket",
+	"item.immersivepetroleum.lubricant_cracked_bucket": "Cracked Lubricant Bucket",
+	"item.immersivepetroleum.kerosene_bucket": "Kerosene Bucket",
+	"item.immersivepetroleum.gasoline_additives_bucket": "Gasoline Additives Bucket"
+}

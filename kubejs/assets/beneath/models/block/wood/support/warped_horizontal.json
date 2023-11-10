@@ -1,0 +1,6 @@
+{
+	"parent": "tfc:block/wood/support/horizontal",
+	"textures": {
+		"texture": 	"beneath:block/wood/support/horizontal/warped"
+	}
+}

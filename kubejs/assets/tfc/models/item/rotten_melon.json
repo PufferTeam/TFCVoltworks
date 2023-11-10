@@ -1,0 +1,7 @@
+{
+	"parent":"block/cube_column",
+	"textures":{
+		"end":"tfc:block/crop/rotten_melon_top",
+		"side":"tfc:block/crop/rotten_melon_side"
+	}
+}

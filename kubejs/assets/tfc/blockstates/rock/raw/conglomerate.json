@@ -1,0 +1,90 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "tfc:block/rock/raw/conglomerate"
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate"
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"y": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"y": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"x": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"x": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"x": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"x": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"x": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"x": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"x": 90,
+				"y": 90
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"x": 180,
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"x": 180,
+				"y": 180
+			},
+			{
+				"model": "tfc:block/rock/raw/conglomerate",
+				"x": 270,
+				"y": 270
+			},
+			{
+				"model": "tfc:block/rock/raw/mirrored/conglomerate",
+				"x": 270,
+				"y": 270
+			}
+		]
+	}
+}

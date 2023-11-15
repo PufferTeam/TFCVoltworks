@@ -1,0 +1,14 @@
+name = "Astikor Carts TFC"
+filename = "TFCAstikorCarts-1.20.1-1.1.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b6ffac6f9d876586694bd447bec8e61b6c4d789f"
+
+[update]
+[update.curseforge]
+file-id = 4852419
+project-id = 844019

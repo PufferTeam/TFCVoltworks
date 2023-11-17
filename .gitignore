@@ -9,6 +9,7 @@
 !.github/**
 
 !/config/**
+!/defaultconfigs/**
 !/kubejs/**
 /config/valkyrienskies/**
 /config/jei/world/local/**

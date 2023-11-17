@@ -1,0 +1,5 @@
+#Range: -1.0 ~ 1.7976931348623157E308
+active_boiler_heater_level = 1.0
+#Range: -1.0 ~ 1.7976931348623157E308
+charcoal_forge_heater_level_scale = 2.0
+

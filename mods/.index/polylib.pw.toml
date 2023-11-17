@@ -1,0 +1,14 @@
+name = "PolyLib"
+filename = "polylib-forge-1200.0.2-build.85.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "276f7b89affb3c431c83d4403d2e5246a20e67ac"
+
+[update]
+[update.curseforge]
+file-id = 4586333
+project-id = 576589

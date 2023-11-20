@@ -2,16 +2,14 @@
 global.removeAndHide = []
 function removeAndHide(type, mod, item) {
     if (type == 'wood') {
+        let isNetherWood = global.isNetherWood(item)
         let sapling = global.getSapling(item)
         let wood = global.getWood(item)
         let log = global.getLog(item)
 
         if (mod == 'minecraft') {
-
             global.removeAndHide.push(
-                `${mod}:${item}_boat`,
                 `${mod}:${item}_button`,
-                `${mod}:${item}_chest_boat`,
                 `${mod}:${item}_fence`,
                 `${mod}:${item}_fence_gate`,
                 `${mod}:${item}_hanging_sign`,
@@ -31,6 +29,12 @@ function removeAndHide(type, mod, item) {
                     `${mod}:${item}_${cut}`
                 )
             });
+            if(!isNetherWood) {
+                global.removeAndHide.push(
+                    `${mod}:${item}_boat`,
+                    `${mod}:${item}_chest_boat`
+                )
+            }
         }
     }
     if (type == 'rock' && mod == 'create') {

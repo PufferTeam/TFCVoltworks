@@ -163,6 +163,40 @@ global.createRockTypes = [
 ];
 
 /*
+    Mekanism values
+*/
+global.mekanismMetalTypes = [
+    'osmium',
+    'tin',
+    'lead',
+    'uranium'
+]
+
+global.mekanismSpecialMetalTypes = [
+    'steel',
+    'bronze',
+    'refined_obsidian',
+    'refined_glowstone'
+]
+
+/*
+    Immersive Engineering values
+*/
+global.ieMetalTypes = [
+    'aluminum',
+    'lead',
+    'silver',
+    'nickel',
+    'uranium'
+]
+
+global.ieSpecialMetalTypes = [
+    'constantan',
+    'electrum',
+    'steel'
+]
+
+/*
     Vanilla Minecraft values
 */
 global.vanillaWoodTypes = [
@@ -178,22 +212,56 @@ global.vanillaWoodTypes = [
     'cherry'
 ];
 
+global.vanillaMetalTypes = [
+    'iron',
+    'copper',
+    'gold',
+]
+
+global.vanillaArmorToolTypes = [
+    'diamond',
+    'netherite'
+]
+
+global.vanillaToolTypes = [
+    'wooden',
+    'stone'
+]
+
+global.vanillaGemTypes = [
+    'coal',
+    'diamond',
+    'emerald',
+    'lapis'
+]
+
 global.vanillaRockTypes = [
-    'stone',
-    'mossy_cobblestone',
-    'mossy_stone_brick',
-    'stone_brick',
-    'cobblestone',
-    'deepslate_tile',
-    'deepslate_brick',
     'andesite',
     'granite',
-    'diorite',
-    'deepslate',
-    'red_sandstone',
-    'sandstone',
-    'cobbled_deepslate'
+    'diorite'
 ];
+
+global.vanillaSandstoneTypes = [
+    'red_sandstone',
+    'sandstone'
+]
+
+global.vanillaCutBlocks = [
+    'blackstone',
+    'polished_blackstone',
+    'polished_blackstone_bricks',
+    'polished_deepslate',
+    'cobbled_deepslate',
+    'cobblestone',
+    'deepslate_bricks',
+    'deepslate_tiles',
+    'mossy_cobblestone',
+    'mossy_stone_bricks',
+    'mud_bricks',
+    'stone',
+    'smooth_stone',
+    'stone_bricks'
+]
 
 global.vanillaFoodTypes = [
     'beef',
@@ -202,6 +270,7 @@ global.vanillaFoodTypes = [
     'carrot',
     'baked_potato',
     'pufferfish',
+    'melon_slice',
     'cod',
     'apple',
     'potato',
@@ -254,6 +323,9 @@ global.vanillaItems = [
     'azure_bluet',
     'pink_tulip',
     'oxeye_daisy',
+    'pink_petals',
+    'suspicious_sand',
+    'suspicious_sand',
     'cornflower',
     'lily_of_the_valley',
     'brown_mushroom',
@@ -261,6 +333,12 @@ global.vanillaItems = [
     'crimson_fungus',
     'warped_fungus',
     'sugar_cane',
+    'tadpole_bucket',
+    'mangrove_roots',
+    'muddy_mangrove_roots',
+    'packed_mud',
+    'mud',
+    'iron_bars',
     'moss_carpet',
     'big_dripleaf',
     'small_dripleaf',
@@ -283,6 +361,9 @@ global.vanillaItems = [
     'infested_cracked_stone_bricks',
     'infested_chiseled_stone_bricks',
     'infested_deepslate',
+    'bamboo_mosaic',
+    'bamboo_mosaic_slab',
+    'bamboo_mosaic_stairs',
     'pufferfish_bucket',
     'salmon_bucket',
     'cod_bucket',

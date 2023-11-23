@@ -21,7 +21,7 @@
 	bulkCutting = false
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
-	allowBrewingInMixer = true
+	allowBrewingInMixer = false
 	#.
 	#Allow any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
 	allowShapelessInMixer = true
@@ -46,7 +46,7 @@
 	allowCastingBySpout = true
 	#.
 	#Display vanilla Log-stripping interactions in JEI.
-	displayLogStrippingRecipes = true
+	displayLogStrippingRecipes = false
 	#.
 	#The amount of Light sources destroyed before Chromatic Compound turns into Refined Radiance.
 	#Range: > 1

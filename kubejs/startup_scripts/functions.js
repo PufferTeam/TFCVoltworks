@@ -66,6 +66,16 @@ global.getWood = function getWood(i) {
     return i2
 }
 
+global.getBoat = function getBoat(i) {
+    let i2 = 'boat'
+
+    if (i == 'bamboo') {
+        i2 = 'raft'
+    }
+
+    return i2
+}
+
 global.getCutPrefix = function getCutPrefix(i) {
     let i2 = i
 
@@ -91,6 +101,16 @@ global.getSingleItem = function getSingleItem(i) {
 
     if(i == 'lapis') {
         i2 = 'lapis_lazuli'
+    }
+
+    return i2
+}
+
+global.getToolItem = function getToolItem(i) {
+    let i2 = i
+
+    if(i == 'gold') {
+        i2 = 'golden'
     }
 
     return i2

@@ -1,6 +1,6 @@
 JEIEvents.hideItems(event => {
-    global.itemsToHide.forEach(i => event.hide([Item.of(i).ignoreNBT()]));
-    global.fluidsToHide.forEach(i => event.hide([Item.of(`${i}_bucket`).ignoreNBT()]));
+    global.itemsToHide.forEach(i => event.hide([Item.of(i)]));
+    global.fluidsToHide.forEach(i => event.hide([Item.of(`${i}_bucket`)]));
 })
 
 JEIEvents.hideFluids(event => {

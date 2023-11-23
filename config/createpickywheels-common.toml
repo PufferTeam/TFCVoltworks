@@ -3,7 +3,7 @@
 [waterwheels]
 	#The minimum amount of fluid blocks the waterwheel needs to find before rotation begins.
 	#Range: > 1
-	waterwheelThreshold = 3200
+	waterwheelThreshold = 1000
 	#The maximum distance a waterwheel can consider fluid blocks from.
 	#Range: > 1
 	waterwheelRange = 128

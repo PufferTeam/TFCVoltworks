@@ -20,6 +20,7 @@ function removeAndHide(type, mod, item) {
         let sapling = global.getSapling(item)
         let wood = global.getWood(item)
         let log = global.getLog(item)
+        let boat = global.getBoat(item)
 
         if (mod == 'tfc') {
             global.removeAndHide.push(
@@ -42,7 +43,12 @@ function removeAndHide(type, mod, item) {
                 `${mod}:${item}_pressure_plate`,
                 `${mod}:${item}_${sapling}`,
                 `${mod}:${item}_sign`,
-                `${mod}:${item}_trapdoor`
+                `${mod}:${item}_trapdoor`,
+                `create:${item}_window`,
+                `create:${item}_window_pane`,
+                `railways:track_${item}`,
+                `railways:track_${item}_wide`,
+                `railways:track_${item}_narrow`
             )
             if (item !== 'bamboo') {
                 global.removeAndHide.push(
@@ -60,8 +66,8 @@ function removeAndHide(type, mod, item) {
             });
             if (!isNetherWood) {
                 global.removeAndHide.push(
-                    `${mod}:${item}_boat`,
-                    `${mod}:${item}_chest_boat`,
+                    `${mod}:${item}_${boat}`,
+                    `${mod}:${item}_chest_${boat}`,
                     `smallships:${item}_cog`,
                     `smallships:${item}_brigg`,
                     `smallships:${item}_galley`
@@ -137,16 +143,16 @@ function removeAndHide(type, mod, item) {
 
         if (mod == 'minecraft' || mod == 'immersiveengineering') {
             global.removeAndHide.push(
-                `immersiveengineering:plate_${item}`
-                    `immersiveengineering:nugget_${item}`,
-                `immersiveengineering:dust_${item}`,
+                `immersiveengineering:plate_${item}`,
+                `immersiveengineering:nugget_${item}`,
+                `immersiveengineering:dust_${item}`
             )
         }
         if (mod == 'immersiveengineering') {
             global.removeAndHide.push(
                 `${mod}:ingot_${item}`,
                 `${mod}:storage_${item}`,
-                `${mod}:slab_storage_${item}`,
+                `${mod}:slab_storage_${item}`
             )
         }
         if (mod == 'mekanism') {
@@ -183,20 +189,22 @@ function removeAndHide(type, mod, item) {
     }
 
     if (type == 'metal' || type == 'armor_tool' || type == 'tool') {
+        let toolItem = global.getToolItem(item)
+ 
         global.removeAndHide.push(
-            `${mod}:${item}_shovel`,
-            `${mod}:${item}_pickaxe`,
-            `${mod}:${item}_axe`,
-            `${mod}:${item}_hoe`,
-            `${mod}:${item}_sword`
+            `${mod}:${toolItem}_shovel`,
+            `${mod}:${toolItem}_pickaxe`,
+            `${mod}:${toolItem}_axe`,
+            `${mod}:${toolItem}_hoe`,
+            `${mod}:${toolItem}_sword`
         )
 
         if (type == 'armor_tool' || type == 'metal') {
             global.removeAndHide.push(
-                `${mod}:${item}_helmet`,
-                `${mod}:${item}_chestplate`,
-                `${mod}:${item}_leggings`,
-                `${mod}:${item}_boots`
+                `${mod}:${toolItem}_helmet`,
+                `${mod}:${toolItem}_chestplate`,
+                `${mod}:${toolItem}_leggings`,
+                `${mod}:${toolItem}_boots`
             )
         }
     }
@@ -207,6 +215,8 @@ removeAndHide('wood', 'minecraft', 'bamboo')
 global.vanillaMetalTypes.forEach(i => removeAndHide('metal', 'minecraft', i));
 global.vanillaArmorToolTypes.forEach(i => removeAndHide('armor_tool', 'minecraft', i));
 global.vanillaToolTypes.forEach(i => removeAndHide('tool', 'minecraft', i));
+global.vanillaGemTypes.forEach(i => removeAndHide('gem', 'minecraft', i));
+global.vanillaMeatTypes.forEach(i => removeAndHide('meat', 'minecraft', i));
 
 global.mekanismMetalTypes.forEach(i => removeAndHide('metal', 'mekanism', i));
 global.mekanismSpecialMetalTypes.forEach(i => removeAndHide('alloy', 'mekanism', i));
@@ -219,7 +229,7 @@ global.tfcWoodTypes.forEach(i => removeAndHide('wood', 'tfc', i));
 global.createRockTypes.forEach(i => removeAndHide('rock', 'create', i));
 
 global.vanillaItems.forEach(i => global.removeAndHide.push(`minecraft:${i}`));
-global.vanillaFoodTypes.forEach(i => global.removeAndHide.push(`minecraft:${i}`));
+global.vanillaMeatTypes.forEach(i => global.removeAndHide.push(`minecraft:cooked_${i}`));
 
 global.vanillaSandstoneTypes.forEach(i => {
     removeAndHide('cut', 'minecraft', i)

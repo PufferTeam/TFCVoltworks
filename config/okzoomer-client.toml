@@ -44,7 +44,7 @@
 [values]
 	#The divisor applied to the FOV when zooming.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	zoom_divisor = 4.0
+	zoom_divisor = 2.0
 	#The minimum value that you can scroll down.
 	#Range: 0.0 ~ 1.7976931348623157E308
 	minimum_zoom_divisor = 1.0
@@ -80,5 +80,5 @@
 	#If enabled, the zoom will use spyglass sounds on zooming in and out.
 	use_spyglass_sounds = false
 	#Shows toasts when the server imposes a restriction.
-	show_restriction_toasts = true
+	show_restriction_toasts = false
 

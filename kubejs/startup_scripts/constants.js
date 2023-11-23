@@ -231,6 +231,7 @@ global.vanillaToolTypes = [
 global.vanillaGemTypes = [
     'coal',
     'diamond',
+    'redstone',
     'emerald',
     'lapis'
 ]
@@ -264,14 +265,11 @@ global.vanillaCutBlocks = [
 ]
 
 global.vanillaFoodTypes = [
-    'beef',
-    'porkchop',
     'rabbit_stew',
     'carrot',
     'baked_potato',
     'pufferfish',
     'melon_slice',
-    'cod',
     'apple',
     'potato',
     'tropical_fish',
@@ -283,12 +281,20 @@ global.vanillaFoodTypes = [
     'dried_kelp_block',
     'beetroot_soup',
     'beetroot',
-    'sweet_berries',
-    'salmon',
-    'rabbit',
-    'chicken',
-    'mutton'
+    'sweet_berries'
 ];
+
+global.vanillaMeatTypes = [
+    'beef',
+    'porkchop',
+    'mutton',
+    'chicken',
+    'rabbit',
+    'cod',
+    'salmon'
+]
+
+global.vanillaMeatTypes.forEach(i => global.vanillaFoodTypes.push(i));
 
 global.vanillaItems = [
     'calcite',
@@ -303,6 +309,7 @@ global.vanillaItems = [
     'red_sand',
     'nether_gold_ore',
     'bookshelf',
+    'chiseled_bookshelf',
     'pumpkin',
     'jack_o_lantern',
     'melon',
@@ -324,7 +331,7 @@ global.vanillaItems = [
     'pink_tulip',
     'oxeye_daisy',
     'pink_petals',
-    'suspicious_sand',
+    'suspicious_gravel',
     'suspicious_sand',
     'cornflower',
     'lily_of_the_valley',
@@ -332,6 +339,7 @@ global.vanillaItems = [
     'red_mushroom',
     'crimson_fungus',
     'warped_fungus',
+    'stripped_bamboo_block',
     'sugar_cane',
     'tadpole_bucket',
     'mangrove_roots',
@@ -354,6 +362,35 @@ global.vanillaItems = [
     'soul_campfire',
     'hanging_roots',
     'chest_minecart',
+    'deepslate',
+    'chiseled_deepslate',
+    'cracked_deepslate_bricks',
+    'cracked_deepslate_tiles',
+    'reinforced_deepslate',
+    'stone_pressure_plate',
+    'stone_button',
+    'cracked_stone_bricks',
+    'chiseled_stone_bricks',
+    'gilded_blackstone',
+    'chiseled_polished_blackstone',
+    'polished_blackstone_pressure_plate',
+    'polished_blackstone_button',
+    'cracked_polished_blackstone_bricks',
+    'gravel',
+    'torchflower',
+    'torchflower_seeds',
+    'pitcher_plant',
+    'pitcher_pod',
+    'sniffer_egg',
+    'basalt',
+    'smooth_basalt',
+    'polished_basalt',
+    'suspicious_stew',
+    'glass_bottle',
+    'potion',
+    'splash_potion',
+    'lingering_potion',
+    'experience_bottle',
     'infested_stone',
     'infested_cobblestone',
     'infested_stone_bricks',
@@ -411,9 +448,10 @@ global.vanillaItems = [
     'pointed_dripstone',
     'spore_blossom',
     'wheat_seeds',
+    'wheat',
+    'netherite_ingot',
     'pumpkin_seeds',
     'iron_horse_armor',
-    'ladder',
     'golden_horse_armor',
     'beetroot_seeds',
     'fishing_rod',
@@ -424,3 +462,5 @@ global.vanillaItems = [
     'rabbit_hide',
     'dirt_path'
 ];
+
+global.vanillaFoodTypes.forEach(i => global.vanillaItems.push(i));

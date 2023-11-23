@@ -1,4 +1,4 @@
 allowCaveModeOnServer:true
 allowNetherCaveModeOnServer:true
 allowRadarOnServer:true
-registerStatusEffects:true
+registerStatusEffects:false

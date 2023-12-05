@@ -1,0 +1,14 @@
+name = "Enchanting With TFC"
+filename = "Enchanting With TFC 1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d9d229e53aefdc91b11261619678d734c5416072"
+
+[update]
+[update.curseforge]
+file-id = 4903593
+project-id = 943255

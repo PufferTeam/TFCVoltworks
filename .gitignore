@@ -12,6 +12,7 @@
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
+!/mods/**
 /config/valkyrienskies/**
 /config/jei/world/local/**
 /config/oculus.properties

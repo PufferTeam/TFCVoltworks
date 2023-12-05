@@ -3,12 +3,12 @@ filename = "kotlinforforge-4.6.2-all.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/ordsPcFz/versions/fhSab9Bt/kotlinforforge-4.6.2-all.jar"
-hash-format = "sha512"
-hash = "286acdd904b943eb461d733d171e3dd4f2da8d693019613b6f0f1e88aab805e919bcc1d3973ea4622fbf57fb244fad1b5c3e7a5fbf6c0019ed41f690c844aed9"
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3b27dd4ffeb1bc0e7ca2dfae34c4084aa99585cc"
 
 [update]
-[update.modrinth]
-mod-id = "ordsPcFz"
-version = "fhSab9Bt"
+[update.curseforge]
+file-id = 4865762
+project-id = 351264

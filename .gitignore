@@ -7,13 +7,11 @@
 !config.json
 !.gitattributes
 !.github/**
-!pakku**
+!pakku-lock.json
 
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
-!/mods/**
 /config/valkyrienskies/**
 /config/jei/world/local/**
 /config/oculus.properties
-!/mods/.index/**

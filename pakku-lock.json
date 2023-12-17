@@ -669,16 +669,17 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "createpickywheels-forge-1.20.1-230708T15.jar",
+                    "file_name": "createpickywheels-forge-1.20.1-231004T00.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
+                        "neoforge",
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4631/741/createpickywheels-forge-1.20.1-230708T15.jar",
-                    "id": 4631741,
+                    "url": "https://edge.forgecdn.net/files/4781/339/createpickywheels-forge-1.20.1-231004T00.jar",
+                    "id": 4781339,
                     "required_dependencies": [
                         "328085"
                     ]
@@ -846,7 +847,7 @@
                 "modrinth": "curios"
             },
             "name": {
-                "curseforge": "Curios API (Forge)",
+                "curseforge": "Curios API (Forge/NeoForge)",
                 "modrinth": "Curios API"
             },
             "id": {
@@ -952,26 +953,29 @@
             ]
         },
         {
-            "pakku_id": "nCRMhzv5y4ygU5g9",
+            "pakku_id": "040weIQWsWvCTelX",
             "pakku_links": [
                 "UykqmsQQYPHUUDxY"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "embeddium-plus"
+                "curseforge": "embeddium-plus",
+                "modrinth": "embeddiumplus"
             },
             "name": {
-                "curseforge": "Embeddium++"
+                "curseforge": "Embeddium++",
+                "modrinth": "Embeddium++"
             },
             "id": {
-                "curseforge": "931925"
+                "curseforge": "931925",
+                "modrinth": "yD9qW65f"
             },
             "files": [
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "embeddiumplus-1.20.1-v1.0.1.jar",
+                    "file_name": "embeddiumplus-1.20.1-v1.1.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -980,10 +984,31 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4834/382/embeddiumplus-1.20.1-v1.0.1.jar",
-                    "id": 4834382,
+                    "url": "https://edge.forgecdn.net/files/4958/320/embeddiumplus-1.20.1-v1.1.0.jar",
+                    "id": 4958320,
                     "required_dependencies": [
                         "908741"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "embeddiumplus-1.20.1-v1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/SaEEcVyn/embeddiumplus-1.20.1-v1.1.0.jar",
+                    "hashes": {
+                        "sha512": "1de714a00e3c3f73e908a4f63da5ffb27fc0624dbc8aaf402b4a401f33b2cf6820692c176e468f18d76e99ad943bb8fa0ccd52e3b652d78d9bd07e7bef07e0b5",
+                        "sha1": "e6c9a0264fe6e524da4147a13a31f37d59fcae77"
+                    },
+                    "required_dependencies": [
+                        "sk9rgfiA"
                     ]
                 }
             ]
@@ -1050,9 +1075,9 @@
             ]
         },
         {
-            "pakku_id": "eunzcO7HbFAdp9Om",
+            "pakku_id": "R35wSquP3ZgXCzIC",
             "pakku_links": [
-                "sBf0lNn7Mo17qhMF"
+                "nIbbUsvAZEU8UL3s"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -1495,7 +1520,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "FTBQuestsOptimizer-forge-1.1.3-1.20.1.jar",
+                    "file_name": "FTBQuestsOptimizer-forge-1.1.5-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1504,8 +1529,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4825/750/FTBQuestsOptimizer-forge-1.1.3-1.20.1.jar",
-                    "id": 4825750,
+                    "url": "https://edge.forgecdn.net/files/4956/177/FTBQuestsOptimizer-forge-1.1.5-1.20.1.jar",
+                    "id": 4956177,
                     "required_dependencies": [
                         "289412"
                     ]
@@ -1608,7 +1633,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "gravestone-1.20.1-1.0.5.jar",
+                    "file_name": "gravestone-1.20.1-1.0.10.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1617,8 +1642,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4678/861/gravestone-1.20.1-1.0.5.jar",
-                    "id": 4678861,
+                    "url": "https://edge.forgecdn.net/files/4913/787/gravestone-1.20.1-1.0.10.jar",
+                    "id": 4913787,
                     "required_dependencies": [
                     ]
                 },
@@ -1838,7 +1863,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "ItemPhysic_FORGE_v1.6.15_mc1.20.1.jar",
+                    "file_name": "ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1847,8 +1872,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4814/268/ItemPhysic_FORGE_v1.6.15_mc1.20.1.jar",
-                    "id": 4814268,
+                    "url": "https://edge.forgecdn.net/files/4914/117/ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
+                    "id": 4914117,
                     "required_dependencies": [
                         "257814"
                     ]
@@ -1896,7 +1921,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "Jade-1.20.1-forge-11.6.3.jar",
+                    "file_name": "Jade-1.20.1-forge-11.6.4.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -1904,9 +1929,9 @@
                     "loaders": [
                         "forge"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4801/177/Jade-1.20.1-forge-11.6.3.jar",
-                    "id": 4801177,
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4961/520/Jade-1.20.1-forge-11.6.4.jar",
+                    "id": 4961520,
                     "required_dependencies": [
                     ]
                 },
@@ -1952,7 +1977,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "JadeAddons-1.20.1-forge-5.2.1.jar",
+                    "file_name": "JadeAddons-1.20.1-forge-5.2.2.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -1962,8 +1987,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4848/425/JadeAddons-1.20.1-forge-5.2.1.jar",
-                    "id": 4848425,
+                    "url": "https://edge.forgecdn.net/files/4925/840/JadeAddons-1.20.1-forge-5.2.2.jar",
+                    "id": 4925840,
                     "required_dependencies": [
                         "324717"
                     ]
@@ -2228,7 +2253,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre069_mc1.20.1.jar",
+                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2237,8 +2262,8 @@
                         "forge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/4875/436/LittleTiles_ALPHA_v1.6.0-pre069_mc1.20.1.jar",
-                    "id": 4875436,
+                    "url": "https://edge.forgecdn.net/files/4959/610/LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
+                    "id": 4959610,
                     "required_dependencies": [
                         "257814"
                     ]
@@ -2548,23 +2573,6 @@
             },
             "files": [
                 {
-                    "_internal": "CfFile",
-                    "type": "curseforge",
-                    "file_name": "MouseTweaks-forge-mc1.20-2.25.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4581/240/MouseTweaks-forge-mc1.20-2.25.jar",
-                    "id": 4581240,
-                    "required_dependencies": [
-                    ]
-                },
-                {
                     "_internal": "MrFile",
                     "type": "modrinth",
                     "file_name": "MouseTweaks-forge-mc1.20-2.25.jar",
@@ -2697,17 +2705,20 @@
             ]
         },
         {
-            "pakku_id": "iewvtAs5wNkWpYt1",
+            "pakku_id": "5uEHCb3wbcekAt9K",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "not-enough-crashes-forge"
+                "curseforge": "not-enough-crashes-forge",
+                "modrinth": "notenoughcrashes"
             },
             "name": {
-                "curseforge": "Not Enough Crashes (Forge)"
+                "curseforge": "Not Enough Crashes (Forge)",
+                "modrinth": "Not Enough Crashes"
             },
             "id": {
-                "curseforge": "442354"
+                "curseforge": "442354",
+                "modrinth": "yM94ont6"
             },
             "files": [
                 {
@@ -2723,6 +2734,25 @@
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/4684/47/notenoughcrashes-4.4.6+1.20.1-forge.jar",
                     "id": 4684047,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "notenoughcrashes-4.4.6+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yM94ont6/versions/YEZifFXd/notenoughcrashes-4.4.6%2B1.20.1-forge.jar",
+                    "hashes": {
+                        "sha512": "60763632b70a146d2405db7024cbcfdacf405899a9cda2c974e7b5f84de0b40d4de1ce7cebdab539b2c1879c5cc4890e667f8f7613076d5ef123e073eb08dc8c",
+                        "sha1": "822196bf1be350fea8d9695f2a2de41961ae0626"
+                    },
                     "required_dependencies": [
                     ]
                 }
@@ -2891,7 +2921,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "polylib-forge-1200.0.2-build.85.jar",
+                    "file_name": "polylib-forge-2000.0.3-build.97.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -2901,8 +2931,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4586/333/polylib-forge-1200.0.2-build.85.jar",
-                    "id": 4586333,
+                    "url": "https://edge.forgecdn.net/files/4893/433/polylib-forge-2000.0.3-build.97.jar",
+                    "id": 4893433,
                     "required_dependencies": [
                         "419699"
                     ]
@@ -3076,17 +3106,20 @@
             ]
         },
         {
-            "pakku_id": "sBf0lNn7Mo17qhMF",
+            "pakku_id": "nIbbUsvAZEU8UL3s",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "selene"
+                "curseforge": "selene",
+                "modrinth": "moonlight"
             },
             "name": {
-                "curseforge": "Moonlight Lib"
+                "curseforge": "Moonlight Lib",
+                "modrinth": "Moonlight Lib"
             },
             "id": {
-                "curseforge": "499980"
+                "curseforge": "499980",
+                "modrinth": "twkfQtEc"
             },
             "files": [
                 {
@@ -3102,6 +3135,25 @@
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/4915/903/moonlight-1.20-2.8.67-forge.jar",
                     "id": 4915903,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "moonlight-1.20-2.8.67-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/3sq8rKNi/moonlight-1.20-2.8.67-forge.jar",
+                    "hashes": {
+                        "sha512": "b00e0d9faa95ed322079262e1b09ad54fd01811682907a08e1ec3ff4a5904957118d8a42ccbc1066b7f5fc7beaaba0df018baf3d25190512bc0d0d8710f5fac3",
+                        "sha1": "f6e91cbab790ed0d752331cea34a583c21260ab7"
+                    },
                     "required_dependencies": [
                     ]
                 }
@@ -3247,7 +3299,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "textrues_embeddium_options-0.1.2+mc1.20.1.jar",
+                    "file_name": "textrues_embeddium_options-0.1.3+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -3257,8 +3309,8 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4779/7/textrues_embeddium_options-0.1.2+mc1.20.1.jar",
-                    "id": 4779007,
+                    "url": "https://edge.forgecdn.net/files/4866/426/textrues_embeddium_options-0.1.3%2bmc1.20.1.jar",
+                    "id": 4866426,
                     "required_dependencies": [
                         "908741"
                     ]
@@ -3304,7 +3356,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "tfcambiental-1.20.1-3.0.0.jar",
+                    "file_name": "tfcambiental-1.20.1-3.2.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3312,9 +3364,9 @@
                         "neoforge",
                         "forge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4881/987/tfcambiental-1.20.1-3.0.0.jar",
-                    "id": 4881987,
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4922/586/tfcambiental-1.20.1-3.2.0.jar",
+                    "id": 4922586,
                     "required_dependencies": [
                     ]
                 }
@@ -3375,7 +3427,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "TFC-IE-Crossover-1.20.1-1.1.0.jar",
+                    "file_name": "TFC-IE-Crossover-1.20.1-1.1.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3383,8 +3435,8 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4896/570/TFC-IE-Crossover-1.20.1-1.1.0.jar",
-                    "id": 4896570,
+                    "url": "https://edge.forgecdn.net/files/4958/534/TFC-IE-Crossover-1.20.1-1.1.4.jar",
+                    "id": 4958534,
                     "required_dependencies": [
                         "302973",
                         "231951"
@@ -3482,7 +3534,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "Xaeros_Minimap_23.8.4_Forge_1.20.jar",
+                    "file_name": "Xaeros_Minimap_23.9.3_Forge_1.20.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -3491,8 +3543,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4812/568/Xaeros_Minimap_23.8.4_Forge_1.20.jar",
-                    "id": 4812568,
+                    "url": "https://edge.forgecdn.net/files/4933/782/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+                    "id": 4933782,
                     "required_dependencies": [
                     ]
                 },

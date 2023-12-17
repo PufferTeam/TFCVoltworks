@@ -1,0 +1,3578 @@
+{
+    "mc_versions": [
+        "1.20.1"
+    ],
+    "loaders": [
+        "forge",
+        "neoforge"
+    ],
+    "projects": [
+        {
+            "pakku_id": "E0vyga1Rw6qTfWDe",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "achievements-optimizer"
+            },
+            "name": {
+                "curseforge": "Achievements Optimizer"
+            },
+            "id": {
+                "curseforge": "912788"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "AchievementOptimizer-1.20.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4791/478/AchievementOptimizer-1.20.1-1.0.2.jar",
+                    "id": 4791478,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "B2iSSbSMsgySyPqm",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "additional-placements"
+            },
+            "name": {
+                "curseforge": "Additional Placements"
+            },
+            "id": {
+                "curseforge": "674852"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "AdditionalPlacements-1.20-1.7.6.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4828/26/AdditionalPlacements-1.20-1.7.6.jar",
+                    "id": 4828026,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "vWA9YvOd4XyTHuLw",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5",
+                "D09ycrXBq7zHD68g"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "advanced-tfc-tech-unofficial"
+            },
+            "name": {
+                "curseforge": "Advanced TFC Tech Unofficial"
+            },
+            "id": {
+                "curseforge": "862559"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "AdvancedTFCTech-1.20.1-2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4875/246/AdvancedTFCTech-1.20.1-2.0.jar",
+                    "id": 4875246,
+                    "required_dependencies": [
+                        "302973",
+                        "231951"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "2MW410S1mvj6eAQ0",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "alternate-current",
+                "modrinth": "alternate-current"
+            },
+            "name": {
+                "curseforge": "Alternate Current",
+                "modrinth": "Alternate Current"
+            },
+            "id": {
+                "curseforge": "548115",
+                "modrinth": "r0v8vy1s"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "alternate_current-mc1.20-1.7.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4721/662/alternate_current-mc1.20-1.7.0.jar",
+                    "id": 4721662,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "alternate_current-mc1.20-1.7.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/kC6SY4Zp/alternate_current-mc1.20-1.7.0.jar",
+                    "hashes": {
+                        "sha512": "d9ae21a3a389c63466bf22b36d4a78c859f30c901397622f1f1438737901a2c67e4d911c83831e0d4f1edabf0b86b58f4192d9980ecef8278393fd4af64a9585",
+                        "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "OzDXE0ekHMLm1G5q",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "architectury-api",
+                "modrinth": "architectury-api"
+            },
+            "name": {
+                "curseforge": "Architectury API (Fabric/Forge/NeoForge)",
+                "modrinth": "Architectury API"
+            },
+            "id": {
+                "curseforge": "419699",
+                "modrinth": "lhGA9TYQ"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "architectury-9.1.12-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4663/10/architectury-9.1.12-forge.jar",
+                    "id": 4663010,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "architectury-9.1.12-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gyJ7kDpb/architectury-9.1.12-forge.jar",
+                    "hashes": {
+                        "sha512": "601931a281d2968c52433d6ae967f75aee655c118626a84e114bd6a6ed5fd8134df8bf379ff88d217b2befc953fc4ab55c8cd0d622b1186a9598c0080a400ded",
+                        "sha1": "49fc332e52027845caaa0098289dc9059b8eb010"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "I2yUWl0o2lfd2eeS",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "astikor-carts-redux"
+            },
+            "name": {
+                "curseforge": "AstikorCarts Redux"
+            },
+            "id": {
+                "curseforge": "916493"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "astikorcarts-1.20.x-1.1.6.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4797/195/astikorcarts-1.20.x-1.1.6.jar",
+                    "id": 4797195,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "i3kMdmCTeOAICkGS",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5",
+                "I2yUWl0o2lfd2eeS"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "astikor-carts-tfc"
+            },
+            "name": {
+                "curseforge": "Astikor Carts TFC"
+            },
+            "id": {
+                "curseforge": "844019"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "TFCAstikorCarts-1.20.1-1.1.7.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4893/142/TFCAstikorCarts-1.20.1-1.1.7.2.jar",
+                    "id": 4893142,
+                    "required_dependencies": [
+                        "302973",
+                        "916493"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "snEwKoPJdJifXgaD",
+            "pakku_links": [
+                "8N7X6lF3CgGjLtWO",
+                "d4OQyKAh8lqVb8lv"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "better-fusion-reactor-for-mekanism",
+                "modrinth": "better-fusion-reactor-for-mekanism"
+            },
+            "name": {
+                "curseforge": "Better Fusion Reactor for Mekanism PLUS",
+                "modrinth": "Better Fusion Reactor for Mekanism"
+            },
+            "id": {
+                "curseforge": "602409",
+                "modrinth": "ZUDRV4lN"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "BetterFusionReactor-1.20.1-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4777/406/BetterFusionReactor-1.20.1-1.4.5.jar",
+                    "id": 4777406,
+                    "required_dependencies": [
+                        "268566"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "BetterFusionReactor-1.20.1-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZUDRV4lN/versions/YSu2e6HI/BetterFusionReactor-1.20.1-1.4.5.jar",
+                    "hashes": {
+                        "sha512": "a46803936e52037b2443225acce34a3f09806e5b54003e394812c53c6a041b073a9b6de4f149da9262239dd07cce1ab6d0bf4b4447b9fdac502ee267d510f44b",
+                        "sha1": "6ac3556ea89b865e3367164aff3963a6ef3b984d"
+                    },
+                    "required_dependencies": [
+                        "Ce6I4WUE"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "4hktjp7oPNTsZc7a",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "better-mods-button",
+                "modrinth": "better-mods-button"
+            },
+            "name": {
+                "curseforge": "Better Mods Button [Forge]",
+                "modrinth": "Better Mods Button"
+            },
+            "id": {
+                "curseforge": "541584",
+                "modrinth": "KUZAAwdD"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "BetterModsButton-v8.0.2-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4665/757/BetterModsButton-v8.0.2-1.20.1-Forge.jar",
+                    "id": 4665757,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "BetterModsButton-v8.0.2-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KUZAAwdD/versions/bSoVaTgS/BetterModsButton-v8.0.2-1.20.1-Forge.jar",
+                    "hashes": {
+                        "sha512": "a2235c03fa59f28e2b934a325d81487b6ae7783e28177a095f109c0f453fb7327c9d74739fbfe206b82d33361c0965d633689b29bd0e5367751820aadb598634",
+                        "sha1": "74eec3644288d57ad1c64fff2551ca82d0b959c0"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "T7Dvy7P7e0rVEAJh",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "comforts",
+                "modrinth": "comforts"
+            },
+            "name": {
+                "curseforge": "Comforts (Fabric/Forge/Quilt)",
+                "modrinth": "Comforts"
+            },
+            "id": {
+                "curseforge": "276951",
+                "modrinth": "SaCpeal4"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "comforts-forge-6.3.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4803/941/comforts-forge-6.3.4+1.20.1.jar",
+                    "id": 4803941,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "comforts-forge-6.3.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/3nNu4JfG/comforts-forge-6.3.4%2B1.20.1.jar",
+                    "hashes": {
+                        "sha512": "e800c7d0a358764542f69f049a770091635cd7b750459e5d9439135a64399405ab0f1b7c1c44b8e66ce58b0ef4ac2480a4d13568409237102e511a3e096fd1c4",
+                        "sha1": "def98ee2f3ff89dc1cc8762a65097b36fe00fea8"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "g9mTA6JBZXX4WFK2",
+            "pakku_links": [
+                "cU54c5xiqOMZjlef"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "controlling",
+                "modrinth": "controlling"
+            },
+            "name": {
+                "curseforge": "Controlling",
+                "modrinth": "Controlling"
+            },
+            "id": {
+                "curseforge": "250398",
+                "modrinth": "xv94TkTM"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Controlling-forge-1.20.1-12.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
+                    "id": 4646682,
+                    "required_dependencies": [
+                        "858542"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Controlling-forge-1.20.1-12.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar",
+                    "hashes": {
+                        "sha512": "3945bf3f6d843957f13584dfc70bede253d1e48f0dcb96f647fbcc6fcd3d1748a0dd9c6ca5c882e07a41f98eb84057934f51e43ab6023ed0a19695de2e6fe9f5",
+                        "sha1": "6195a3d1464f8fb641d7e165163aea1a857ce08e"
+                    },
+                    "required_dependencies": [
+                        "fuuu3xnx"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "bTwZhv2221dTRQwB",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create",
+                "modrinth": "create"
+            },
+            "name": {
+                "curseforge": "Create",
+                "modrinth": "Create"
+            },
+            "id": {
+                "curseforge": "328085",
+                "modrinth": "LNytGWDc"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "create-1.20.1-0.5.1.f.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4835/191/create-1.20.1-0.5.1.f.jar",
+                    "id": 4835191,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "create-1.20.1-0.5.1.f.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/HNYrbfZZ/create-1.20.1-0.5.1.f.jar",
+                    "hashes": {
+                        "sha512": "426c1ce8b9cbaa3b3d6964ff5669401734146648ae024b14ea1e7bfc0768fb768310a7e464b81d40eac1cf07b24c4a7b01c84dfc879ed637c05947c6b6516961",
+                        "sha1": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "4twuqmiMMjMP4J9A",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-big-cannons",
+                "modrinth": "create-big-cannons"
+            },
+            "name": {
+                "curseforge": "Create Big Cannons",
+                "modrinth": "Create Big Cannons"
+            },
+            "id": {
+                "curseforge": "646668",
+                "modrinth": "GWp4jCJj"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4921/486/createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "id": 4921486,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/Ho4pNC1O/createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "hashes": {
+                        "sha512": "b2f906251cdaee135d8f607c3ca24331a8a7b5299626a3afc6463050e57e02333340e61ef35062f7480043476c80f6079091ac060689707c219c2885dba93844",
+                        "sha1": "52596cd8e234376a8350abef044c656d0c8cbd88"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "7aG6i0YlM4XBh6jK",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-picky-waterwheels"
+            },
+            "name": {
+                "curseforge": "Create Picky Wheels"
+            },
+            "id": {
+                "curseforge": "866839"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "createpickywheels-forge-1.20.1-230708T15.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4631/741/createpickywheels-forge-1.20.1-230708T15.jar",
+                    "id": 4631741,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "cvW87n2HM38MYqs5",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-trains-on-trains"
+            },
+            "name": {
+                "curseforge": "Create: Trains On Trains"
+            },
+            "id": {
+                "curseforge": "910134"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "create_trains_on_trains-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4738/574/create_trains_on_trains-1.0.0.jar",
+                    "id": 4738574,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "QnZSqMIrRh3gt0Za",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "createaddition",
+                "modrinth": "createaddition"
+            },
+            "name": {
+                "curseforge": "Create Crafts & Additions",
+                "modrinth": "Create Crafts & Additions"
+            },
+            "id": {
+                "curseforge": "439890",
+                "modrinth": "kU1G12Nn"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "createaddition-1.20.1-1.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4929/694/createaddition-1.20.1-1.2.1.jar",
+                    "id": 4929694,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "createaddition-1.20.1-1.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/DVqXwgYF/createaddition-1.20.1-1.1.1.jar",
+                    "hashes": {
+                        "sha512": "227bcc62f3549f683b205548111e7a8f5678b03a634fe13dbd17d95b5482858c6a51e30bedf66cea355943a220ad8a6ac2ad86f6e56d0011193bda65b5835fa0",
+                        "sha1": "c121a8b15fa28d7fe491e9ba0ee03211e22293da"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "cDy62N4WYAl2hFbX",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "creativecore",
+                "modrinth": "creativecore"
+            },
+            "name": {
+                "curseforge": "CreativeCore",
+                "modrinth": "CreativeCore"
+            },
+            "id": {
+                "curseforge": "257814",
+                "modrinth": "OsZiaDHq"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4959/575/CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "id": 4959575,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/oKn0NhvA/CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "d8ec9a7ddf4f21f38375eebab05c5b9171a54681b886ee57e7f6427f8fe7fe13efae2e45d062acdf21f7722aa3d5b85806e7d0305b5b9c992fcbff1dbde18026",
+                        "sha1": "639c4ff15cd648a4ec0cb4137bbdbcfb11f917dc"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "sNrhkBfrkxCAsv1d",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "curios",
+                "modrinth": "curios"
+            },
+            "name": {
+                "curseforge": "Curios API (Forge)",
+                "modrinth": "Curios API"
+            },
+            "id": {
+                "curseforge": "309927",
+                "modrinth": "vvuO3ImH"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "curios-forge-5.4.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4960/408/curios-forge-5.4.6%2b1.20.1.jar",
+                    "id": 4960408,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "curios-forge-5.4.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nSNsIPLm/curios-forge-5.4.6%2B1.20.1.jar",
+                    "hashes": {
+                        "sha512": "9e574a6543cbb8db6463e41c79b2fa7d92fd30be512ea5052566571e9f8467384ca52817d33975fe558a91f1e4d20159cb5d6316d60ec8a9de1b04b3d43c2adf",
+                        "sha1": "c2304fed45b8becbe7c587eec58cbb8ef00a9a45"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "UykqmsQQYPHUUDxY",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "embeddium",
+                "modrinth": "embeddium"
+            },
+            "name": {
+                "curseforge": "Embeddium",
+                "modrinth": "Embeddium"
+            },
+            "id": {
+                "curseforge": "908741",
+                "modrinth": "sk9rgfiA"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "embeddium-0.2.13+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4949/986/embeddium-0.2.13%2bmc1.20.1.jar",
+                    "id": 4949986,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "embeddium-0.2.13+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/tDExzaO7/embeddium-0.2.13%2Bmc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "bdc70c6207ac841f21cce7c9f925c3b4473c728a243151e60b41f65e4af079d1b91173784f6a859bdeeb12ad2f020ed8e84e64da1b64d797ea419a1d5b1764fb",
+                        "sha1": "94aebf51f2e2838b41206901e27a2a48b1a2e756"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "nCRMhzv5y4ygU5g9",
+            "pakku_links": [
+                "UykqmsQQYPHUUDxY"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "embeddium-plus"
+            },
+            "name": {
+                "curseforge": "Embeddium++"
+            },
+            "id": {
+                "curseforge": "931925"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "embeddiumplus-1.20.1-v1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4834/382/embeddiumplus-1.20.1-v1.0.1.jar",
+                    "id": 4834382,
+                    "required_dependencies": [
+                        "908741"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "eSxeuDYA9bz4BGmp",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "enchanting-with-tfc",
+                "modrinth": "enchanting-with-tfc"
+            },
+            "name": {
+                "curseforge": "Enchanting With TFC",
+                "modrinth": "Enchanting With TFC"
+            },
+            "id": {
+                "curseforge": "943255",
+                "modrinth": "RRO8GVJu"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Enchanting With TFC 1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4903/593/Enchanting%20With%20TFC%201.20.1-1.0.0.jar",
+                    "id": 4903593,
+                    "required_dependencies": [
+                        "302973"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Enchanting With TFC 1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RRO8GVJu/versions/OC9Vgjca/Enchanting%20With%20TFC%201.20.1-1.0.0.jar",
+                    "hashes": {
+                        "sha512": "085d3fe4f3699cf73476f9fb7520465bf2b890f610e5753f0362ffa15b645d5cc5a93aaa3c4e57d280f4fb623a2de089f02fbce10ef8f04627adee2b4c1889cd",
+                        "sha1": "d9d229e53aefdc91b11261619678d734c5416072"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "eunzcO7HbFAdp9Om",
+            "pakku_links": [
+                "sBf0lNn7Mo17qhMF"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "every-compat",
+                "modrinth": "every-compat"
+            },
+            "name": {
+                "curseforge": "Every Compat (Wood Good)",
+                "modrinth": "Every Compat (Wood Good)"
+            },
+            "id": {
+                "curseforge": "628539",
+                "modrinth": "eiktJyw1"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "everycomp-1.20-2.6.18.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4893/335/everycomp-1.20-2.6.18.jar",
+                    "id": 4893335,
+                    "required_dependencies": [
+                        "499980"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "everycomp-1.20-2.6.18.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/uaqJxCwc/everycomp-1.20-2.6.18.jar",
+                    "hashes": {
+                        "sha512": "037454e9800fd1b8bbd2926a3747ef32a822b92dd59de685446cb950bf3e730f579d3f5e77df7b9932243a3abfb98cf6bc449251adcbbc4075a04bc5d29d5592",
+                        "sha1": "c5b8d48dfc8d5036358e16af4c2cd52329c0f5d4"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "vXfm11uY7QFPxxn0",
+            "pakku_links": [
+                "DMmUXUB9OblZ2i0J"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fastsuite"
+            },
+            "name": {
+                "curseforge": "FastSuite"
+            },
+            "id": {
+                "curseforge": "475117"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "FastSuite-1.20.1-5.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
+                    "id": 4711435,
+                    "required_dependencies": [
+                        "283644"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "tCob2dmeMb9WoQlw",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ferritecore",
+                "modrinth": "ferrite-core"
+            },
+            "name": {
+                "curseforge": "FerriteCore (Forge)",
+                "modrinth": "FerriteCore"
+            },
+            "id": {
+                "curseforge": "429235",
+                "modrinth": "uXXizFIs"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ferritecore-6.0.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+                    "id": 4810975,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "ferritecore-6.0.1-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+                    "hashes": {
+                        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+                        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "frcRSEV02r8MtVrL",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "firmacivilization",
+                "modrinth": "firmacivilization"
+            },
+            "name": {
+                "curseforge": "Firma: Civilization (TFC)",
+                "modrinth": "Firma: Civilization (TFC)"
+            },
+            "id": {
+                "curseforge": "714158",
+                "modrinth": "6o49a8Vz"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "FirmaCivilization-0.1.9-alpha-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4957/376/FirmaCivilization-0.1.9-alpha-1.20.1.jar",
+                    "id": 4957376,
+                    "required_dependencies": [
+                        "302973"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "FirmaCivilization-0.1.9-alpha-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/6o49a8Vz/versions/41koXpoR/FirmaCivilization-0.1.9-alpha-1.20.1.jar",
+                    "hashes": {
+                        "sha512": "45161b1c9366ab0038dceda906dcb11490fd5d73a6a0180befbe8b43bad57ea40d311afa46218882a750c1a7649248d93490c4123c10ebf903d001c5a6ce0116",
+                        "sha1": "c1d170eceb034d70af2fbfd4b2b8dfc1b6020b9d"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "rPuweiXuDKQwu8am",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "firmalife",
+                "modrinth": "firmalife"
+            },
+            "name": {
+                "curseforge": "FirmaLife",
+                "modrinth": "Firmalife"
+            },
+            "id": {
+                "curseforge": "453394",
+                "modrinth": "5bKeBHw2"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Firmalife-1.20.1-2.0.4-beta.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4937/955/Firmalife-1.20.1-2.0.4-beta.jar",
+                    "id": 4937955,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Firmalife-1.20.1-2.0.4-beta.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/5bKeBHw2/versions/wnhoyBAY/Firmalife-1.20.1-2.0.4-beta.jar",
+                    "hashes": {
+                        "sha512": "bd3ab9912bce26e725be79145cb7b39b82d41db3afc9964ecb5abde678ffdbc28fbe5bbc710391291b1d5ec8be10be192634a7a75681f7e8237286d09f9e948e",
+                        "sha1": "67f5d36eb3380ed3b9977c5c8667322fecca182c"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "OLYWblbv6w0jGkys",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "framedblocks"
+            },
+            "name": {
+                "curseforge": "FramedBlocks"
+            },
+            "id": {
+                "curseforge": "441647"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "FramedBlocks-9.1.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4793/884/FramedBlocks-9.1.6.jar",
+                    "id": 4793884,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "DoduPjONESDVhume",
+            "pakku_links": [
+                "ct97foM607VEB8ja",
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ftb-backups-2"
+            },
+            "name": {
+                "curseforge": "FTB Backups 2"
+            },
+            "id": {
+                "curseforge": "622737"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ftbbackups2-forge-1.20-1.0.23.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
+                    "id": 4834403,
+                    "required_dependencies": [
+                        "576589",
+                        "419699"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "jQc2QPKadUCqlZPZ",
+            "pakku_links": [
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ftb-library-forge"
+            },
+            "name": {
+                "curseforge": "FTB Library (Forge)"
+            },
+            "id": {
+                "curseforge": "404465"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ftb-library-forge-2001.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4864/329/ftb-library-forge-2001.1.4.jar",
+                    "id": 4864329,
+                    "required_dependencies": [
+                        "419699"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "Y8QkfSVPUQU5jO3t",
+            "pakku_links": [
+                "GzqawyXofLTVY69t",
+                "jQc2QPKadUCqlZPZ",
+                "MlmKM1fd5YsdgZrb",
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ftb-quests-forge"
+            },
+            "name": {
+                "curseforge": "FTB Quests (Forge)"
+            },
+            "id": {
+                "curseforge": "289412"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ftb-quests-forge-2001.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4929/479/ftb-quests-forge-2001.3.0.jar",
+                    "id": 4929479,
+                    "required_dependencies": [
+                        "309674",
+                        "404465",
+                        "404468",
+                        "419699"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "yDceIsHZJDfASFTc",
+            "pakku_links": [
+                "Y8QkfSVPUQU5jO3t"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ftb-quests-optimizer"
+            },
+            "name": {
+                "curseforge": "FTB Quests Optimizer"
+            },
+            "id": {
+                "curseforge": "912469"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "FTBQuestsOptimizer-forge-1.1.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4825/750/FTBQuestsOptimizer-forge-1.1.3-1.20.1.jar",
+                    "id": 4825750,
+                    "required_dependencies": [
+                        "289412"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "q3WnCsXqMsJF3494",
+            "pakku_links": [
+                "jQc2QPKadUCqlZPZ",
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ftb-ranks-forge"
+            },
+            "name": {
+                "curseforge": "FTB Ranks (Forge)"
+            },
+            "id": {
+                "curseforge": "314905"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ftb-ranks-forge-2001.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4596/742/ftb-ranks-forge-2001.1.3.jar",
+                    "id": 4596742,
+                    "required_dependencies": [
+                        "404465",
+                        "419699"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "MlmKM1fd5YsdgZrb",
+            "pakku_links": [
+                "OzDXE0ekHMLm1G5q",
+                "jQc2QPKadUCqlZPZ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ftb-teams-forge"
+            },
+            "name": {
+                "curseforge": "FTB Teams (Forge)"
+            },
+            "id": {
+                "curseforge": "404468"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ftb-teams-forge-2001.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4623/116/ftb-teams-forge-2001.1.4.jar",
+                    "id": 4623116,
+                    "required_dependencies": [
+                        "419699",
+                        "404465"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "VV4sceaSIq9rtF2P",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "gravestone-mod",
+                "modrinth": "gravestone-mod"
+            },
+            "name": {
+                "curseforge": "GraveStone Mod",
+                "modrinth": "GraveStone Mod"
+            },
+            "id": {
+                "curseforge": "238551",
+                "modrinth": "RYtXKJPr"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "gravestone-1.20.1-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4678/861/gravestone-1.20.1-1.0.5.jar",
+                    "id": 4678861,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "gravestone-1.20.1-1.0.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/wXySYo0E/gravestone-1.20.1-1.0.10.jar",
+                    "hashes": {
+                        "sha512": "c7814f88cce87c690031627053415f2c9acf74847c97a80ff6ec0416e7c70b0434ac001885b2a5e5583ed4a9f605df0c632cc934afad4cb6a8705862b5167eaf",
+                        "sha1": "682fff56a8eae88fcb3d9fe98e99553d5c217e31"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "9dnN19IcyOgGPQCD",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "iceberg",
+                "modrinth": "iceberg"
+            },
+            "name": {
+                "curseforge": "Iceberg [Forge]",
+                "modrinth": "Iceberg"
+            },
+            "id": {
+                "curseforge": "520110",
+                "modrinth": "5faXoLqX"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Iceberg-1.20.1-forge-1.1.18.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4953/572/Iceberg-1.20.1-forge-1.1.18.jar",
+                    "id": 4953572,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Iceberg-1.20.1-forge-1.1.18.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/HV5U2z6b/Iceberg-1.20.1-forge-1.1.18.jar",
+                    "hashes": {
+                        "sha512": "ff1d137a4fa6879257cff9fec1094e83bd0c5ecbb7a218a267429a7c0b45ec0886edd6c80550011c89b33f8a0f037fd8dc88d68e792d9a6838463177320c6f48",
+                        "sha1": "1d1b54b5a5b03c37f89ee6505198b6f50b63e853"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "D09ycrXBq7zHD68g",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-engineering",
+                "modrinth": "immersiveengineering"
+            },
+            "name": {
+                "curseforge": "Immersive Engineering",
+                "modrinth": "Immersive Engineering"
+            },
+            "id": {
+                "curseforge": "231951",
+                "modrinth": "tIm2nV03"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ImmersiveEngineering-1.20.1-10.0.0-169.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4782/978/ImmersiveEngineering-1.20.1-10.0.0-169.jar",
+                    "id": 4782978,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "ImmersiveEngineering-1.20.1-10.0.0-169.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tIm2nV03/versions/uqGFpLXw/ImmersiveEngineering-1.20.1-10.0.0-169.jar",
+                    "hashes": {
+                        "sha512": "6c65089dc06272fd57fa9287cf94d53030012710d3ba49c1e5a3e52f33df3a715dcc79a1cb7a3df2cec8a7c0f758369fb2dccb0ff071c5edaa1abc84053910b4",
+                        "sha1": "a9fbb70fee4ad68d0f860e711c4bae524117525f"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "GzqawyXofLTVY69t",
+            "pakku_links": [
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "item-filters",
+                "modrinth": "item-filters"
+            },
+            "name": {
+                "curseforge": "Item Filters",
+                "modrinth": "Item Filters"
+            },
+            "id": {
+                "curseforge": "309674",
+                "modrinth": "1KLyhGRz"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "item-filters-forge-2001.1.0-build.59.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4838/266/item-filters-forge-2001.1.0-build.59.jar",
+                    "id": 4838266,
+                    "required_dependencies": [
+                        "419699"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "item-filters-forge-2001.1.0-build.53.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/1KLyhGRz/versions/FMUX4THT/item-filters-forge-2001.1.0-build.53.jar",
+                    "hashes": {
+                        "sha512": "4bed10d923a6b6b03614a019a50a5676f4dc89213b6143a77f5af4c759fa7f9940e45a81192e07717efbb3c917324b2e33343c1db3a6ed61171ccebb4b09832f",
+                        "sha1": "ece6b67ad586e102164e04ea10fc4a0e95257802"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZcelrlnBypOOzSXD",
+            "pakku_links": [
+                "cDy62N4WYAl2hFbX"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "itemphysic",
+                "modrinth": "itemphysic"
+            },
+            "name": {
+                "curseforge": "ItemPhysic Full",
+                "modrinth": "ItemPhysic"
+            },
+            "id": {
+                "curseforge": "258587",
+                "modrinth": "aT8BzaOj"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ItemPhysic_FORGE_v1.6.15_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4814/268/ItemPhysic_FORGE_v1.6.15_mc1.20.1.jar",
+                    "id": 4814268,
+                    "required_dependencies": [
+                        "257814"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aT8BzaOj/versions/r83lVhj6/ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "e4c7fd7a74994cf430bb46e203feb68447b3d4a673949351a54b04810c4103b863005d4956070ffaf115ee6966d39d5cbe56435682f9ee0f51b6087611ff878c",
+                        "sha1": "fca5ae7d457aa73805ef25a78327c3460d65fd28"
+                    },
+                    "required_dependencies": [
+                        "OsZiaDHq"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "ltLGYN0THqjUTsWJ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jade",
+                "modrinth": "jade"
+            },
+            "name": {
+                "curseforge": "Jade 🔍",
+                "modrinth": "Jade 🔍"
+            },
+            "id": {
+                "curseforge": "324717",
+                "modrinth": "nvQzSEkH"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Jade-1.20.1-forge-11.6.3.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4801/177/Jade-1.20.1-forge-11.6.3.jar",
+                    "id": 4801177,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Jade-1.20.1-forge-11.6.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/GCErLUDu/Jade-1.20.1-forge-11.6.4.jar",
+                    "hashes": {
+                        "sha512": "0eb70b66e012aa4475c3475671ee6f4cbd842b6c8b47b6ebc863ddb9ca3a46ebf8d5c7f3b0a6353b10255ad6c490312c2dbd0c1dc3de754ad05ef51260627998",
+                        "sha1": "edf0516dfd73a0b0c8fa1af261e7d40c07c23e23"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "ff8MrSsHEkBo72su",
+            "pakku_links": [
+                "ltLGYN0THqjUTsWJ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jade-addons"
+            },
+            "name": {
+                "curseforge": "Jade Addons (Forge)"
+            },
+            "id": {
+                "curseforge": "583345"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "JadeAddons-1.20.1-forge-5.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4848/425/JadeAddons-1.20.1-forge-5.2.1.jar",
+                    "id": 4848425,
+                    "required_dependencies": [
+                        "324717"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "gsV5zEBVVJIx1v98",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jei",
+                "modrinth": "jei"
+            },
+            "name": {
+                "curseforge": "Just Enough Items (JEI)",
+                "modrinth": "Just Enough Items"
+            },
+            "id": {
+                "curseforge": "238222",
+                "modrinth": "u6dRKJwZ"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "jei-1.20.1-forge-15.2.0.27.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4712/868/jei-1.20.1-forge-15.2.0.27.jar",
+                    "id": 4712868,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "jei-1.20.1-forge-15.2.0.27.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HU1FUi8s/jei-1.20.1-forge-15.2.0.27.jar",
+                    "hashes": {
+                        "sha512": "9e94d5d909f37bdc06d18873c5df34daec4ab74a5cb3814fe23d63fe8398b0585d997677905e0a6caf993f3239543049f75d8f911f4159fff416ff84331d480a",
+                        "sha1": "a565f2e31fc2bbe6f297a4ca25241cbfd704ef6b"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "UN4MvthjAUiLqiPA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "joy-of-painting",
+                "modrinth": "joy-of-painting"
+            },
+            "name": {
+                "curseforge": "Joy of Painting",
+                "modrinth": "Joy of Painting"
+            },
+            "id": {
+                "curseforge": "350727",
+                "modrinth": "YOs4tZea"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "xercapaint-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4666/42/xercapaint-1.20.1-1.0.0.jar",
+                    "id": 4666042,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "xercapaint-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YOs4tZea/versions/rDOGTJ12/xercapaint-1.20.1-1.0.0.jar",
+                    "hashes": {
+                        "sha512": "3c0fec91cd773899f4db398423085991ab669b60ce7de16e89b3ee1aaae9ac7d9a6d8a32f654eb75dd4cac035b9df3a7eeff5b1d2b873c196b37b1c358c638e6",
+                        "sha1": "62f56fa6dbdcbfcd64f9c15972115c4138ba1ddf"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "LCgiSq4qhUBcBFUM",
+            "pakku_links": [
+                "OzDXE0ekHMLm1G5q",
+                "zhq3MK2IzgHMIQDo"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kubejs",
+                "modrinth": "kubejs"
+            },
+            "name": {
+                "curseforge": "KubeJS",
+                "modrinth": "KubeJS"
+            },
+            "id": {
+                "curseforge": "238086",
+                "modrinth": "umyGl7zF"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "kubejs-forge-2001.6.4-build.114.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4948/967/kubejs-forge-2001.6.4-build.114.jar",
+                    "id": 4948967,
+                    "required_dependencies": [
+                        "419699",
+                        "416294"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "kubejs-forge-2001.6.4-build.114.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/1na6fpcK/kubejs-forge-2001.6.4-build.114.jar",
+                    "hashes": {
+                        "sha512": "fa8302aedb7371cc121060e47747f5d65e5bc7cc94ac84bef5265abe270dd2e74f80fcbda6857a4f53eede76ea3ffc191180f7b1eb51d2ffc40613e685930859",
+                        "sha1": "55800bfde990f5dc4fb65f03740dd26583886b51"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "sk9knFPE"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "X1paIsvYVTOxcsWA",
+            "pakku_links": [
+                "4ILiTvZ1RqlnkcTC",
+                "9dnN19IcyOgGPQCD"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "legendary-tooltips",
+                "modrinth": "legendary-tooltips"
+            },
+            "name": {
+                "curseforge": "Legendary Tooltips [Forge]",
+                "modrinth": "Legendary Tooltips"
+            },
+            "id": {
+                "curseforge": "532127",
+                "modrinth": "atHH8NyV"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4662/781/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "id": 4662781,
+                    "required_dependencies": [
+                        "638111",
+                        "520110"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+                    "hashes": {
+                        "sha512": "20d973e57ac7c20fe8f3a6f5cd75b46d3362a7f7ec408750f15894ce98c14174f083535abeff8640c21e53411cceef6387442141bf98a694b0e3ba4d18804257",
+                        "sha1": "7d83a56572d333ea352706872f565b8b8537085c"
+                    },
+                    "required_dependencies": [
+                        "1OE8wbN0",
+                        "5faXoLqX"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "1snLWxo7jpM2TMHg",
+            "pakku_links": [
+                "cDy62N4WYAl2hFbX"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "littletiles",
+                "modrinth": "littletiles"
+            },
+            "name": {
+                "curseforge": "LittleTiles",
+                "modrinth": "LittleTiles"
+            },
+            "id": {
+                "curseforge": "257818",
+                "modrinth": "RCRxC1tD"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre069_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4875/436/LittleTiles_ALPHA_v1.6.0-pre069_mc1.20.1.jar",
+                    "id": 4875436,
+                    "required_dependencies": [
+                        "257814"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/RCRxC1tD/versions/Px0z97Zc/LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "37a6bd4d9eace6cd7ad98b6245edda0c081775741689f798d7db3a7a5ac08288115b8348ed169f5d00890938e9eeeafc08efa34fbb7c8f01ec4ca0c54a5c85fc",
+                        "sha1": "261a4be66c5b34da90ce3a9b9bf4751578e6d6fc"
+                    },
+                    "required_dependencies": [
+                        "OsZiaDHq"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "C2mYgXFMwIKi6JIN",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mcwifipnp",
+                "modrinth": "mcwifipnp"
+            },
+            "name": {
+                "curseforge": "LAN World Plug-n-Play",
+                "modrinth": "LAN World Plug-n-Play (mcwifipnp)"
+            },
+            "id": {
+                "curseforge": "450250",
+                "modrinth": "RTWpcTBp"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "mcwifipnp-1.6.6-1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4682/978/mcwifipnp-1.6.6-1.20.1-forge.jar",
+                    "id": 4682978,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "mcwifipnp-1.6.6-1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RTWpcTBp/versions/jPuNUy6U/mcwifipnp-1.6.6-1.20.1-forge.jar",
+                    "hashes": {
+                        "sha512": "b9f33e83a5839862b0f0511b420820e44a9fd525c503745414f8dc651ddc8e1be9b9490b8434c24d3de964021b3c1cd9be12b8a605318a9fd2ab68ff161e9d18",
+                        "sha1": "9d614f577b873973eeb4eac20a00eb4df75b4600"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "d4OQyKAh8lqVb8lv",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mekanism",
+                "modrinth": "mekanism"
+            },
+            "name": {
+                "curseforge": "Mekanism",
+                "modrinth": "Mekanism"
+            },
+            "id": {
+                "curseforge": "268560",
+                "modrinth": "Ce6I4WUE"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Mekanism-1.20.1-10.4.5.19.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4866/575/Mekanism-1.20.1-10.4.5.19.jar",
+                    "id": 4866575,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Mekanism-1.20.1-10.4.5.19.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/52nOMLHi/Mekanism-1.20.1-10.4.5.19.jar",
+                    "hashes": {
+                        "sha512": "01b6918ca3ac0f3eb1f057d2902490a67a06645f9af3e5c3eb22fb8ecabe990bacf1d3166f8991121e5ca6b3222d09bde06cb1e10309fafaaa7ddac3a55dd74c",
+                        "sha1": "f46991eef9d9ca0f4fff9cd7301e6f527ed44664"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "8N7X6lF3CgGjLtWO",
+            "pakku_links": [
+                "d4OQyKAh8lqVb8lv"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mekanism-generators",
+                "modrinth": "mekanism-generators"
+            },
+            "name": {
+                "curseforge": "Mekanism Generators",
+                "modrinth": "Mekanism Generators"
+            },
+            "id": {
+                "curseforge": "268566",
+                "modrinth": "OFVYKsAk"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "MekanismGenerators-1.20.1-10.4.5.19.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4866/578/MekanismGenerators-1.20.1-10.4.5.19.jar",
+                    "id": 4866578,
+                    "required_dependencies": [
+                        "268560"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "MekanismGenerators-1.20.1-10.4.5.19.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OFVYKsAk/versions/n1IGOKuu/MekanismGenerators-1.20.1-10.4.5.19.jar",
+                    "hashes": {
+                        "sha512": "490a2e59fe6ed46b3111d14f8d114fdd8cf75293e74de01511e68c25a13214de03ed239d964ff65f8c3258874dd2a4ac434ec6fc582fc8176b9c5b43fc1e05b3",
+                        "sha1": "74b26f289e2a129a7a328e5344e6e5de7cd2350d"
+                    },
+                    "required_dependencies": [
+                        "Ce6I4WUE"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "FSvtut0vel7Wh00Q",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "model-gap-fix"
+            },
+            "name": {
+                "curseforge": "Model Gap Fix"
+            },
+            "id": {
+                "curseforge": "676136"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "modelfix-1.14.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4607/206/modelfix-1.14.jar",
+                    "id": 4607206,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "njnh8UaVrdaxswZw",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "modernfix",
+                "modrinth": "modernfix"
+            },
+            "name": {
+                "curseforge": "ModernFix",
+                "modrinth": "ModernFix"
+            },
+            "id": {
+                "curseforge": "790626",
+                "modrinth": "nmDcB62a"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "modernfix-forge-5.10.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4949/413/modernfix-forge-5.10.1%2bmc1.20.1.jar",
+                    "id": 4949413,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "modernfix-forge-5.10.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/XmsWashv/modernfix-forge-5.10.1%2Bmc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "22b1c8ce18fd0cbdd64fb1355da6f85184077df831b00470539c3f01125c4440ecb9cd2074016aee9ccba378c5cb75c86e1adfb40840dfb091b5b3532412b7e7",
+                        "sha1": "496d1d617d78871c87fe05f69b10bb77f070b1cd"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "YZXFxO6rXCJkJRtd",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mouse-tweaks",
+                "modrinth": "mouse-tweaks"
+            },
+            "name": {
+                "curseforge": "Mouse Tweaks",
+                "modrinth": "Mouse Tweaks"
+            },
+            "id": {
+                "curseforge": "60089",
+                "modrinth": "aC3cM3Vq"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "MouseTweaks-forge-mc1.20-2.25.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4581/240/MouseTweaks-forge-mc1.20-2.25.jar",
+                    "id": 4581240,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "MouseTweaks-forge-mc1.20-2.25.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/stb5nE30/MouseTweaks-forge-mc1.20-2.25.jar",
+                    "hashes": {
+                        "sha512": "487206c6116aa742d3c9fe638f4388c0b82e2837e25552faec21d2abf960f95a46a0132b704bb46b78e559ab42e8512b50719311b37bd2c6b3c4764869eb1f07",
+                        "sha1": "f3e8805d706a36717306d92bd5c45cb2aef854b6"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "NNyO3Qo88nXst9dM",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "music-maker-mod",
+                "modrinth": "music-maker-mod"
+            },
+            "name": {
+                "curseforge": "Music Maker Mod",
+                "modrinth": "Music Maker Mod"
+            },
+            "id": {
+                "curseforge": "341448",
+                "modrinth": "qQpWCN75"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "xercamusic-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4923/626/xercamusic-1.20.1-1.0.1.jar",
+                    "id": 4923626,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "xercamusic-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qQpWCN75/versions/vkIE67gD/xercamusic-1.20.1-1.0.1.jar",
+                    "hashes": {
+                        "sha512": "3eab6615606f0af55169d7639278ab5521034cde1c054abe3a0f828488b16050fb2032aab301dad2681896c7562681a0dccb914bf88e866d7a1a0d0a93c02499",
+                        "sha1": "3654b0c002a4159ebb10849606ed2c88072c7003"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "n2e3Ic7ZxMOn6Itv",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "not-enough-animations",
+                "modrinth": "not-enough-animations"
+            },
+            "name": {
+                "curseforge": "Not Enough Animations",
+                "modrinth": "Not Enough Animations"
+            },
+            "id": {
+                "curseforge": "433760",
+                "modrinth": "MPCX6s5C"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4573/913/notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "id": 4573913,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/QWDLTMMa/notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "hashes": {
+                        "sha512": "32624b2a345d4f4d53b3bf7efc5680f43df09f95d497075fc6d61c806cbd056d76f48e51f05c7e60c4b01885c3239daecb0292616bf39a7d7e0de1d29a76dba8",
+                        "sha1": "47099dc3b5c339ce918bd06523bae22f59c5c65a"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "iewvtAs5wNkWpYt1",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "not-enough-crashes-forge"
+            },
+            "name": {
+                "curseforge": "Not Enough Crashes (Forge)"
+            },
+            "id": {
+                "curseforge": "442354"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "notenoughcrashes-4.4.6+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4684/47/notenoughcrashes-4.4.6+1.20.1-forge.jar",
+                    "id": 4684047,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "pcPvYk5DMzltCjo7",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ok-zoomer-forge"
+            },
+            "name": {
+                "curseforge": "Ok Zoomer Forge"
+            },
+            "id": {
+                "curseforge": "631278"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "okzoomer-forge-1.20-3.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4715/660/okzoomer-forge-1.20-3.0.1.jar",
+                    "id": 4715660,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "GG40k6TaihbmcYYv",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "patchouli",
+                "modrinth": "patchouli"
+            },
+            "name": {
+                "curseforge": "Patchouli",
+                "modrinth": "Patchouli"
+            },
+            "id": {
+                "curseforge": "306770",
+                "modrinth": "nU0bVIaL"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Patchouli-1.20.1-83-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4892/162/Patchouli-1.20.1-83-FORGE.jar",
+                    "id": 4892162,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Patchouli-1.20.1-83-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/WLoCqsiV/Patchouli-1.20.1-83-FORGE.jar",
+                    "hashes": {
+                        "sha512": "29203b2f09b2402a1f42faa4f6085d7f5031637f1c4fc37250f353712f8a39917dbafbaccb60d7fafb4fd50e444ff01040ee7e6e27df0680cc1f4e56cb4e1579",
+                        "sha1": "cc2b71adf94768fe578271da482d335b758a6d5c"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "DMmUXUB9OblZ2i0J",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "placebo",
+                "modrinth": "placebo"
+            },
+            "name": {
+                "curseforge": "Placebo",
+                "modrinth": "Placebo"
+            },
+            "id": {
+                "curseforge": "283644",
+                "modrinth": "tCkE8p2N"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Placebo-1.20.1-8.6.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4913/663/Placebo-1.20.1-8.6.0.jar",
+                    "id": 4913663,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Placebo-1.20.1-8.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/NK0coiau/Placebo-1.20.1-8.2.0.jar",
+                    "hashes": {
+                        "sha512": "0f231104f4497559ba01d59ab06bf793d9be7f82f16de01f4d35ea8be86132ef0369e0bfe906b0e428a7e08299cd366a2ad6f673cd6e78dc0dd3d8d949b0cb44",
+                        "sha1": "6978d9d7482800a5ae2efc92f06e24b1fa2ff412"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "ct97foM607VEB8ja",
+            "pakku_links": [
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "polylib"
+            },
+            "name": {
+                "curseforge": "PolyLib"
+            },
+            "id": {
+                "curseforge": "576589"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "polylib-forge-1200.0.2-build.85.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4586/333/polylib-forge-1200.0.2-build.85.jar",
+                    "id": 4586333,
+                    "required_dependencies": [
+                        "419699"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "4ILiTvZ1RqlnkcTC",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "prism-lib",
+                "modrinth": "prism-lib"
+            },
+            "name": {
+                "curseforge": "Prism [Forge]",
+                "modrinth": "Prism"
+            },
+            "id": {
+                "curseforge": "638111",
+                "modrinth": "1OE8wbN0"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Prism-1.20.1-forge-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4650/325/Prism-1.20.1-forge-1.0.5.jar",
+                    "id": 4650325,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Prism-1.20.1-forge-1.0.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
+                    "hashes": {
+                        "sha512": "b73de6bf581f5f28d86baa3eeb8ac0ff30aa9a35280da7fa528547bbb9e0aff5f931b434e143a4dfc4d11ae03ce52bc1cfa359beb8b656880e75bf1aa8d91b81",
+                        "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "zhq3MK2IzgHMIQDo",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rhino",
+                "modrinth": "rhino"
+            },
+            "name": {
+                "curseforge": "Rhino",
+                "modrinth": "Rhino"
+            },
+            "id": {
+                "curseforge": "416294",
+                "modrinth": "sk9knFPE"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "rhino-forge-2001.2.2-build.18.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4944/325/rhino-forge-2001.2.2-build.18.jar",
+                    "id": 4944325,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "rhino-forge-2001.2.2-build.18.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/w5HiejeN/rhino-forge-2001.2.2-build.18.jar",
+                    "hashes": {
+                        "sha512": "1fd5f5667e0f078797112df7ae5f300d2fed2c992fdfd0818569e9286d9bdf6c311cf722cbef542a9ecd78577dde5f88e3cfaa48824d0d75bfede9fd4e1be18e",
+                        "sha1": "0a631b4e8235a777d08bd53d4f49dba388205cad"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "cU54c5xiqOMZjlef",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "searchables",
+                "modrinth": "searchables"
+            },
+            "name": {
+                "curseforge": "Searchables",
+                "modrinth": "Searchables"
+            },
+            "id": {
+                "curseforge": "858542",
+                "modrinth": "fuuu3xnx"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Searchables-forge-1.20.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4779/110/Searchables-forge-1.20.1-1.0.2.jar",
+                    "id": 4779110,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Searchables-forge-1.20.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/9990I5Tc/Searchables-forge-1.20.1-1.0.2.jar",
+                    "hashes": {
+                        "sha512": "bc7b13c1792acb6cf5befe21f860441fa21b5db97fede2412b05953542dc868fea5053804ab36dfc9234d341908a34d8606dfa03b2b1e28dc3879548581f9da3",
+                        "sha1": "02fe27031be80567c968aafeadd0d4760dbe8a44"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "sBf0lNn7Mo17qhMF",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "selene"
+            },
+            "name": {
+                "curseforge": "Moonlight Lib"
+            },
+            "id": {
+                "curseforge": "499980"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "moonlight-1.20-2.8.67-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4915/903/moonlight-1.20-2.8.67-forge.jar",
+                    "id": 4915903,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "CklAFuiIEKMZZLLG",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sound-physics-remastered",
+                "modrinth": "sound-physics-remastered"
+            },
+            "name": {
+                "curseforge": "Sound Physics Remastered",
+                "modrinth": "Sound Physics Remastered"
+            },
+            "id": {
+                "curseforge": "535489",
+                "modrinth": "qyVF9oeo"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "soundphysics-forge-1.20.1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4937/399/soundphysics-forge-1.20.1-1.3.0.jar",
+                    "id": 4937399,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "soundphysics-forge-1.20.1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/sSV5WT7s/soundphysics-forge-1.20.1-1.3.0.jar",
+                    "hashes": {
+                        "sha512": "0ffd9bdf785a17721fe029f18452ac5e4be204d269442ba6dedce7d83ed6713ff08709cba7ef91ffaf234fdac0c12f36e45d506e3eb99e02800d2830b6bd5686",
+                        "sha1": "ca8813fae5d360a3ceb6ebf0c6b640c3494d8f02"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "HsC1qRYhuJm0ASw5",
+            "pakku_links": [
+                "GG40k6TaihbmcYYv"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "terrafirmacraft",
+                "modrinth": "terrafirmacraft"
+            },
+            "name": {
+                "curseforge": "TerraFirmaCraft",
+                "modrinth": "TerraFirmaCraft"
+            },
+            "id": {
+                "curseforge": "302973",
+                "modrinth": "JaCEZUhg"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "TerraFirmaCraft-Forge-1.20.1-3.1.3-beta.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4943/174/TerraFirmaCraft-Forge-1.20.1-3.1.3-beta.jar",
+                    "id": 4943174,
+                    "required_dependencies": [
+                        "306770"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "TerraFirmaCraft-Forge-1.20.1-3.1.3-beta.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/JaCEZUhg/versions/m5kJFzy1/TerraFirmaCraft-Forge-1.20.1-3.1.3-beta.jar",
+                    "hashes": {
+                        "sha512": "fef9d9d6abd00179ae4e378c73aa067781a3cfb3842901cc1b20052d2afe0196e3f99f4c56ad54cae1417724dbff184f6afe983674525cb4d10ce08db992b6bd",
+                        "sha1": "e500884d028c65c036022be3ccf241c5ecbd25d7"
+                    },
+                    "required_dependencies": [
+                        "nU0bVIaL"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "iOeR3wC3DAN0rGPB",
+            "pakku_links": [
+                "UykqmsQQYPHUUDxY"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "textrues-embeddium-options",
+                "modrinth": "textrues-embeddium-options"
+            },
+            "name": {
+                "curseforge": "TexTrue's Embeddium Options",
+                "modrinth": "TexTrue's Embeddium Options"
+            },
+            "id": {
+                "curseforge": "910506",
+                "modrinth": "S1tndFDa"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "textrues_embeddium_options-0.1.2+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4779/7/textrues_embeddium_options-0.1.2+mc1.20.1.jar",
+                    "id": 4779007,
+                    "required_dependencies": [
+                        "908741"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "textrues_embeddium_options-0.1.3+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/S1tndFDa/versions/cYEJFXPq/textrues_embeddium_options-0.1.3%2Bmc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "f4ae213c001439d0ea4ad3b197d5f8d95a52bfe1c5fa67798ad3c065717546a3ccdc9227761dbad85c882195c551e8ecec4cba40325a1a19bec5318b8cf8bbfc",
+                        "sha1": "4f4415a7d62acb14b61b05b39b6ec74a1e405d75"
+                    },
+                    "required_dependencies": [
+                        "sk9rgfiA"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "JS9JBDjkyFI1zoc5",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tfc-ambiental-second-edition"
+            },
+            "name": {
+                "curseforge": "TFC Ambiental: Second edition"
+            },
+            "id": {
+                "curseforge": "940350"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "tfcambiental-1.20.1-3.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4881/987/tfcambiental-1.20.1-3.0.0.jar",
+                    "id": 4881987,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "nem4DUTBoHVWG9pV",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tfc-cast-iron-grill"
+            },
+            "name": {
+                "curseforge": "TFC Cast Iron Grill"
+            },
+            "id": {
+                "curseforge": "694279"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "CastIronGrill-1.20.1-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4919/838/CastIronGrill-1.20.1-2.1.jar",
+                    "id": 4919838,
+                    "required_dependencies": [
+                        "302973"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "NgfmfKwbxTIqkfD1",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5",
+                "D09ycrXBq7zHD68g"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tfc-ie-crossover"
+            },
+            "name": {
+                "curseforge": "TFC + IE Crossover"
+            },
+            "id": {
+                "curseforge": "830886"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "TFC-IE-Crossover-1.20.1-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4896/570/TFC-IE-Crossover-1.20.1-1.1.0.jar",
+                    "id": 4896570,
+                    "required_dependencies": [
+                        "302973",
+                        "231951"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "tf3k5zRF1QU1DxI8",
+            "pakku_links": [
+                "DMmUXUB9OblZ2i0J"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "toast-control"
+            },
+            "name": {
+                "curseforge": "Toast Control"
+            },
+            "id": {
+                "curseforge": "271740"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ToastControl-1.20.1-8.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4711/316/ToastControl-1.20.1-8.0.3.jar",
+                    "id": 4711316,
+                    "required_dependencies": [
+                        "283644"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "Zhw5LwcpWRn8CTjR",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "xaero-arrow-fix"
+            },
+            "name": {
+                "curseforge": "Xaero Arrow Fix"
+            },
+            "id": {
+                "curseforge": "827985"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "xaeroarrowfix-forge-1.2+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4579/929/xaeroarrowfix-forge-1.2+1.20.jar",
+                    "id": 4579929,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "KcjXftNVPP5o6xMg",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "xaeros-minimap",
+                "modrinth": "xaeros-minimap"
+            },
+            "name": {
+                "curseforge": "Xaero's Minimap",
+                "modrinth": "Xaero's Minimap"
+            },
+            "id": {
+                "curseforge": "263420",
+                "modrinth": "1bokaNcj"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Xaeros_Minimap_23.8.4_Forge_1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4812/568/Xaeros_Minimap_23.8.4_Forge_1.20.jar",
+                    "id": 4812568,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/gHdFelqh/Xaeros_Minimap_23.9.3_Forge_1.20.jar",
+                    "hashes": {
+                        "sha512": "180c98660003d26c411168622bf2334a27f508fa7aa48ce2eab4b5a0c30c40ebb6dc213f2796723aa5a89b34b412dcc013551794b6f1f34c4cccc73b1db3910e",
+                        "sha1": "f7b9642bb46b64756908cd4e631d1b5b878f1993"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "A0ISB3cWZzPdwgHl",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "xaeros-world-map",
+                "modrinth": "xaeros-world-map"
+            },
+            "name": {
+                "curseforge": "Xaero's World Map",
+                "modrinth": "Xaero's World Map"
+            },
+            "id": {
+                "curseforge": "317780",
+                "modrinth": "NcUtCpym"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "XaerosWorldMap_1.37.2_Forge_1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4929/640/XaerosWorldMap_1.37.2_Forge_1.20.jar",
+                    "id": 4929640,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "XaerosWorldMap_1.37.2_Forge_1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5I2xTj1b/XaerosWorldMap_1.37.2_Forge_1.20.jar",
+                    "hashes": {
+                        "sha512": "80097573a988a6d827e07672c0be5e1f1820e1053a15b5c8078c5dda4363b2750e265f92e551a322318ff7042cc63498cc283093870b38ec9307d355abed2a26",
+                        "sha1": "a6d1b7020ac1e20c7ae335aa0ec56af232bb3a6b"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        }
+    ]
+}

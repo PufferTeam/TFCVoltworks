@@ -9,37 +9,45 @@
 	#Don't touch unless you are told to
 	debug_packet = false
 
-[types]
+	[general.tooltips]
+		#Enabled tooltips showing which mod an EC item is from
+		mod_origin_enabled = true
+		#Enabled tooltips showing which block type an EC item is made from
+		block_type_ednabld = true
+		#Only show on advanced settings
+		show_on_advanced_tooltips = false
 
-	[types.wood_type]
+	[general.types]
 
-		[types.wood_type.tfc]
-			acacia = true
-			ash = true
-			aspen = true
-			birch = true
-			blackwood = true
-			chestnut = true
-			douglas_fir = true
-			hickory = true
-			kapok = true
-			mangrove = true
-			maple = true
-			oak = true
-			palm = true
-			pine = true
-			rosewood = true
-			sequoia = true
-			spruce = true
-			sycamore = true
-			white_cedar = true
-			willow = true
+		[general.types.wood_type]
 
-[entries]
+			[general.types.wood_type.tfc]
+				acacia = true
+				ash = true
+				aspen = true
+				birch = true
+				blackwood = true
+				chestnut = true
+				douglas_fir = true
+				hickory = true
+				kapok = true
+				mangrove = true
+				maple = true
+				oak = true
+				palm = true
+				pine = true
+				rosewood = true
+				sequoia = true
+				spruce = true
+				sycamore = true
+				white_cedar = true
+				willow = true
 
-	[entries.wood_type]
+	[general.entries]
 
-		[entries.wood_type.create]
-			window_pane = true
-			window = true
+		[general.entries.wood_type]
+
+			[general.entries.wood_type.create]
+				window_pane = true
+				window = true
 

@@ -7,6 +7,8 @@
 	#The maximum distance a waterwheel can consider fluid blocks from.
 	#Range: > 1
 	waterwheelRange = 128
+	#Enable waterwheels modifications?
+	waterwheelsEnabled = true
 
 ##Windmill requirements
 [windmills]
@@ -28,4 +30,6 @@
 	#The height required for the full benefit from windmillAboveX.
 	#Range: > 1
 	windmillAbove = 16
+	#Enable windmills modifications?
+	windmillsEnabled = true
 

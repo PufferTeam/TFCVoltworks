@@ -12,6 +12,7 @@
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
+!/mods/CTM_DEV**.jar
 /config/valkyrienskies/**
 /config/jei/world/local/**
 /config/oculus.properties

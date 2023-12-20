@@ -783,7 +783,7 @@
             ]
         },
         {
-            "pakku_id": "cDy62N4WYAl2hFbX",
+            "pakku_id": "PrP0kcwIiFjHyIvR",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -802,7 +802,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.11.16_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -811,15 +811,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4959/575/CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
-                    "id": 4959575,
+                    "url": "https://edge.forgecdn.net/files/4968/955/CreativeCore_FORGE_v2.11.16_mc1.20.1.jar",
+                    "id": 4968955,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.11.16_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -828,10 +828,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/oKn0NhvA/CreativeCore_FORGE_v2.11.15_mc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/FgLisPD3/CreativeCore_FORGE_v2.11.16_mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "d8ec9a7ddf4f21f38375eebab05c5b9171a54681b886ee57e7f6427f8fe7fe13efae2e45d062acdf21f7722aa3d5b85806e7d0305b5b9c992fcbff1dbde18026",
-                        "sha1": "639c4ff15cd648a4ec0cb4137bbdbcfb11f917dc"
+                        "sha512": "1028989cd4a87870129ee99bbef198a1d04e03bd560513bf15c7a47bb9b6a292e246cdd933b310c8bfba35f20db16fe2097cd91754d07c6cb184f6ee20da2e08",
+                        "sha1": "333210808d08c1b3abc07c39ae616e296d361fb8"
                     },
                     "required_dependencies": [
                     ]
@@ -1842,9 +1842,6 @@
         },
         {
             "pakku_id": "ZcelrlnBypOOzSXD",
-            "pakku_links": [
-                "cDy62N4WYAl2hFbX"
-            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2231,10 +2228,7 @@
             ]
         },
         {
-            "pakku_id": "1snLWxo7jpM2TMHg",
-            "pakku_links": [
-                "cDy62N4WYAl2hFbX"
-            ],
+            "pakku_id": "rdgHhcvVoaZbEYT7",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -2253,7 +2247,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
+                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2262,8 +2256,8 @@
                         "forge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/4959/610/LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
-                    "id": 4959610,
+                    "url": "https://edge.forgecdn.net/files/4968/957/LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
+                    "id": 4968957,
                     "required_dependencies": [
                         "257814"
                     ]
@@ -2271,7 +2265,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
+                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2280,10 +2274,10 @@
                         "neoforge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/RCRxC1tD/versions/Px0z97Zc/LittleTiles_ALPHA_v1.6.0-pre075_mc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/RCRxC1tD/versions/P2vLxjXW/LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "37a6bd4d9eace6cd7ad98b6245edda0c081775741689f798d7db3a7a5ac08288115b8348ed169f5d00890938e9eeeafc08efa34fbb7c8f01ec4ca0c54a5c85fc",
-                        "sha1": "261a4be66c5b34da90ce3a9b9bf4751578e6d6fc"
+                        "sha512": "4b306bb69580623a600a93c4200aad80b36189e6b0a8cf231c45ec10a1555bd13c39b7e0ff5aa9fceb1fc5546ec6bc04f227302751bef531fbea0353b94fd30c",
+                        "sha1": "4fd5fbf825a55277d9298cba212dd81d882e5368"
                     },
                     "required_dependencies": [
                         "OsZiaDHq"

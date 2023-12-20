@@ -19,6 +19,11 @@ ServerEvents.recipes(event => {
 
     //Recipes Type
     global.recipesTypeToRemove.push(
+        'minecraft:smelting',
+        'minecraft:blasting',
+        'minecraft:anvil',
+        'minecraft:smoking',
+        'minecraft:campfire_cooking'
     )
     global.recipesTypeToRemove.forEach(i => event.remove({ type: i }));
 

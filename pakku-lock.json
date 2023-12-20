@@ -3476,6 +3476,68 @@
             ]
         },
         {
+            "pakku_id": "iB3FhPWBLNzAPkcC",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5",
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "wooden-cog",
+                "modrinth": "wooden-cog"
+            },
+            "name": {
+                "curseforge": "Wooden cog",
+                "modrinth": "Wooden cog"
+            },
+            "id": {
+                "curseforge": "876502",
+                "modrinth": "OwKycmjg"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "woodencog-1.0.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4963/479/woodencog-1.0.3-1.20.1.jar",
+                    "id": 4963479,
+                    "required_dependencies": [
+                        "302973",
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "woodencog-1.0.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OwKycmjg/versions/ge0Pbzsk/woodencog-1.0.3-1.20.1.jar",
+                    "hashes": {
+                        "sha512": "d0ce5101c6047b56c5c0269c4ba38e937d0ee305838fe08fa7ceb108fd00e502a22e4de75b366c70e93f2947d91a356f46028b583c8b3c881c625d2a8c6c1279",
+                        "sha1": "77a5ae56621351780323fd90050f54cf2ee17746"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg",
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "Zhw5LwcpWRn8CTjR",
             "type": "MOD",
             "side": "BOTH",

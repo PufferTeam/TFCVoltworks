@@ -1,5 +1,50 @@
 
-global.removeAndHide = []
+global.removeAndHide = [
+    'createaddition:copper_wire',
+    'createaddition:copper_spool',
+    'createaddition:copper_rod',
+    'createaddition:iron_wire',
+    'createaddition:iron_rod',
+    'createaddition:zinc_sheet',
+    'createaddition:gold_rod',
+    'createaddition:gold_spool',
+    'createaddition:electrum_wire',
+    'createaddition:brass_rod',
+    'createaddition:connector',
+    'createaddition:large_connector',
+    'createaddition:redstone_relay',
+    'createaddition:chocolate_cake',
+    'createaddition:honey_cake',
+    'createaddition:barbed_wire',
+    'createaddition:electrum_rod',
+    'immersiveengineering:nugget_copper',
+    'createaddition:electrum_spool',
+    'createaddition:electrum_sheet',
+    'createaddition:gold_wire',
+    'create:honeyed_apple',
+    'create:bar_of_chocolate',
+    'create:sweet_roll',
+    'create:chocolate_glazed_berries',
+    'createaddition:spool',
+    'createaddition:electrum_amulet',
+    'createaddition:straw',
+    'create:empty_blaze_burner',
+    'create:blaze_burner',
+    'create:dough',
+    'create:wheat_flour',
+    'create:brass_sheet',
+    'immersiveengineering:dust_sulfur',
+    'mekanism:dust_sulfur',
+    'mekanism:sawdust',
+    'immersiveengineering:sword_steel',
+    'immersiveengineering:pickaxe_steel',
+    'immersiveengineering:shovel_steel',
+    'immersiveengineering:axe_steel',
+    'immersiveengineering:hoe_steel',
+    'immersiveengineering:seed',
+    'immersiveengineering:hemp_fiber',
+    'create:copper_nugget'
+]
 function removeAndHide(type, mod, item) {
     if (type == 'cut') {
         let cutPrefix = global.getCutPrefix(item)
@@ -28,6 +73,7 @@ function removeAndHide(type, mod, item) {
                 `${mod}:wood/encased_axle/${item}`,
                 `${mod}:wood/clutch/${item}`,
                 `${mod}:wood/gear_box/${item}`,
+                `${mod}:wood/bladed_axle/${item}`,
                 `${mod}:wood/water_wheel/${item}`
             )
         }
@@ -96,77 +142,92 @@ function removeAndHide(type, mod, item) {
     }
 
     if (type == 'metal') {
-        if (mod == 'minecraft' || mod == 'mekanism') {
-            global.removeAndHide.push(
-                `mekanism:shard_${item}`,
-                `mekanism:crystal_${item}`,
-                `mekanism:dust_${item}`,
-                `mekanism:dirty_dust_${item}`,
-                `mekanism:clump_${item}`,
-                `${mod}:${item}_ore`,
-                `${mod}:deepslate_${item}_ore`,
-                `bfr:irradiated_${item}_ore`
-            )
+        switch (mod) {
+            case 'mekanism':
+                global.removeAndHide.push(
+                    `${mod}:block_raw_${item}`,
+                )
+            case 'minecraft':
+                global.removeAndHide.push(
+                    `mekanism:shard_${item}`,
+                    `mekanism:crystal_${item}`,
+                    `mekanism:dust_${item}`,
+                    `mekanism:dirty_dust_${item}`,
+                    `mekanism:clump_${item}`,
+                    `bfr:irradiated_${item}_ore`
+                )
+                break;
+            case 'immersiveengineering':
+                global.removeAndHide.push(
+                    `${mod}:ore_${item}`,
+                    `${mod}:deepslate_ore_${item}`,
+                    `${mod}:raw_block_${item}`
+                )
+                break;
         }
-        if (mod == 'minecraft' || mod == 'mekanism' || mod == 'immersiveengineering') {
-            global.removeAndHide.push(
-                `${mod}:raw_${item}`,
-            )
-        }
-        if (mod == 'immersiveengineering') {
-            global.removeAndHide.push(
-                `${mod}:ore_${item}`,
-                `${mod}:deepslate_ore_${item}`,
-                `${mod}:raw_block_${item}`,
-
-            )
-        }
-        if (mod == 'mekanism') {
-            global.removeAndHide.push(
-                `${mod}:block_raw_${item}`,
-            )
-        }
-        if (mod == 'minecraft') {
-            global.removeAndHide.push(
-                `${mod}:${item}_nugget`,
-                `${mod}:raw_${item}_block`
-            )
+        switch (mod) {
+            case 'create':
+            case 'minecraft':
+                global.removeAndHide.push(
+                    `${mod}:${item}_nugget`,
+                    `${mod}:raw_${item}_block`
+                )
+            case 'mekanism':
+                global.removeAndHide.push(
+                    `${mod}:${item}_ore`,
+                    `${mod}:deepslate_${item}_ore`
+                )
+            case 'immersiveengineering':
+                global.removeAndHide.push(
+                    `create:crushed_raw_${item}`,
+                    `${mod}:raw_${item}`
+                )
+                break;
         }
     }
 
     if (type == 'metal' || type == 'alloy') {
-        if (mod == 'minecraft' || mod == 'mekanism') {
-            global.removeAndHide.push(
-                `${mod}:dust_${item}`
-            )
+        switch (mod) {
+            case 'create':
+            case 'createaddition':
+                global.removeAndHide.push(
+                    `${mod}:${item}_nugget`
+                )
+            case 'minecraft':
+                global.removeAndHide.push(
+                    `create:${global.getToolItem(item)}_sheet`,
+                    `${mod}:${item}_ingot`,
+                    `${mod}:${item}_block`
+                )
+                break;
         }
-
-        if (mod == 'minecraft' || mod == 'immersiveengineering') {
-            global.removeAndHide.push(
-                `immersiveengineering:plate_${item}`,
-                `immersiveengineering:nugget_${item}`,
-                `immersiveengineering:dust_${item}`
-            )
+        switch (mod) {
+            case 'immersiveengineering':
+                global.removeAndHide.push(
+                    `${mod}:ingot_${item}`,
+                    `${mod}:storage_${item}`,
+                    `${mod}:slab_storage_${item}`
+                )
+            case 'minecraft':
+                global.removeAndHide.push(
+                    `immersiveengineering:plate_${item}`,
+                    `immersiveengineering:nugget_${item}`,
+                    `immersiveengineering:dust_${item}`
+                )
+                break;
         }
-        if (mod == 'immersiveengineering') {
-            global.removeAndHide.push(
-                `${mod}:ingot_${item}`,
-                `${mod}:storage_${item}`,
-                `${mod}:slab_storage_${item}`
-            )
-        }
-        if (mod == 'mekanism') {
-            global.removeAndHide.push(
-                `${mod}:block_${item}`,
-                `${mod}:nugget_${item}`,
-                `${mod}:ingot_${item}`
-            )
-        }
-        if (mod == 'minecraft') {
-            global.removeAndHide.push(
-                `${mod}:${item}_ingot`,
-                `${mod}:${item}_block`
-            )
+        switch (mod) {
+            case 'mekanism':
+                global.removeAndHide.push(
+                    `${mod}:block_${item}`,
+                    `${mod}:nugget_${item}`,
+                    `${mod}:ingot_${item}`
+                )
+            case 'minecraft':
+                global.removeAndHide.push(
+                    `${mod}:dust_${item}`
+                )
+                break;
         }
     }
 
@@ -190,24 +251,28 @@ function removeAndHide(type, mod, item) {
 
     if (type == 'metal' || type == 'armor_tool' || type == 'tool') {
         let toolItem = global.getToolItem(item)
- 
-        global.removeAndHide.push(
-            `${mod}:${toolItem}_shovel`,
-            `${mod}:${toolItem}_pickaxe`,
-            `${mod}:${toolItem}_axe`,
-            `${mod}:${toolItem}_hoe`,
-            `${mod}:${toolItem}_sword`
-        )
 
-        if (type == 'armor_tool' || type == 'metal') {
-            global.removeAndHide.push(
-                `${mod}:${toolItem}_helmet`,
-                `${mod}:${toolItem}_chestplate`,
-                `${mod}:${toolItem}_leggings`,
-                `${mod}:${toolItem}_boots`
-            )
+        switch (type) {
+            case 'metal':
+            case 'armor_tool':
+                global.removeAndHide.push(
+                    `${mod}:${toolItem}_helmet`,
+                    `${mod}:${toolItem}_chestplate`,
+                    `${mod}:${toolItem}_leggings`,
+                    `${mod}:${toolItem}_boots`
+                )
+            case 'tool':
+                global.removeAndHide.push(
+                    `${mod}:${toolItem}_shovel`,
+                    `${mod}:${toolItem}_pickaxe`,
+                    `${mod}:${toolItem}_axe`,
+                    `${mod}:${toolItem}_hoe`,
+                    `${mod}:${toolItem}_sword`
+                )
         }
     }
+
+
 }
 
 global.vanillaWoodTypes.forEach(i => removeAndHide('wood', 'minecraft', i));
@@ -227,6 +292,9 @@ global.ieSpecialMetalTypes.forEach(i => removeAndHide('alloy', 'immersiveenginee
 global.tfcWoodTypes.forEach(i => removeAndHide('wood', 'tfc', i));
 
 global.createRockTypes.forEach(i => removeAndHide('rock', 'create', i));
+removeAndHide('alloy', 'create', 'brass')
+removeAndHide('alloy', 'createaddition', 'electrum')
+removeAndHide('metal', 'create', 'zinc')
 
 global.vanillaItems.forEach(i => global.removeAndHide.push(`minecraft:${i}`));
 global.vanillaMeatTypes.forEach(i => global.removeAndHide.push(`minecraft:cooked_${i}`));

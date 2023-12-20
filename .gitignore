@@ -18,6 +18,7 @@
 !/mods/**
 /mods/**.jar
 !/mods/CTM_DEV**.jar
+!/mods/notenoughanimations-forge**.jar
 
 /config/valkyrienskies/**
 /config/jei/world/local/**

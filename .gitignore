@@ -8,11 +8,17 @@
 !.gitattributes
 !.github/**
 !pakku-lock.json
+!index.toml
+!pack.toml
+!.packwizignore
 
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
+!/mods/**
+/mods/**.jar
 !/mods/CTM_DEV**.jar
+
 /config/valkyrienskies/**
 /config/jei/world/local/**
 /config/oculus.properties

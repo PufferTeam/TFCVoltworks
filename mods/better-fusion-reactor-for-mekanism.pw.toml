@@ -1,0 +1,13 @@
+name = "Better Fusion Reactor for Mekanism PLUS"
+filename = "BetterFusionReactor-1.20.1-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ac3556ea89b865e3367164aff3963a6ef3b984d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4777406
+project-id = 602409

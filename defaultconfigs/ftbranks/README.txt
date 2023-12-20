@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Tue Nov 21 22:29:32 EST 2023
+Last README file update: Tue Dec 19 23:45:29 EST 2023
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -131,6 +131,7 @@ command.c.coupling.remove.cart1
 command.c.coupling.remove.cart1.cart2
 command.c.coupling.removeAll
 command.c.coupling.removeAll.cart
+command.c.debuginfo
 command.c.dismissFabulousWarning
 command.c.fixLighting
 command.c.glue
@@ -302,6 +303,7 @@ command.create.coupling.remove.cart1
 command.create.coupling.remove.cart1.cart2
 command.create.coupling.removeAll
 command.create.coupling.removeAll.cart
+command.create.debuginfo
 command.create.dismissFabulousWarning
 command.create.fixLighting
 command.create.glue
@@ -1193,6 +1195,7 @@ command.ftbquests.change_progress.players.complete
 command.ftbquests.change_progress.players.complete.quest_object
 command.ftbquests.change_progress.players.reset
 command.ftbquests.change_progress.players.reset.quest_object
+command.ftbquests.clear_item_display_cache
 command.ftbquests.delete_empty_reward_tables
 command.ftbquests.editing_mode
 command.ftbquests.editing_mode.enabled
@@ -1473,6 +1476,9 @@ command.kubejs.dump_internals.events
 command.kubejs.dump_registry
 command.kubejs.dump_registry.registry
 command.kubejs.errors
+command.kubejs.errors.client
+command.kubejs.errors.server
+command.kubejs.errors.startup
 command.kubejs.export
 command.kubejs.export.pack_folders
 command.kubejs.export.pack_zips
@@ -1583,7 +1589,6 @@ command.kubejs.stages.list.player
 command.kubejs.stages.remove
 command.kubejs.stages.remove.player
 command.kubejs.stages.remove.player.stage
-command.kubejs.warnings
 command.list
 command.list.uuids
 command.locate
@@ -1907,14 +1912,6 @@ command.publish
 command.publish.allowCommands
 command.publish.allowCommands.gamemode
 command.publish.allowCommands.gamemode.port
-command.railways
-command.railways.split_train
-command.railways.split_train.train_id
-command.railways.split_train.train_id.number
-command.railways.split_train.train_name
-command.railways.split_train.train_name.number
-command.railways.train_uuid
-command.railways.train_uuid.name
 command.recipe
 command.recipe.give
 command.recipe.give.targets
@@ -2006,14 +2003,6 @@ command.setblock.pos.block.replace
 command.setworldspawn
 command.setworldspawn.pos
 command.setworldspawn.pos.angle
-command.snr
-command.snr.split_train
-command.snr.split_train.train_id
-command.snr.split_train.train_id.number
-command.snr.split_train.train_name
-command.snr.split_train.train_name.number
-command.snr.train_uuid
-command.snr.train_uuid.name
 command.spawnpoint
 command.spawnpoint.targets
 command.spawnpoint.targets.pos

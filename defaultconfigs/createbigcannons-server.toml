@@ -64,6 +64,8 @@
 	#No Damage - projectiles will not destroy anything they hit, and will only deal entity damage. Explosive projectiles will only harm entities on detonation.
 	#Allowed Values: ALL_DAMAGE, NO_EXPLOSIVE_DAMAGE, NO_DAMAGE
 	damageRestriction = "ALL_DAMAGE"
+	#.
+	projectilesCanChunkload = true
 
 	#.
 	#Projectile Fuzes
@@ -111,26 +113,6 @@
 	#.
 	#Propellant
 	[munitions.propellant]
-		#.
-		#How much a single Powder Charge adds to the muzzle velocity of a projectile in meters per game tick. (1 m/gt = 20 m/s)
-		#Range: 0.5 ~ 4.0
-		powderChargeStrength = 1.0
-		#.
-		#How much stress a single Powder Charge exerts on a cannon.
-		#Range: 0.0 ~ 3.4028234663852886E38
-		powderChargeStress = 1.0
-		#.
-		#How much each Powder Charge-equivalent propellant used affects the spread of a fired projectile.
-		#Range: 0.0 ~ 3.4028234663852886E38
-		addedSpread = 2.0
-		#.
-		#How much each power level of a Big Cartridge adds to the muzzle velocity of a projectile in meters per game tick. (1 m/gt = 20 m/s)
-		#Range: 0.5 ~ 4.0
-		bigCartridgeStrength = 1.0
-		#.
-		#How much stress each power level of a Big Cartridge exerts on a cannon.
-		#Range: 0.0 ~ 3.4028234663852886E38
-		bigCartridgeStress = 0.5
 		#.
 		#The maximum amount of power a Big Cartridge can store.
 		#Range: 1 ~ 8
@@ -230,6 +212,26 @@
 		carriageTurnRate = 1.0
 		#.
 		cannonWeightAffectsCarriageSpeed = true
+
+	#.
+	#Drop Mortar
+	[cannons.dropMortar]
+		#.
+		#Time in ticks between inserting a munition into a drop mortar and the drop mortar firing it. There are 20 ticks in 1 second.
+		#Range: > 0
+		dropMortarDelay = 5
+		#.
+		#Length in ticks that the player has to wait for before inserting the same munition type into a drop mortar again. There are 20 ticks in 1 second.
+		#Range: > 0
+		dropMortarItemCooldown = 40
+
+	#.
+	#Display Link Info
+	[cannons.displayLink]
+		#.
+		shouldDisplayCannonRotation = true
+		#.
+		shouldDisplayContainedMunitions = true
 
 #.
 #These values affect various miscellaneous contraptions.

@@ -1,0 +1,24 @@
+
+[crucibleExternalHeater]
+	#The amount of FE an external heater consumes per tick when heating a crucible.
+	#Range: 0 ~ 32000
+	crucibleExternalHeaterFEPerTick = 20
+	#The maximum temperature a crucible reaches when heated by an external heater.
+	#Range: > 0
+	crucibleExternalHeaterTemperature = 2000
+
+[tfcWaterWheel]
+	#A modifier to apply to the energy generation of a TFC water wheel on a kinetic dynamo.
+	#Range: 0.001 ~ 1000.0
+	tfcWaterWheelEnergyModifier = 1.0
+
+[tfcWindmill]
+	#A modifier to apply to the energy generation of a TFC windmill on a kinetic dynamo.
+	#Range: 0.001 ~ 1000.0
+	tfcWindmillEnergyModifier = 1.0
+
+[crate]
+	#The largest (inclusive) size of an item that is allowed in a wooden storage crate or reinforced storage crate.
+	#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
+	crateMaximumItemSize = "VERY_LARGE"
+

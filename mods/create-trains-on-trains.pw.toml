@@ -1,0 +1,13 @@
+name = "Create: Trains On Trains"
+filename = "create_trains_on_trains-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "645495295d7e71b6de20547c131e23f39f5cfc70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4738574
+project-id = 910134

@@ -1,0 +1,13 @@
+name = "Wooden cog"
+filename = "woodencog-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77a5ae56621351780323fd90050f54cf2ee17746"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4963479
+project-id = 876502

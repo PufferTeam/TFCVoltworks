@@ -1,0 +1,16 @@
+# ignore everything
+*
+!*/
+
+!/config/**
+!/defaultconfigs/**
+!/kubejs/**
+/kubejs/unused_assets/**
+
+!/mods/**
+/mods/**.jar
+!/mods/CTM_DEV**.jar
+
+/config/valkyrienskies/**
+/config/jei/world/local/**
+/config/oculus.properties

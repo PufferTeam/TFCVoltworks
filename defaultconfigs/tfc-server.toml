@@ -242,7 +242,7 @@
 	[blocks.pumpkin]
 		#
 		# Enables the knifing of pumpkins to carve them.
-		enablePumpkinCarving = true
+		enablePumpkinCarving = false
 		#
 		# Number of ticks required for a jack 'o lantern to burn out (1000 = 1 in game hour = 50 seconds), default is 108 hours. Set to -1 to disable burnout.
 		#Range: > -1

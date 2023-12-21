@@ -10,6 +10,7 @@
 !/mods/**
 /mods/**.jar
 !/mods/CTM_DEV**.jar
+!/mods/TFCVesselTooltip**.jar
 
 /config/valkyrienskies/**
 /config/jei/world/local/**

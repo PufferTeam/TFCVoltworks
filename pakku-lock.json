@@ -2289,64 +2289,6 @@
             ]
         },
         {
-            "pakku_id": "rdgHhcvVoaZbEYT7",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "littletiles",
-                "modrinth": "littletiles"
-            },
-            "name": {
-                "curseforge": "LittleTiles",
-                "modrinth": "LittleTiles"
-            },
-            "id": {
-                "curseforge": "257818",
-                "modrinth": "RCRxC1tD"
-            },
-            "files": [
-                {
-                    "_internal": "CfFile",
-                    "type": "curseforge",
-                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/4968/957/LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
-                    "id": 4968957,
-                    "required_dependencies": [
-                        "257814"
-                    ]
-                },
-                {
-                    "_internal": "MrFile",
-                    "type": "modrinth",
-                    "file_name": "LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/RCRxC1tD/versions/P2vLxjXW/LittleTiles_ALPHA_v1.6.0-pre076_mc1.20.1.jar",
-                    "hashes": {
-                        "sha512": "4b306bb69580623a600a93c4200aad80b36189e6b0a8cf231c45ec10a1555bd13c39b7e0ff5aa9fceb1fc5546ec6bc04f227302751bef531fbea0353b94fd30c",
-                        "sha1": "4fd5fbf825a55277d9298cba212dd81d882e5368"
-                    },
-                    "required_dependencies": [
-                        "OsZiaDHq"
-                    ]
-                }
-            ]
-        },
-        {
             "pakku_id": "C2mYgXFMwIKi6JIN",
             "type": "MOD",
             "side": "BOTH",

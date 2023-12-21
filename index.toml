@@ -210,7 +210,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "5aa990acc4cfdbe51dc326e5915e50a5fa5ce92a75f65caa15bd08d6c7d23fa2"
+hash = "056328bcb17212450381166dc54124efa6ed0eaf6eebd6d838153705735ab10e"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -302,15 +302,15 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "36bc7f2003f14f0c4a84e645c34fb250bb3d2c56bbede23e94ce219d4ba8d154"
+hash = "ea91b9abda4f5899831df935592f477d2ce8f693bddbb22e6952f4c767189c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6ae7cb8b3fa67c317b2ffb1bf5000dac1b7555e7b28a9557fd88ee2ab9340d78"
+hash = "98237cd4a62753b0643968154e6e3a8c6709d452b44ff68fccae5a7d372acd44"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a1bcb29ab0b35904db718e124dce018621e7ed6f61708b50447114af4ebee084"
+hash = "624a412817ca3c5c5454ba82a183b875a0f242fcb92732c9584eeb6042e7f016"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -358,7 +358,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -36825,6 +36825,10 @@ file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"
 hash = "8b93ecff33ff5dfae5a653307eb1e8390170d15a659ae15190a7959f045f96ca"
 
 [[files]]
+file = "mods/TFCVesselTooltip-1.20.1-1.0.jar"
+hash = "3198f4e4106db9b45f75dcf4d4a4e38145c0dd0f3fce443ceab92c24ee7be94e"
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "75889cd64eaaa53e048df6796dba423aed5aa7fdbf2c82c262ad59eaf5a29c85"
 metafile = true
@@ -37050,11 +37054,6 @@ hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "05d20bbe09f451362886234a68097f7bb4872c1c22fc9809a8430fad8fe2e51b"
-metafile = true
-
-[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "71cc6b8442385f1e3927fb027511a668152db3d13ae021a7701244670d0f5ce1"
 metafile = true
@@ -37167,11 +37166,6 @@ metafile = true
 [[files]]
 file = "mods/tfc-ie-crossover.pw.toml"
 hash = "70ee8e2feea693e185656b36b34f52fc2a3bb73f9fd5c0a70f60206eb9c28d79"
-metafile = true
-
-[[files]]
-file = "mods/tfc-vessel-tooltip.pw.toml"
-hash = "237c3e5f65dbb50dbf725bbcfa1ba192242b353d970180f81e9b01004d84b121"
 metafile = true
 
 [[files]]

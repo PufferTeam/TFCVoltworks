@@ -258,7 +258,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "c3fc4e72b71c8e79f3454089c1278580387e418a5d2b158b38693234cfb447cc"
+hash = "2ccfa861c2972c2c1a433340aae0f3580ddc548f50185a56b39fa8bfa1508d79"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -306,11 +306,11 @@ hash = "ea91b9abda4f5899831df935592f477d2ce8f693bddbb22e6952f4c767189c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "98237cd4a62753b0643968154e6e3a8c6709d452b44ff68fccae5a7d372acd44"
+hash = "4a02271abf21b7dab81089ea2d9b2034df71a16c3d398fc1bed14d839706493b"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "624a412817ca3c5c5454ba82a183b875a0f242fcb92732c9584eeb6042e7f016"
+hash = "54ac9eb29cecd21db98a8690b5580964169a7ea55d51428595094473e98f1630"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -36864,6 +36864,11 @@ hash = "3ff9a6e9aea300a3a29f792a52a57f0b6058658fbf4e32cb4933f7c0e28b2287"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
+metafile = true
+
+[[files]]
 file = "mods/better-fusion-reactor-for-mekanism.pw.toml"
 hash = "e1eb6db6f5f6c1098550d62bae5f4c9435e3c265d32743bb25e10092e373b25c"
 metafile = true
@@ -36886,6 +36891,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "592d00ed449f8cc03e6ac128a51f1fe5cbcd4542f56c4f3a4286adbda1522387"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "50655af569b9ddd6ca6526e7794251aef86c1bf6264473152db6402731614a65"
 metafile = true
 
 [[files]]

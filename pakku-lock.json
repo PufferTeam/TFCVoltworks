@@ -303,6 +303,72 @@
             ]
         },
         {
+            "pakku_id": "Zb047f7KikqJA65r",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "bellsandwhistles",
+                "modrinth": "bellsandwhistles"
+            },
+            "name": {
+                "curseforge": "Create: Bells & Whistles",
+                "modrinth": "Create: Bells & Whistles"
+            },
+            "id": {
+                "curseforge": "905040",
+                "modrinth": "gJ5afkVv"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "bellsandwhistles-0.4.3-1.20.x.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4860/141/bellsandwhistles-0.4.3-1.20.x.jar",
+                    "id": 4860141,
+                    "required_dependencies": [
+                        "328085",
+                        "306612"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "bellsandwhistles-0.4.3-1.20.x.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+                    "hashes": {
+                        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab",
+                        "sha1": "7cb1e1dc365c43f08ee7616f1505759e547b11be"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "snEwKoPJdJifXgaD",
             "pakku_links": [
                 "8N7X6lF3CgGjLtWO",
@@ -642,6 +708,65 @@
                     "hashes": {
                         "sha512": "b2f906251cdaee135d8f607c3ca24331a8a7b5299626a3afc6463050e57e02333340e61ef35062f7480043476c80f6079091ac060689707c219c2885dba93844",
                         "sha1": "52596cd8e234376a8350abef044c656d0c8cbd88"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "wEARZXRaXqdWG1Z9",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-encased",
+                "modrinth": "create-encased"
+            },
+            "name": {
+                "curseforge": "Create Encased",
+                "modrinth": "Create Encased"
+            },
+            "id": {
+                "curseforge": "829380",
+                "modrinth": "hSSqdyU1"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "CreateCasing-1.20.1-1.5.0-ht3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4922/305/CreateCasing-1.20.1-1.5.0-ht3.jar",
+                    "id": 4922305,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "CreateCasing-1.20.1-1.5.0-ht3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/WY3pxZHw/CreateCasing-1.20.1-1.5.0-ht3.jar",
+                    "hashes": {
+                        "sha512": "be3cfcc387b424915f657d2a3d88a1bfb8ffe78348ac776b5b87a3625735dda65e39283b2a7b482e0b07aa8afa7897b97753c6fdddb419585dd7cc587f9e822c",
+                        "sha1": "412e0ac9aec043d571aedef9198b56bbf6a58a9e"
                     },
                     "required_dependencies": [
                         "LNytGWDc"

@@ -19,7 +19,6 @@
 /mods/**.jar
 !/mods/CTM_DEV**.jar
 !/mods/notenoughanimations-forge**.jar
-!/mods/TFCVesselTooltip**.jar
 
 /config/valkyrienskies/**
 /config/jei/world/local/**

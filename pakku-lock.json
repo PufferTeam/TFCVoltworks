@@ -483,6 +483,60 @@
             ]
         },
         {
+            "pakku_id": "XpyBx22PkWrTWqaE",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "clumps",
+                "modrinth": "clumps"
+            },
+            "name": {
+                "curseforge": "Clumps",
+                "modrinth": "Clumps"
+            },
+            "id": {
+                "curseforge": "256717",
+                "modrinth": "Wnxd13zP"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Clumps-forge-1.20.1-12.0.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4614/555/Clumps-forge-1.20.1-12.0.0.3.jar",
+                    "id": 4614555,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Clumps-forge-1.20.1-12.0.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/yQVnODwU/Clumps-forge-1.20.1-12.0.0.3.jar",
+                    "hashes": {
+                        "sha512": "56ea4baeb20b9810586bc2969e2243e11b5a9520ffef718cb1e13b1e032dd1f4489baa78afdb4ce51b8d97a9de021957840f83dc5cf523ce9354098dd2dd6537",
+                        "sha1": "99fb4cf6d0339d72cec603e045d664c3909ad408"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "T7Dvy7P7e0rVEAJh",
             "type": "MOD",
             "side": "BOTH",
@@ -3495,17 +3549,23 @@
             ]
         },
         {
-            "pakku_id": "nem4DUTBoHVWG9pV",
+            "pakku_id": "qvW4SbmCBWRthPse",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "tfc-cast-iron-grill"
+                "curseforge": "tfc-cast-iron-grill",
+                "modrinth": "tfc-cast-iron-grill"
             },
             "name": {
-                "curseforge": "TFC Cast Iron Grill"
+                "curseforge": "TFC Cast Iron Grill",
+                "modrinth": "TFC Cast Iron Grill"
             },
             "id": {
-                "curseforge": "694279"
+                "curseforge": "694279",
+                "modrinth": "AzzNDuCn"
             },
             "files": [
                 {
@@ -3524,6 +3584,27 @@
                     "id": 4919838,
                     "required_dependencies": [
                         "302973"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "CastIronGrill-1.20.1-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AzzNDuCn/versions/uYmy5kU5/CastIronGrill-1.20.1-2.1.jar",
+                    "hashes": {
+                        "sha512": "4c497f0e7ebaeaf46e5199789df0735aa1efab8d2ea85a31a6238068574400866f98c34bef5b46a34c9d011ac97efdb36eb9ae18d11ca7eca928ff4cb9e26934",
+                        "sha1": "3ccc2162fd441faa3e28fd68c2a6d6009949f2df"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg"
                     ]
                 }
             ]
@@ -3562,6 +3643,43 @@
                     "required_dependencies": [
                         "302973",
                         "231951"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "zpIgazmqtqbAeUvJ",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tfc-vessel-tooltip"
+            },
+            "name": {
+                "curseforge": "TFC Vessel Tooltip"
+            },
+            "id": {
+                "curseforge": "952386"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "TFCVesselTooltip-1.20.1-1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4971/650/TFCVesselTooltip-1.20.1-1.0.jar",
+                    "id": 4971650,
+                    "required_dependencies": [
+                        "302973"
                     ]
                 }
             ]

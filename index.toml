@@ -36829,10 +36829,6 @@ file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"
 hash = "8b93ecff33ff5dfae5a653307eb1e8390170d15a659ae15190a7959f045f96ca"
 
 [[files]]
-file = "mods/TFCVesselTooltip-1.20.1-1.0.jar"
-hash = "3198f4e4106db9b45f75dcf4d4a4e38145c0dd0f3fce443ceab92c24ee7be94e"
-
-[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "75889cd64eaaa53e048df6796dba423aed5aa7fdbf2c82c262ad59eaf5a29c85"
 metafile = true
@@ -36880,6 +36876,11 @@ metafile = true
 [[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "b7343dc0912ef9ef728583a15415f125b96fa7babf144cdaea8d58850e029447"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
 
 [[files]]
@@ -37180,6 +37181,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-ie-crossover.pw.toml"
 hash = "70ee8e2feea693e185656b36b34f52fc2a3bb73f9fd5c0a70f60206eb9c28d79"
+metafile = true
+
+[[files]]
+file = "mods/tfc-vessel-tooltip.pw.toml"
+hash = "237c3e5f65dbb50dbf725bbcfa1ba192242b353d970180f81e9b01004d84b121"
 metafile = true
 
 [[files]]

@@ -5,8 +5,9 @@ SET ol=%~dp0config\openloader\
 
 del %ol%data\TFCVoltworks-Data.zip
 del %ol%resources\TFCVoltworks-Resources.zip
-npx prettier --write "resources/**/*.json"
-npx prettier --write "resources/**/*.mcmeta"
+
+call "Run-Prettier.bat"
+
 %zi% a %ol%data\TFCVoltworks-Data.zip %re%data
 %zi% a %ol%data\TFCVoltworks-Data.zip %re%pack.mcmeta
 %zi% a %ol%resources\TFCVoltworks-Resources.zip %re%assets

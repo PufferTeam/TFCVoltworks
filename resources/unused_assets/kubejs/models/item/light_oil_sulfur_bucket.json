@@ -1,0 +1,5 @@
+{
+    "loader": "forge:bucket",
+    "parent": "forge:item/bucket",
+    "fluid": "kubejs:light_oil_sulfur"
+  }

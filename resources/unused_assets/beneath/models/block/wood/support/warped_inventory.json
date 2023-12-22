@@ -1,0 +1,8 @@
+{
+	"parent": "tfc:block/wood/support/inventory",
+	"textures": {
+		"vertical": 	"beneath:block/wood/support/vertical/warped",
+		"horizontal": 	"beneath:block/wood/support/horizontal/warped",
+		"top": 			"beneath:block/wood/support/top/warped"
+	}
+}

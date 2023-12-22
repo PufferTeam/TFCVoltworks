@@ -1,0 +1,15 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "name": "Crankshafts",
+  "category": "tfc:mechanics",
+  "icon": "minecraft:barrier",
+  "secret": true,
+  "advancement": "tfc:impossible",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "DISABLED ENTRY"
+    }
+  ],
+  "read_by_default": true
+}

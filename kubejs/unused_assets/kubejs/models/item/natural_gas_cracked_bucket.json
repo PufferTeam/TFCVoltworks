@@ -1,5 +1,0 @@
-{
-    "loader": "forge:bucket",
-    "parent": "forge:item/bucket",
-    "fluid": "kubejs:natural_gas_cracked"
-  }

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tfc:block/empty",
+        "layer1": "tfc:item/moss_ball"
+    }
+}

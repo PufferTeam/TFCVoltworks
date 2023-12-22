@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "kubejs:item/creosote_treated_large_stick"
+  }
+} 

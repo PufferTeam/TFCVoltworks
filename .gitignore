@@ -11,10 +11,13 @@
 !index.toml
 !pack.toml
 !.packwizignore
+!Run**.bat
 
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
+!/resourcepacks/**
+!/resources/**
 !/mods/**
 /mods/**.jar
 !/mods/CTM_DEV**.jar

@@ -1,0 +1,8 @@
+{
+	"parent": "immersiveengineering:block/ie_six_sides_overlay_all",
+	"textures": {
+		"block_all": "kubejs:block/redstone_engineering_assembly",
+		"block_particle": "immersiveengineering:block/metal_decoration/redstone_engineering",
+		"overlay_all": "kubejs:block/iron_overlay"
+	}
+}

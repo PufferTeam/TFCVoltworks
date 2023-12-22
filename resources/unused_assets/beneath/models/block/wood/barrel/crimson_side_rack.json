@@ -1,0 +1,9 @@
+{
+	"parent": "tfc:block/barrel_side_rack",
+	"textures": {
+		"particle": 	"beneath:block/wood/barrel/outside/crimson",
+		"outside": 		"beneath:block/wood/barrel/outside/crimson",
+		"inside": 		"beneath:block/wood/barrel/inside/crimson",
+		"sheet": 		"beneath:block/wood/barrel/sheet/crimson"
+	}
+}

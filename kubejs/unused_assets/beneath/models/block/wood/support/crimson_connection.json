@@ -1,7 +1,0 @@
-{
-	"parent": "tfc:block/wood/support/connection",
-	"textures": {
-		"texture": 	"beneath:block/wood/support/horizontal/crimson",
-		"top": 		"beneath:block/wood/support/top/crimson"
-	}
-}

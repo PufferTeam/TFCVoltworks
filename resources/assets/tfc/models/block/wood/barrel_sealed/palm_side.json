@@ -1,0 +1,9 @@
+{
+	"parent": "tfc:block/barrel_side_sealed",
+	"textures": {
+		"particle": 	"tfc:block/wood/barrel/outside/palm",
+		"outside": 		"tfc:block/wood/barrel/outside/palm",
+		"inside": 		"tfc:block/wood/barrel/inside/palm",
+		"sheet": 		"tfc:block/wood/barrel/sheet/palm"
+	}
+}

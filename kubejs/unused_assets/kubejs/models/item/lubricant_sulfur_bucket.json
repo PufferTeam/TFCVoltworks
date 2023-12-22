@@ -1,5 +1,0 @@
-{
-    "loader": "forge:bucket",
-    "parent": "forge:item/bucket",
-    "fluid": "kubejs:naphtha_sulfur"
-  }

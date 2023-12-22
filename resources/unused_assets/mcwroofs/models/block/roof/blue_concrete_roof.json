@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/roof",
+	"textures": {
+		"2": "quark:block/blue_shingles",
+		"particle": "quark:block/blue_shingles"
+	}
+}

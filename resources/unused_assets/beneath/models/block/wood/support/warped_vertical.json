@@ -1,0 +1,7 @@
+{
+	"parent": "tfc:block/wood/support/vertical",
+	"textures": {
+		"texture": 	"beneath:block/wood/support/vertical/warped",
+		"top": 		"beneath:block/wood/support/top/warped"
+	}
+}

@@ -5,7 +5,10 @@
 !/config/**
 !/defaultconfigs/**
 !/kubejs/**
+!/resourcepacks/**
 /kubejs/unused_assets/**
+/kubejs/assets/**
+/kubejs/data/**
 
 !/mods/**
 /mods/**.jar

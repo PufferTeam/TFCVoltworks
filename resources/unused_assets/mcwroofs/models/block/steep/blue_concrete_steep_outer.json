@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_steep_outer",
+	"textures": {
+		"particle": "quark:block/blue_shingles",
+		"2": "quark:block/blue_shingles"
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "block.thermal.bamboo_block": "Bamboo Block",
+    "block.thermal.charcoal_block": "Charcoal Block",
+    "block.thermal.gunpowder_block": "Gunpowder Block",
+    "block.thermal.sugar_cane_block": "Sugar Cane Block",
+    "block.thermal.bitumen_block": "Bitumen Block",
+    "block.thermal.coal_coke_block": "Coke Block",
+    "block.thermal.cured_rubber_block": "Cured Rubber Block",
+    "block.thermal.rich_slag_block": "Rich Slag Block",
+    "block.thermal.rosin_block": "Rosin Block",
+    "block.thermal.rubber_block": "Rubber Block",
+    "block.thermal.sawdust_block": "Sawdust Block",
+    "block.thermal.slag_block": "Slag Block",
+    "block.thermal.tar_block": "Tar Block"
+}

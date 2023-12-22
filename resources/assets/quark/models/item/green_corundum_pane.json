@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/pane",
+  "textures": {
+    "pane": "quark:block/green_corundum",
+    "edge": "quark:block/green_corundum"
+  }
+}

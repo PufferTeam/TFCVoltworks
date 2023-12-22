@@ -625,6 +625,11 @@ hash = "b7343dc0912ef9ef728583a15415f125b96fa7babf144cdaea8d58850e029447"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "b9d2721cef410929502491b6cd2394eb6a90ce5df684d7e7ca207402ad445a0f"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
@@ -837,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "f60ee4f5518c610ef222895d891743ad8e9937ea2cda33fbad8187e568a15edb"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-botania.pw.toml"
+hash = "e7487953f43437713f12546e228607f3cc713d51d6130860d4d99f6ef3541aae"
 metafile = true
 
 [[files]]

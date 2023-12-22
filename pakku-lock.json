@@ -594,6 +594,68 @@
             ]
         },
         {
+            "pakku_id": "lcbyZGZUwmS7aWve",
+            "pakku_links": [
+                "GG40k6TaihbmcYYv",
+                "sNrhkBfrkxCAsv1d"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "botania",
+                "modrinth": "botania"
+            },
+            "name": {
+                "curseforge": "Botania",
+                "modrinth": "Botania"
+            },
+            "id": {
+                "curseforge": "225643",
+                "modrinth": "pfjLUfGv"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Botania-1.20.1-441-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4900/327/Botania-1.20.1-441-FORGE.jar",
+                    "id": 4900327,
+                    "required_dependencies": [
+                        "306770",
+                        "309927"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "Botania-1.20.1-441-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/s2BpxY5Q/Botania-1.20.1-441-FORGE.jar",
+                    "hashes": {
+                        "sha512": "39103dd2fc0dcdb434608b9bafe92a52b9e923445812649e8af8a59a48ab6f6355f98bf754fef373882cbd05a931306943f87f72352e8377d6ecd1675cdc6b56",
+                        "sha1": "e9cecd23bdb83e2edf4b93122b4e7e046c14b87b"
+                    },
+                    "required_dependencies": [
+                        "nU0bVIaL",
+                        "vvuO3ImH"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "XpyBx22PkWrTWqaE",
             "type": "MOD",
             "side": "BOTH",
@@ -2960,6 +3022,45 @@
                     "required_dependencies": [
                         "lhGA9TYQ",
                         "sk9knFPE"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "OHEfYLnBkBpQZf6v",
+            "pakku_links": [
+                "LCgiSq4qhUBcBFUM",
+                "lcbyZGZUwmS7aWve"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kubejs-botania"
+            },
+            "name": {
+                "curseforge": "KubeJS Botania"
+            },
+            "id": {
+                "curseforge": "618511"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "kubejs_botania-1.4.0-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4948/244/kubejs_botania-1.4.0-forge.jar",
+                    "id": 4948244,
+                    "required_dependencies": [
+                        "238086",
+                        "225643"
                     ]
                 }
             ]

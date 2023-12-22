@@ -226,7 +226,7 @@ hash = "cac093030b7eacdd066f38c08492f9b451b0fe5484e9b15f8fc11ba9fb74b4fa"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "67c64c6d3dd23d47d8ef7e9b1f317b6351fb4dde8e8d9b5e4d3e4eab5b571dd0"
+hash = "b193742eca00d797fac3d1ee68bfe688969641e6dbfe03193b5b0ec484d53db9"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -338,15 +338,15 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "678d395af8925d4215fcb2e2eeae1f590e4a8ce567644b6bf2295386d17eb586"
+hash = "c2b6941989e9a720e220f0fd1f969141813827580662ca0090010e77b432e685"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4793f5be2121d10267e7b1d85fd2cd1f52b5ecbc460163acb2b31e29dfcd1fda"
+hash = "b5d92d18aaa085fae3058a0b334d4088d7652d4b9a625fdd4e740dcb558e8955"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "12bb035343bdd9b46011f120806ed5ae9b8e9e4a271107295b45605e758f53fe"
+hash = "2aa5bb38b337de531e5d4c5f2d6941c1e0bf476ff03d26620f32d179cc165804"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -394,7 +394,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -600,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "556f4d100557d0d230ee21dca59cb7fe57b7daba4256bc84fece11875a2e613e"
+metafile = true
+
+[[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "39fc70ada6da75706190a552190ef37e0707d15c6126abdf48baecb3b7359c13"
 metafile = true
 
 [[files]]
@@ -875,6 +880,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "2931165803710c1bc721cfbc49c43a5ef2214038c39a39c8538e4cfecf6fc05c"
 metafile = true
 
 [[files]]

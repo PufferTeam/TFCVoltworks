@@ -705,6 +705,69 @@
             ]
         },
         {
+            "pakku_id": "U5rU7Zj8r49SQKgx",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB",
+                "pnWTCOgZOFTpEsfT"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "compressedcreativity",
+                "modrinth": "compressedcreativity"
+            },
+            "name": {
+                "curseforge": "Compressed Creativity",
+                "modrinth": "Compressed Creativity"
+            },
+            "id": {
+                "curseforge": "549381",
+                "modrinth": "Mt3rcQKj"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "compressedcreativity-1.20.1-0.1.8.b.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4871/104/compressedcreativity-1.20.1-0.1.8.b.jar",
+                    "id": 4871104,
+                    "required_dependencies": [
+                        "328085",
+                        "281849"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "compressedcreativity-1.20.1-0.1.8.b.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Mt3rcQKj/versions/E7S9hkDd/compressedcreativity-1.20.1-0.1.8.b.jar",
+                    "hashes": {
+                        "sha512": "711566e0b612b63ea82a0670bdb1188d6fe9f78ac118409fe52d9c39e0b531b80b25d18286915966d1f7b76c23cac8a4aa80c7cf3e99f8de359669b4c1674227",
+                        "sha1": "85ae03688b6809429ba947309c4887b2dd9ee836"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "ncAcdgk7"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "g9mTA6JBZXX4WFK2",
             "pakku_links": [
                 "cU54c5xiqOMZjlef"
@@ -3664,6 +3727,65 @@
                         "sha1": "6978d9d7482800a5ae2efc92f06e24b1fa2ff412"
                     },
                     "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "pnWTCOgZOFTpEsfT",
+            "pakku_links": [
+                "GG40k6TaihbmcYYv"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "pneumaticcraft-repressurized",
+                "modrinth": "pneumaticcraft-repressurized"
+            },
+            "name": {
+                "curseforge": "PneumaticCraft: Repressurized",
+                "modrinth": "PneumaticCraft: Repressurized"
+            },
+            "id": {
+                "curseforge": "281849",
+                "modrinth": "ncAcdgk7"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "pneumaticcraft-repressurized-6.0.12+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4921/181/pneumaticcraft-repressurized-6.0.12%2bmc1.20.1.jar",
+                    "id": 4921181,
+                    "required_dependencies": [
+                        "306770"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "pneumaticcraft-repressurized-6.0.12+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ncAcdgk7/versions/mcrdWaCP/pneumaticcraft-repressurized-6.0.12%2Bmc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "e950aa97f2ab02472f84f289e1e4c96fd53de49afe1d9ee7b0a112c654f56b9627bb9a1d210970bb4b0e9c6d9d3f0217e415a3d2b7328fe52c24abcd839f730e",
+                        "sha1": "be23c8704ef41afc451e2432a5d7b0976de03d5a"
+                    },
+                    "required_dependencies": [
+                        "nU0bVIaL"
                     ]
                 }
             ]

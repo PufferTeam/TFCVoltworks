@@ -4,6 +4,7 @@ Developement of the pack needs these dependencies for some of the scripts to wor
 
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org)
+- [Go](https://go.dev/dl/)
 - [Packwiz](https://packwiz.infra.link/installation/)
 - [Pakku](https://github.com/juraj-hrivnak/Pakku)
 - [7zip](https://www.7-zip.org)

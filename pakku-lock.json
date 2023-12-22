@@ -928,6 +928,71 @@
             ]
         },
         {
+            "pakku_id": "PYYP5cOnVTquwQ1o",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-power-loader",
+                "modrinth": "create-power-loader"
+            },
+            "name": {
+                "curseforge": "Create: Power Loader",
+                "modrinth": "Create: Power Loader"
+            },
+            "id": {
+                "curseforge": "936020",
+                "modrinth": "wPQ6GgFE"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "create_power_loader-1.2.3-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4956/431/create_power_loader-1.2.3-mc1.20.1.jar",
+                    "id": 4956431,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "create_power_loader-1.2.3-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/aZ7rFYfd/create_power_loader-1.2.3-mc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "ca1c9a56290cc1f382022604665a6828c4d7319ac7720aaaabe44a67bb849c79fe8e32ee0fb0f72c105667636986699b69b06aecc5cda3db62626db039784b88",
+                        "sha1": "42d9230617ba75ba3424f3b5560c9c2ede26cf40"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "VnWcJg1jq6MrEZRL",
             "pakku_links": [
                 "bTwZhv2221dTRQwB"

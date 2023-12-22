@@ -89,6 +89,14 @@ file = "config/create-common.toml"
 hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
 
 [[files]]
+file = "config/create_jetpack-client.toml"
+hash = "3ef10cf780e735b417be86d1ef29bb72fc9257250a4d5224bf9168d4978e93c9"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+hash = "0b4607ae50440e3e3cc0e44962f5d429a77918c58914bab1ff1a86b22febea89"
+
+[[files]]
 file = "config/create_mechanical_extruder-common.toml"
 hash = "7a5081f5a802fffad28d17bc44a7a5d63876bfdf33f0ebbdda9c90f6eff4c7a0"
 
@@ -306,15 +314,15 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "c13e76dbfa0ca997f2ae63e02caf1d9eef773047987f2473274b28de845d333b"
+hash = "4f3f4c8250d6f62836abf56e879bd8d7b7569bde29a70cd138836e19159f5bcd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "58968264ce222746d0a71cb87501d1cb4b4cb2ebbd5cb3048300e9b6492afa45"
+hash = "2e67510646b99f43d3c8306ea91ad25cbb5046148e47267862eacf5d0c073d1c"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a7e6ec4435317f2525cc5765807f8d7cd99720f7c7d4035e52e0b29edb705a77"
+hash = "a9bd17912de833856dada4944d219f24489f6aef3363bcb95866fb7ad57aa827"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -362,7 +370,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -31150,7 +31158,7 @@ hash = "cc702f41e73c8c0591922c8733ceb3bfeede77ff655a8c8266358edcdb7460ab"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "c79dfc863323858010bd5809e4884af2887855edfef795d738da11c4fdcf93e9"
+hash = "8f1713bf390a1ef4018ce2a2b19e45d38ca21c728fb2b8cded3279b4ec26f733"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -36911,6 +36919,11 @@ metafile = true
 [[files]]
 file = "mods/create-picky-waterwheels.pw.toml"
 hash = "dd4aeafb7f8d672778b3a49ecdf5b2adadf9305ab2c268c3a379f70f2dcad7fe"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "4e359db33e315b2d7cbc19ca4fda79aa761f7bcae41b223da557ec757dd4c9cb"
 metafile = true
 
 [[files]]

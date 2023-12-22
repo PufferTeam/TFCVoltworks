@@ -2,15 +2,31 @@
 cls
 :start
 set /p id="Mod Name: "
-set /p co="Remove or Add [A/R] : "
+set /p co="Add/Remove/Update [A/R/U]: "
 
-if /I "%co%" EQU "A" set pakku_op=add
-if /I "%co%" EQU "A" set packwiz_op=curseforge add
-if /I "%co%" EQU "A" set git_op=Added
-if /I "%co%" EQU "R" set pakku_op=rm
-if /I "%co%" EQU "R" set packwiz_op=remove
-if /I "%co%" EQU "R" set git_op=Removed
+if /I "%co%" EQU "A" goto :add
+if /I "%co%" EQU "R" goto :rem
+if /I "%co%" EQU "U" goto :upd
 
+:add
+set pakku_op=add
+set packwiz_op=curseforge add
+set git_op=Added
+goto :run
+
+:rem
+set pakku_op=rm
+set packwiz_op=remove
+set git_op=Removed
+goto :run
+
+:upd
+set pakku_op=update
+set packwiz_op=update
+set git_op=Updated
+goto :run
+
+:run
 java -jar Pakku-0.0.6.jar %pakku_op% %id%
 packwiz %packwiz_op% %id%
 packwiz refresh

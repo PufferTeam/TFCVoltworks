@@ -302,7 +302,7 @@ hash = "fc135d7b0ee2a656c6a1a8e1afab2bd4c13582eefe5e756101ff4865a289c798"
 
 [[files]]
 file = "config/openloader/resources/TFCVoltworks-Resources.zip"
-hash = "16d22c3684b59981a418688a4479aba1e72a26614fcd0d2c1d5736d45dbacf7f"
+hash = "b4c473ce0220e0bf762d6b4a97204ac165711093ce2b843e5d1aa2bc4362774b"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -657,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "d49b20d6841ee811b7f7cef4aae51dfa6b52c37f1fca15823699f45900152966"
 metafile = true
 
 [[files]]

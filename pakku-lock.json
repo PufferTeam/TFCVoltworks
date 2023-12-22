@@ -1436,6 +1436,74 @@
             ]
         },
         {
+            "pakku_id": "1vQdFQ7aGr4qH7Bc",
+            "pakku_links": [
+                "HTUF5o2nfcoIfJBf"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "e4mc",
+                "modrinth": "e4mc"
+            },
+            "name": {
+                "curseforge": "e4mc",
+                "modrinth": "e4mc"
+            },
+            "id": {
+                "curseforge": "849519",
+                "modrinth": "qANg5Jrr"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "e4mc-4.0.1+1.19.4-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4715/352/e4mc-4.0.1+1.19.4-forge.jar",
+                    "id": 4715352,
+                    "required_dependencies": [
+                        "351264"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "e4mc-4.0.1+1.19.4-forge.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/bFG2YxbQ/e4mc-4.0.1%2B1.19.4-forge.jar",
+                    "hashes": {
+                        "sha512": "5df54838db2f8efc59190246b3f65ae742377a0274829154e421745383e6d62018512061c6c0bd1db3db931c153f5cc7aadf560b2102fc7c01a94c03e0bbbcad",
+                        "sha1": "927dec38f8279b89bd03a9d65adeddf01be0da91"
+                    },
+                    "required_dependencies": [
+                        "ordsPcFz"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "UykqmsQQYPHUUDxY",
             "type": "MOD",
             "side": "BOTH",

@@ -318,11 +318,11 @@ hash = "4f3f4c8250d6f62836abf56e879bd8d7b7569bde29a70cd138836e19159f5bcd"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "2e67510646b99f43d3c8306ea91ad25cbb5046148e47267862eacf5d0c073d1c"
+hash = "7445b88567e36bdda95112e936c8bb607fed3ecea7be99453d58f5932b46a744"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "a9bd17912de833856dada4944d219f24489f6aef3363bcb95866fb7ad57aa827"
+hash = "ba268412f26ad07019fed2b9970412c0ccd8de7178516abd13fa534321ad1012"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -370,7 +370,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -37044,6 +37044,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "2f642ad048cb3ba04ffede51488ca1d403bb4a1d7fcd651a48d31d9c162234f5"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
 metafile = true
 
 [[files]]

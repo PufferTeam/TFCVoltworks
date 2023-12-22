@@ -2149,6 +2149,71 @@
             ]
         },
         {
+            "pakku_id": "WsGba6EZskeuhFwf",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "interiors",
+                "modrinth": "interiors"
+            },
+            "name": {
+                "curseforge": "Create: Interiors",
+                "modrinth": "Create: Interiors"
+            },
+            "id": {
+                "curseforge": "906239",
+                "modrinth": "r4Knci2k"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "interiors-0.5.2+mc1.20.1-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4875/877/interiors-0.5.2%2bmc1.20.1-FORGE.jar",
+                    "id": 4875877,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "interiors-0.5.2+mc1.20.1-FORGE.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/WA1plK3v/interiors-0.5.2%2Bmc1.20.1-FORGE.jar",
+                    "hashes": {
+                        "sha512": "f6436da1b65b8d010d6cf516f90141ca00f8a36eda753818eb42a4ebcda185381336e950787aebbd79683ff0223591fe30271aa8e13d4e40d1ece4534d5e79f9",
+                        "sha1": "c55cb7e71e756f14b10a0b4404acbfaab515121e"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "GzqawyXofLTVY69t",
             "pakku_links": [
                 "OzDXE0ekHMLm1G5q"

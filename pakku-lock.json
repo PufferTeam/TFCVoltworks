@@ -2781,64 +2781,6 @@
             ]
         },
         {
-            "pakku_id": "C2mYgXFMwIKi6JIN",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "mcwifipnp",
-                "modrinth": "mcwifipnp"
-            },
-            "name": {
-                "curseforge": "LAN World Plug-n-Play",
-                "modrinth": "LAN World Plug-n-Play (mcwifipnp)"
-            },
-            "id": {
-                "curseforge": "450250",
-                "modrinth": "RTWpcTBp"
-            },
-            "files": [
-                {
-                    "_internal": "CfFile",
-                    "type": "curseforge",
-                    "file_name": "mcwifipnp-1.6.6-1.20.1-forge.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4682/978/mcwifipnp-1.6.6-1.20.1-forge.jar",
-                    "id": 4682978,
-                    "required_dependencies": [
-                    ]
-                },
-                {
-                    "_internal": "MrFile",
-                    "type": "modrinth",
-                    "file_name": "mcwifipnp-1.6.6-1.20.1-forge.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RTWpcTBp/versions/jPuNUy6U/mcwifipnp-1.6.6-1.20.1-forge.jar",
-                    "hashes": {
-                        "sha512": "b9f33e83a5839862b0f0511b420820e44a9fd525c503745414f8dc651ddc8e1be9b9490b8434c24d3de964021b3c1cd9be12b8a605318a9fd2ab68ff161e9d18",
-                        "sha1": "9d614f577b873973eeb4eac20a00eb4df75b4600"
-                    },
-                    "required_dependencies": [
-                    ]
-                }
-            ]
-        },
-        {
             "pakku_id": "d4OQyKAh8lqVb8lv",
             "type": "MOD",
             "side": "BOTH",

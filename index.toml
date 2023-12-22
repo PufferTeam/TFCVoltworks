@@ -310,11 +310,11 @@ hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
 file = "config/openloader/data/TFCVoltworks-Data.zip"
-hash = "fc135d7b0ee2a656c6a1a8e1afab2bd4c13582eefe5e756101ff4865a289c798"
+hash = "f42c9f03687c95c23fa92343f6712e791f551fcbbbc7a7773b08611a175a33cd"
 
 [[files]]
 file = "config/openloader/resources/TFCVoltworks-Resources.zip"
-hash = "b4c473ce0220e0bf762d6b4a97204ac165711093ce2b843e5d1aa2bc4362774b"
+hash = "d9c7a620aaa2fc2621af2117a97321622a4023e7b88485ec6285c9defc407749"
 
 [[files]]
 file = "config/patchouli-client.toml"

@@ -10,9 +10,8 @@ del %ol%resources\TFCVoltworks-Resources.zip
 %zi% a %ol%resources\TFCVoltworks-Resources.zip %re%assets
 %zi% a %ol%resources\TFCVoltworks-Resources.zip %re%pack.mcmeta
 
-npx prettier --write "app/**/*.json"
-npx prettier --write "app/**/*.mcmeta"
-
 packwiz refresh
 
+npx prettier --write "resources/**/*.json"
+npx prettier --write "resources/**/*.mcmeta"
 pause

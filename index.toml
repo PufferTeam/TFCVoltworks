@@ -73,6 +73,10 @@ file = "config/attributefix.json"
 hash = "3be892a0c66418b41d471201c65aab180c2336018f70bc0c1f3660fa92f0ce7e"
 
 [[files]]
+file = "config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
 file = "config/betterfoliage-client.toml"
 hash = "c980ebb79847b5eb5389d15567843cba8e32586ab1039c8e68f05574fa1ff765"
 
@@ -125,6 +129,10 @@ file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
+
+[[files]]
 file = "config/dynamic_lights_reforged.toml"
 hash = "f6e6e9b80a3d95639a0cf81f53bd6fdd2b9064e56124025fbd7cb5731fcfd253"
 
@@ -138,7 +146,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "85739b299639618ab683d2654d7905b4491da403535676d2c09ad1bfa2cdd7d7"
+hash = "84a1d8715797e5e385d7298f245a50e780118873a551f51a56ab13125e93e48a"
 
 [[files]]
 file = "config/embeddiumplus.toml"
@@ -330,15 +338,15 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "4f3f4c8250d6f62836abf56e879bd8d7b7569bde29a70cd138836e19159f5bcd"
+hash = "678d395af8925d4215fcb2e2eeae1f590e4a8ce567644b6bf2295386d17eb586"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "3cdffa11108b0458f5f671bb26bd300e51a101af7728823c1373e1f6f41cb402"
+hash = "4793f5be2121d10267e7b1d85fd2cd1f52b5ecbc460163acb2b31e29dfcd1fda"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "bf749ecad56bf73c71fc46861b0576099f6d36a822f1f3e7648ce848c9b63a00"
+hash = "12bb035343bdd9b46011f120806ed5ae9b8e9e4a271107295b45605e758f53fe"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -386,7 +394,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -832,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "5a889a1758ca81669eb6bc1362af16f059a2f61a328c7a8d7fda98658415b434"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
 
 [[files]]

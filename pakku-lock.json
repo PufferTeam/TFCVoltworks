@@ -3265,6 +3265,102 @@
             ]
         },
         {
+            "pakku_id": "SUsI8NxlIAIa96yk",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "no-telemetry",
+                "modrinth": "no-telemetry"
+            },
+            "name": {
+                "curseforge": "No Telemetry",
+                "modrinth": "No Telemetry"
+            },
+            "id": {
+                "curseforge": "530816",
+                "modrinth": "hg77g4Pw"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "no-telemetry-1.8.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.2-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4955/753/no-telemetry-1.8.0.jar",
+                    "id": 4955753,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "no-telemetry-1.8.0.jar",
+                    "mc_versions": [
+                        "21w38a",
+                        "21w39a",
+                        "21w40a",
+                        "21w41a",
+                        "21w42a",
+                        "21w43a",
+                        "21w44a",
+                        "1.18-pre1",
+                        "1.18-pre2",
+                        "1.18-pre3",
+                        "1.18-pre4",
+                        "1.18-pre5",
+                        "1.18-pre6",
+                        "1.18-pre7",
+                        "1.18-pre8",
+                        "1.18-rc1",
+                        "1.18-rc2",
+                        "1.18-rc3",
+                        "1.18-rc4",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar",
+                    "hashes": {
+                        "sha512": "38b6d7939e3eb64d121d284ea7d7b04ab1863cb4dedaef2e85b11cee3f13f3e160839822402b94dc8da49ffaa10e2b901395300efc1f95bcf4dbf3024aeefa9a",
+                        "sha1": "238b8ebc95100368951e0ff5ef2b16a1406e32f2"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "n2e3Ic7ZxMOn6Itv",
             "type": "MOD",
             "side": "BOTH",

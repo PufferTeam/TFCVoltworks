@@ -358,6 +358,62 @@
             ]
         },
         {
+            "pakku_id": "cdBixBr1ymsImNMT",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "balm",
+                "modrinth": "balm"
+            },
+            "name": {
+                "curseforge": "Balm (Forge Edition)",
+                "modrinth": "Balm"
+            },
+            "id": {
+                "curseforge": "531761",
+                "modrinth": "MBAkmtvl"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "balm-forge-1.20.1-7.2.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4943/500/balm-forge-1.20.1-7.2.1.jar",
+                    "id": 4943500,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "balm-forge-1.20.1-7.2.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/JUrMdJP1/balm-forge-1.20.1-7.2.1.jar",
+                    "hashes": {
+                        "sha512": "9f1ed30180a5bdc2e5b401b740b8f739259c197c03f1758cd0d3462ded3f712330d03dabe4fa87aece02a2a833d4e16e2fdaf8b08c97527e3c9209da731cde0e",
+                        "sha1": "bac648850674d2e3f92082a3b9e69f02284d169e"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "Zb047f7KikqJA65r",
             "pakku_links": [
                 "bTwZhv2221dTRQwB"
@@ -1314,6 +1370,67 @@
                         "sha1": "c2304fed45b8becbe7c587eec58cbb8ef00a9a45"
                     },
                     "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "iSu07uWyrJWdYMkP",
+            "pakku_links": [
+                "cdBixBr1ymsImNMT"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "default-options",
+                "modrinth": "default-options"
+            },
+            "name": {
+                "curseforge": "Default Options",
+                "modrinth": "Default Options"
+            },
+            "id": {
+                "curseforge": "232131",
+                "modrinth": "WEg59z5b"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "defaultoptions-forge-1.20-18.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4635/878/defaultoptions-forge-1.20-18.0.1.jar",
+                    "id": 4635878,
+                    "required_dependencies": [
+                        "531761"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "defaultoptions-forge-1.20-18.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar",
+                    "hashes": {
+                        "sha512": "41ab37f580a1cbcb063958b7ec6034c9bea729aecb5452e5982a21d068617a818e78d31f03e76fc4e06dbf73f066f576d9dd6566f70d4912f29b595ba5c54079",
+                        "sha1": "73af2309627a68a7bff3e53e02ea22fb5c4651e5"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
                     ]
                 }
             ]

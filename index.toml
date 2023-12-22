@@ -314,7 +314,7 @@ hash = "f42c9f03687c95c23fa92343f6712e791f551fcbbbc7a7773b08611a175a33cd"
 
 [[files]]
 file = "config/openloader/resources/TFCVoltworks-Resources.zip"
-hash = "d9c7a620aaa2fc2621af2117a97321622a4023e7b88485ec6285c9defc407749"
+hash = "21b244ba7e38f82201954c25237af84f846b4e0505acbfce2e16c66da6c7235c"
 
 [[files]]
 file = "config/patchouli-client.toml"

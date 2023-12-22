@@ -12,6 +12,8 @@
 !pack.toml
 !.packwizignore
 !Run**.bat
+!README.md
+!SETUP.md
 
 !/config/**
 !/defaultconfigs/**

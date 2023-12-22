@@ -31,10 +31,7 @@ exit
 :yes
 
 echo Committing to Git...
-git add ./mods/%id%.pw.toml
-git add ./index.toml
-git add ./pack.toml
-git add ./pakku-lock.json
+git add .
 git commit -am "%git_op% %id%."
 git push
 

@@ -3227,6 +3227,61 @@
             ]
         },
         {
+            "pakku_id": "7a4qgS494cS7BXJf",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "open-loader",
+                "modrinth": "open-loader"
+            },
+            "name": {
+                "curseforge": "Open Loader",
+                "modrinth": "Open Loader"
+            },
+            "id": {
+                "curseforge": "354339",
+                "modrinth": "KwWsINvD"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "OpenLoader-Forge-1.20.1-19.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4780/29/OpenLoader-Forge-1.20.1-19.0.3.jar",
+                    "id": 4780029,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "OpenLoader-Forge-1.20.1-19.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KwWsINvD/versions/nU5q0Vho/OpenLoader-Forge-1.20.1-19.0.3.jar",
+                    "hashes": {
+                        "sha512": "8bd73a19387293da17c79ff7a719923490c29afbf2d8ff1275f3841c41ae9e2c1a417b497b7a9adc17bac3527d9ee006455397678a4e2164cb370e3e4f33a796",
+                        "sha1": "12769df82c799d7e7a061a212ff95d71675276b8"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "GG40k6TaihbmcYYv",
             "type": "MOD",
             "side": "BOTH",

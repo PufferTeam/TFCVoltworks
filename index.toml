@@ -36817,6 +36817,10 @@ file = "kubejs/data/tfc/advancements/impossible.json"
 hash = "d62a959782426ecfcebca3c1d745287fa190396cf976c4e5ae231bc5366eb3bc"
 
 [[files]]
+file = "kubejs/server_scripts/functions.js"
+hash = "b2b2747dd033b2628b4d30f3a925e3fadbebb6886d26275357e5d7d8c4fe1177"
+
+[[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
 hash = "e606a01c95a534c80502924a3bcb75c31e99708f2d12f31a3cf7b7424561b9e8"
 
@@ -37144,6 +37148,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
 metafile = true
 
 [[files]]

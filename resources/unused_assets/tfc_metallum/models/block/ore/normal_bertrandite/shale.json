@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/shale/normal_iron","particle":"tfc:block/rock/raw/shale","overlay":"tfc_metallum:block/ore/normal_bertrandite"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/shale/normal_iron",
+    "particle": "tfc:block/rock/raw/shale",
+    "overlay": "tfc_metallum:block/ore/normal_bertrandite"
+  }
+}

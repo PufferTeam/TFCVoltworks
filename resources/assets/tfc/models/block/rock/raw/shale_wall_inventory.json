@@ -1,8 +1,7 @@
 {
-	"parent":"tfc:block/wall_inventory_ud",
-	"textures":
-	{
-		"wall":"tfc:block/rock/raw/shale",
-		"updown":"tfc:block/rock/raw/shale_ud"
-	}
+  "parent": "tfc:block/wall_inventory_ud",
+  "textures": {
+    "wall": "tfc:block/rock/raw/shale",
+    "updown": "tfc:block/rock/raw/shale_ud"
+  }
 }

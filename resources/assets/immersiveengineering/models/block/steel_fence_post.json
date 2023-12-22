@@ -1,1 +1,4 @@
-{"parent":"minecraft:block/fence_post","textures":{"texture":"immersiveengineering:block/metal/steel_fence"}}
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": { "texture": "immersiveengineering:block/metal/steel_fence" }
+}

@@ -1,1 +1,4 @@
-{"parent":"tfc:block/groundcover/boulder","textures":{"all":"tfc:block/rock/raw/limestone"}}
+{
+  "parent": "tfc:block/groundcover/boulder",
+  "textures": { "all": "tfc:block/rock/raw/limestone" }
+}

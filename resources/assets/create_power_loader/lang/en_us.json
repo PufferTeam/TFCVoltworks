@@ -1,0 +1,6 @@
+{
+  "block.create_power_loader.empty_andesite_chunk_loader": "Empty Igneous Chunk Loader",
+  "block.create_power_loader.andesite_chunk_loader": "Igneous Chunk Loader",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.header": "Basic Usage of the Igneous Chunk Loader",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.header": "Redstone and the Igneous Chunk Loader"
+}

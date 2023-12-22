@@ -1,6 +1,6 @@
 {
-	"parent": "tfc:block/wood/support/horizontal",
-	"textures": {
-		"texture": 	"tfc:block/wood/support/horizontal/white_cedar"
-	}
+  "parent": "tfc:block/wood/support/horizontal",
+  "textures": {
+    "texture": "tfc:block/wood/support/horizontal/white_cedar"
+  }
 }

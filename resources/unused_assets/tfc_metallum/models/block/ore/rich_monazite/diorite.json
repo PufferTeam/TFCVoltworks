@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/diorite/rich_gold","particle":"tfc:block/rock/raw/diorite","overlay":"tfc_metallum:block/ore/rich_monazite"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/diorite/rich_gold",
+    "particle": "tfc:block/rock/raw/diorite",
+    "overlay": "tfc_metallum:block/ore/rich_monazite"
+  }
+}

@@ -1,1 +1,4 @@
-{"parent":"tfc:block/grass_snowy_side","textures":{"texture":"tfc:block/grass_clay_snow/loam"}}
+{
+  "parent": "tfc:block/grass_snowy_side",
+  "textures": { "texture": "tfc:block/grass_clay_snow/loam" }
+}

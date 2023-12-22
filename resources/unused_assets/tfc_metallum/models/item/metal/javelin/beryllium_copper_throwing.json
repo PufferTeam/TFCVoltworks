@@ -1,1 +1,25 @@
-{"loader": "forge:separate_transforms","gui_light": "front","base": {"parent": "tfc:item/template_javelin_throwing","textures": {"layer0": "tfc_metallum:item/metal/javelin/held/beryllium_copper"}},"perspectives": {"none": {"parent": "tfc:item/template_javelin_throwing","textures": {"layer0": "tfc_metallum:item/metal/javelin/held/beryllium_copper"}},"fixed": {"parent": "tfc:item/template_javelin_throwing","textures": {"layer0": "tfc_metallum:item/metal/javelin/held/beryllium_copper"}},"gui": {"parent": "tfc_metallum:item/metal/javelin/beryllium_copper_gui"}}}
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "tfc:item/template_javelin_throwing",
+    "textures": {
+      "layer0": "tfc_metallum:item/metal/javelin/held/beryllium_copper"
+    }
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc:item/template_javelin_throwing",
+      "textures": {
+        "layer0": "tfc_metallum:item/metal/javelin/held/beryllium_copper"
+      }
+    },
+    "fixed": {
+      "parent": "tfc:item/template_javelin_throwing",
+      "textures": {
+        "layer0": "tfc_metallum:item/metal/javelin/held/beryllium_copper"
+      }
+    },
+    "gui": { "parent": "tfc_metallum:item/metal/javelin/beryllium_copper_gui" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "tfc:item/grill",
+  "textures": {
+    "texture": "castirongrill:item/cast_iron_grill"
+  }
+}

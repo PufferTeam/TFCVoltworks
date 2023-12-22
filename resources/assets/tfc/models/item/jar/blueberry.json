@@ -1,1 +1,8 @@
-{"__comment__": "This file was automatically created by mcresources","parent": "item/generated","textures": {"layer0": "tfc:item/jar/blueberry_unsealed","layer1": "tfc:item/jar_lid_overlay"}}
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tfc:item/jar/blueberry_unsealed",
+    "layer1": "tfc:item/jar_lid_overlay"
+  }
+}

@@ -1,1 +1,7 @@
-{"parent":"tfc:block/groundcover/twig_45","textures":{"side":"tfc:block/wood/log/sequoia","top":"tfc:block/wood/log_top/sequoia"}}
+{
+  "parent": "tfc:block/groundcover/twig_45",
+  "textures": {
+    "side": "tfc:block/wood/log/sequoia",
+    "top": "tfc:block/wood/log_top/sequoia"
+  }
+}

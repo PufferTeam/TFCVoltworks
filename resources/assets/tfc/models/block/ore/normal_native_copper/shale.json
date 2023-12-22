@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/shale/normal_copper","particle":"tfc:block/rock/raw/shale","overlay":"tfc:block/ore/normal_native_copper"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/shale/normal_copper",
+    "particle": "tfc:block/rock/raw/shale",
+    "overlay": "tfc:block/ore/normal_native_copper"
+  }
+}

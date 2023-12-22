@@ -1,1 +1,4 @@
-{"parent": "tfc_metalwork:block/metal/ladder/ladder","textures": {"texture": "tfc_metalwork:block/metal/ladder/stainless_steel"}}
+{
+  "parent": "tfc_metalwork:block/metal/ladder/ladder",
+  "textures": { "texture": "tfc_metalwork:block/metal/ladder/stainless_steel" }
+}

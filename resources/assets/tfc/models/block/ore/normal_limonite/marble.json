@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/marble/normal_iron","particle":"tfc:block/rock/raw/marble","overlay":"tfc:block/ore/normal_limonite"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/marble/normal_iron",
+    "particle": "tfc:block/rock/raw/marble",
+    "overlay": "tfc:block/ore/normal_limonite"
+  }
+}

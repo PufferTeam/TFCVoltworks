@@ -1,1 +1,4 @@
-{"parent":"item/generated","textures":{"layer0":"tfc:item/wood/boat/palm"}}
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "tfc:item/wood/boat/palm" }
+}

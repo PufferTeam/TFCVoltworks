@@ -1,1 +1,4 @@
-{"parent":"minecraft:block/fence_inventory","textures":{"texture":"immersiveengineering:block/metal/steel_fence_item"}}
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": { "texture": "immersiveengineering:block/metal/steel_fence_item" }
+}

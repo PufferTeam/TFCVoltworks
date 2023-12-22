@@ -1,1 +1,4 @@
-{"parent":"tfc:block/crop_cross","textures":{"crop":"tfc:block/crop/cabbage_dead_young"}}
+{
+  "parent": "tfc:block/crop_cross",
+  "textures": { "crop": "tfc:block/crop/cabbage_dead_young" }
+}

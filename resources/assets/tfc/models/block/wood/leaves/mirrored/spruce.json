@@ -1,1 +1,4 @@
-{"parent":"tfc:block/leaves_mirrored","textures":{"all":"tfc:block/wood/leaves/spruce"}}
+{
+  "parent": "tfc:block/leaves_mirrored",
+  "textures": { "all": "tfc:block/wood/leaves/spruce" }
+}

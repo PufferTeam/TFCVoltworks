@@ -1,21 +1,21 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/template_chiseled_bookshelf_slot_top_left",
-	"textures": {
-		"texture": "block/chiseled_bookshelf_occupied"
-	},
-	"elements": [
-		{
-			"from": [11, 9, 1],
-			"to": [15, 14, 4],
-			"faces": {
-				"north": {"uv": [1, 2, 5, 7], "texture": "#texture"},
-				"east": {"uv": [1, 2, 2, 7], "texture": "#texture"},
-				"south": {"uv": [0, 0, 4, 5], "texture": "#missing"},
-				"west": {"uv": [4, 2, 5, 7], "texture": "#texture"},
-				"up": {"uv": [2, 2, 4, 4], "texture": "#texture"},
-				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
-			}
-		}
-	]
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:block/template_chiseled_bookshelf_slot_top_left",
+  "textures": {
+    "texture": "block/chiseled_bookshelf_occupied"
+  },
+  "elements": [
+    {
+      "from": [11, 9, 1],
+      "to": [15, 14, 4],
+      "faces": {
+        "north": { "uv": [1, 2, 5, 7], "texture": "#texture" },
+        "east": { "uv": [1, 2, 2, 7], "texture": "#texture" },
+        "south": { "uv": [0, 0, 4, 5], "texture": "#missing" },
+        "west": { "uv": [4, 2, 5, 7], "texture": "#texture" },
+        "up": { "uv": [2, 2, 4, 4], "texture": "#texture" },
+        "down": { "uv": [0, 0, 4, 4], "texture": "#missing" }
+      }
+    }
+  ]
 }

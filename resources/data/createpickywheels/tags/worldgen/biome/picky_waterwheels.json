@@ -1,7 +1,3 @@
 {
-  "values": [
-    "#tfc:is_river",
-    "minecraft:river",
-    "minecraft:frozen_river"
-  ]
+  "values": ["#tfc:is_river", "minecraft:river", "minecraft:frozen_river"]
 }

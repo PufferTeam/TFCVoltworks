@@ -1,8 +1,7 @@
 {
-	"parent":"tfc:block/wall_inventory_ud",
-	"textures":
-	{
-		"wall":"tfc:block/rock/raw/slate",
-		"updown":"tfc:block/rock/raw/slate_ud"
-	}
+  "parent": "tfc:block/wall_inventory_ud",
+  "textures": {
+    "wall": "tfc:block/rock/raw/slate",
+    "updown": "tfc:block/rock/raw/slate_ud"
+  }
 }

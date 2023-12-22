@@ -1,1 +1,19 @@
-{"loader": "forge:separate_transforms","gui_light": "front","base": {"parent": "tfc:item/template_javelin_throwing","textures": {"layer0": "tfc_metallum:item/metal/javelin/held/signalum"}},"perspectives": {"none": {"parent": "tfc:item/template_javelin_throwing","textures": {"layer0": "tfc_metallum:item/metal/javelin/held/signalum"}},"fixed": {"parent": "tfc:item/template_javelin_throwing","textures": {"layer0": "tfc_metallum:item/metal/javelin/held/signalum"}},"gui": {"parent": "tfc_metallum:item/metal/javelin/signalum_gui"}}}
+{
+  "loader": "forge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "tfc:item/template_javelin_throwing",
+    "textures": { "layer0": "tfc_metallum:item/metal/javelin/held/signalum" }
+  },
+  "perspectives": {
+    "none": {
+      "parent": "tfc:item/template_javelin_throwing",
+      "textures": { "layer0": "tfc_metallum:item/metal/javelin/held/signalum" }
+    },
+    "fixed": {
+      "parent": "tfc:item/template_javelin_throwing",
+      "textures": { "layer0": "tfc_metallum:item/metal/javelin/held/signalum" }
+    },
+    "gui": { "parent": "tfc_metallum:item/metal/javelin/signalum_gui" }
+  }
+}

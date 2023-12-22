@@ -1,14 +1,14 @@
 {
-	"variants": {
-		"lit=true": [
-			{
-				"model": "tfc:block/firepit_lit"
-			}
-		],
-		"lit=false": [
-			{
-				"model": "tfc:block/firepit_unlit"
-			}
-		]
-	}
+  "variants": {
+    "lit=true": [
+      {
+        "model": "tfc:block/firepit_lit"
+      }
+    ],
+    "lit=false": [
+      {
+        "model": "tfc:block/firepit_unlit"
+      }
+    ]
+  }
 }

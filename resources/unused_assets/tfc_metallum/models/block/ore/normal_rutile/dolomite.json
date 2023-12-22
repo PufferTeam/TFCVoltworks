@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/dolomite/normal_copper","particle":"tfc:block/rock/raw/dolomite","overlay":"tfc_metallum:block/ore/normal_rutile"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/dolomite/normal_copper",
+    "particle": "tfc:block/rock/raw/dolomite",
+    "overlay": "tfc_metallum:block/ore/normal_rutile"
+  }
+}

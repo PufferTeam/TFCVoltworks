@@ -3,6 +3,6 @@
   "parent": "firmalife:block/oven_chimney",
   "textures": {
     "top": "firmalife:block/oven/chimney/top_cured",
-	"bricks": "firmalife:block/oven/chimney/bricks_cured"
+    "bricks": "firmalife:block/oven/chimney/bricks_cured"
   }
 }

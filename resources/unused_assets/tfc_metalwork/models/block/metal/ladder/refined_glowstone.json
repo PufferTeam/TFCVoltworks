@@ -1,1 +1,6 @@
-{"parent": "tfc_metalwork:block/metal/ladder/ladder","textures": {"texture": "tfc_metalwork:block/metal/ladder/refined_glowstone"}}
+{
+  "parent": "tfc_metalwork:block/metal/ladder/ladder",
+  "textures": {
+    "texture": "tfc_metalwork:block/metal/ladder/refined_glowstone"
+  }
+}

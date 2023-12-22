@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/basalt/poor_copper","particle":"tfc:block/rock/raw/basalt","overlay":"tfc:block/ore/poor_bismuthinite"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/basalt/poor_copper",
+    "particle": "tfc:block/rock/raw/basalt",
+    "overlay": "tfc:block/ore/poor_bismuthinite"
+  }
+}

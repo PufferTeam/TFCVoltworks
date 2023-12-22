@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/basalt/XXSHAPEXX","particle":"tfc:block/rock/raw/basalt","overlay":"tfc:block/ore/graphite"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/basalt/XXSHAPEXX",
+    "particle": "tfc:block/rock/raw/basalt",
+    "overlay": "tfc:block/ore/graphite"
+  }
+}

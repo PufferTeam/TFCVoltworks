@@ -1,1 +1,8 @@
-{"parent":"tfc:block/ore","textures":{"all":"tfc:block/ore_raw_rock/andesite/XXSHAPEXX","particle":"tfc:block/rock/raw/andesite","overlay":"tfc:block/ore/gypsum"}}
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "tfc:block/ore_raw_rock/andesite/XXSHAPEXX",
+    "particle": "tfc:block/rock/raw/andesite",
+    "overlay": "tfc:block/ore/gypsum"
+  }
+}

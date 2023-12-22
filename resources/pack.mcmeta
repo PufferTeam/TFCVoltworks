@@ -1,6 +1,6 @@
 {
-  "pack":{
-      "pack_format": 15,
-      "description": "[MODPACK] Resources for TFC Voltworks. Only add custom packs above it."
+  "pack": {
+    "pack_format": 15,
+    "description": "Resources for TFC Voltworks."
   }
 }

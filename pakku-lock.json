@@ -2965,6 +2965,68 @@
             ]
         },
         {
+            "pakku_id": "tfWEjKKDaL7NTB0i",
+            "pakku_links": [
+                "LCgiSq4qhUBcBFUM",
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kubejs-create",
+                "modrinth": "kubejs-create"
+            },
+            "name": {
+                "curseforge": "KubeJS Create",
+                "modrinth": "KubeJS Create"
+            },
+            "id": {
+                "curseforge": "429371",
+                "modrinth": "T38eAZQC"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "kubejs-create-forge-2001.2.5-build.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4884/96/kubejs-create-forge-2001.2.5-build.2.jar",
+                    "id": 4884096,
+                    "required_dependencies": [
+                        "238086",
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "kubejs-create-forge-2001.2.5-build.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/T38eAZQC/versions/hei9cDRa/kubejs-create-forge-2001.2.5-build.2.jar",
+                    "hashes": {
+                        "sha512": "629756b7d6504fe4d989ce60a5ca785ab2ad17dc018d4766a437d7b2b384db9c5930c257c484874168c8f832f4503d174e13513dce16c4b983e0e141f1b95250",
+                        "sha1": "b5548110822245de13c7adf1d10e00ecab9cd633"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "umyGl7zF"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "X1paIsvYVTOxcsWA",
             "pakku_links": [
                 "4ILiTvZ1RqlnkcTC",

@@ -89,6 +89,10 @@ file = "config/comforts-server.toml"
 hash = "e5ccb95513c64cf71bd84023adeff3e5073d1ecd4db31c91025d24ce5f3605f3"
 
 [[files]]
+file = "config/compressedcreativity-client.toml"
+hash = "170b5fa335241f2fef18f151d593ff70fd98ac8646a23c3c3763bb48b49824ed"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
 
@@ -222,11 +226,11 @@ hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "cac093030b7eacdd066f38c08492f9b451b0fe5484e9b15f8fc11ba9fb74b4fa"
+hash = "96593fad4a491d7c7b0680a55012632643e0b24091b5b0f8861988a277aaf0d3"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "b193742eca00d797fac3d1ee68bfe688969641e6dbfe03193b5b0ec484d53db9"
+hash = "89ceef2b074a3016557f6f4a3403fee45a34acee63cef60115ba0f0fd2291099"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -234,7 +238,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "3e2b657f09e5c1ee0e63969cdcad583b65d41fc0df44ab6efe6a6b48a1169c2b"
+hash = "a85b91599bb9b1d9af25fd1c8701a961fb8d8b3edf5ed7331c6f12d6331f6572"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -258,7 +262,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "75651b2bbe67d8e41c36ef0709298c7d03a20b83ebdacc949e5e3ddd4fb64da1"
+hash = "f9a1499e71b2dbabf290ebc5d1fafbd2f3b322862ee979f78e84b3684003f270"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -317,6 +321,34 @@ file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
 [[files]]
+file = "config/pneumaticcraft-client.toml"
+hash = "5bf93a3e928906316ed4c2538e333b496ad61bbdc140a9cc6c7c1b4630465c97"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "f86ae3bf89bc683ae0425350b1ef02902b9551d37bb73d608b4a5796cb0b6e3f"
+
+[[files]]
+file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
+hash = "f979a9cee58136bfcdd950e8f83356fa14880f841de405838e87e3c9a63e291e"
+
+[[files]]
+file = "config/pneumaticcraft/MicromissileDefaults.cfg"
+hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
+
+[[files]]
+file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
+hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
+
+[[files]]
+file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
+
+[[files]]
+file = "config/pneumaticcraft/thirdparty.cfg"
+hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
+
+[[files]]
 file = "config/railways-client.toml"
 hash = "f821ef55eea1edb3d6bc8d76b7f6f5a8928356def9dd259e7372ced01dcc04b9"
 
@@ -338,15 +370,15 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "c2b6941989e9a720e220f0fd1f969141813827580662ca0090010e77b432e685"
+hash = "4ce92890bff6afdb6ed96d9c1014c31bd497e487a3534e084fada4d6d0185055"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b5d92d18aaa085fae3058a0b334d4088d7652d4b9a625fdd4e740dcb558e8955"
+hash = "b6c6b64c006d19f759e669c833f7c9119cbc1dc46117db1306470b10388ca60e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "2aa5bb38b337de531e5d4c5f2d6941c1e0bf476ff03d26620f32d179cc165804"
+hash = "f5a1efec93abd6b6c46fb0cc92d6651b559419885fe1ab5d69d54135d7ee1dfc"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -805,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "f60ee4f5518c610ef222895d891743ad8e9937ea2cda33fbad8187e568a15edb"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
 metafile = true
 
 [[files]]

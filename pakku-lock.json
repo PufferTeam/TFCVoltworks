@@ -829,6 +829,68 @@
             ]
         },
         {
+            "pakku_id": "vjeHKUFC4kVyniEW",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB",
+                "HTUF5o2nfcoIfJBf"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-jetpack",
+                "modrinth": "create-jetpack"
+            },
+            "name": {
+                "curseforge": "Create Jetpack",
+                "modrinth": "Create Jetpack"
+            },
+            "id": {
+                "curseforge": "655608",
+                "modrinth": "UbFnAd4l"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "create_jetpack-forge-4.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4957/753/create_jetpack-forge-4.2.0.jar",
+                    "id": 4957753,
+                    "required_dependencies": [
+                        "328085",
+                        "351264"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "create_jetpack-forge-4.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/EGrZabeG/create_jetpack-forge-4.2.0.jar",
+                    "hashes": {
+                        "sha512": "941e583cbfdbb361a61ea0d1bf417a98b222e472466941413c0efcadde5eaacf7b001aad814413d89dc824a77bd4b0dc833b8d4a5b90678429ebc04e22006c41",
+                        "sha1": "aeceae88a88249030c0fb75ce5fe647498d3efcc"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "ordsPcFz"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "7aG6i0YlM4XBh6jK",
             "pakku_links": [
                 "bTwZhv2221dTRQwB"
@@ -2335,6 +2397,72 @@
                     "hashes": {
                         "sha512": "3c0fec91cd773899f4db398423085991ab669b60ce7de16e89b3ee1aaae9ac7d9a6d8a32f654eb75dd4cac035b9df3a7eeff5b1d2b873c196b37b1c358c638e6",
                         "sha1": "62f56fa6dbdcbfcd64f9c15972115c4138ba1ddf"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "HTUF5o2nfcoIfJBf",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kotlin-for-forge",
+                "modrinth": "kotlin-for-forge"
+            },
+            "name": {
+                "curseforge": "Kotlin for Forge",
+                "modrinth": "Kotlin for Forge"
+            },
+            "id": {
+                "curseforge": "351264",
+                "modrinth": "ordsPcFz"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "kotlinforforge-4.9.0-all.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4959/547/kotlinforforge-4.9.0-all.jar",
+                    "id": 4959547,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "kotlinforforge-4.9.0-all.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/26dlKWS9/kotlinforforge-4.9.0-all.jar",
+                    "hashes": {
+                        "sha512": "195e9e4188bd9ec92ab084c2341d0336ef419a4f24b81ab9eb13353644115372263fc364f2bb17a68ae3d665d676ef9ed5340e6f1b547a0981ab6b1bde66fc08",
+                        "sha1": "24937a5ef4ea536a04f068a7fa6bebae1262f86a"
                     },
                     "required_dependencies": [
                     ]

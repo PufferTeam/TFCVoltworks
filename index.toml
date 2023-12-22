@@ -36904,6 +36904,11 @@ hash = "50655af569b9ddd6ca6526e7794251aef86c1bf6264473152db6402731614a65"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "b5c78b4966ea57750869fa03609fab9eed5b5babad95a10ed13a7114944f0378"
+metafile = true
+
+[[files]]
 file = "mods/create-picky-waterwheels.pw.toml"
 hash = "dd4aeafb7f8d672778b3a49ecdf5b2adadf9305ab2c268c3a379f70f2dcad7fe"
 metafile = true
@@ -37056,6 +37061,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "f5c50f31b81545cd87d1551b435ff2a52ad862e3a968889e0a4ab89c4599980a"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "f60ee4f5518c610ef222895d891743ad8e9937ea2cda33fbad8187e568a15edb"
 metafile = true
 
 [[files]]

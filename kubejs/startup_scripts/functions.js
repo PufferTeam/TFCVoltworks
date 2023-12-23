@@ -1,3 +1,5 @@
+// priority: 25000
+
 global.getName = function getName(str) {
     let arr = str.split("_");
 

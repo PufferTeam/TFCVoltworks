@@ -1,4 +1,3 @@
-
 global.removeAndHide = [
     'createaddition:copper_wire',
     'createaddition:copper_spool',

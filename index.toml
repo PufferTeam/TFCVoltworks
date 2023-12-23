@@ -70,7 +70,7 @@ hash = "67738815533cf6f735c5d57f34b63b6913e02c1e4774c0a36c22715a0e3000d5"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "3be892a0c66418b41d471201c65aab180c2336018f70bc0c1f3660fa92f0ce7e"
+hash = "bafb562ad2487234aba26ff4f447136462fd37c902d7710f963b33f412c1cf1c"
 
 [[files]]
 file = "config/balm-common.toml"
@@ -83,6 +83,14 @@ hash = "c980ebb79847b5eb5389d15567843cba8e32586ab1039c8e68f05574fa1ff765"
 [[files]]
 file = "config/bettermodsbutton-client.toml"
 hash = "1200679c101a9c6c1bf42707661257a64800c611258d20eb88243983acdc61ea"
+
+[[files]]
+file = "config/botania-client.toml"
+hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
+
+[[files]]
+file = "config/botania-common.toml"
+hash = "d523c77af5c390e22f26a93e36d28af999698ddd159d1e0a35ff66a1bb77b7db"
 
 [[files]]
 file = "config/comforts-server.toml"
@@ -226,11 +234,11 @@ hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "96593fad4a491d7c7b0680a55012632643e0b24091b5b0f8861988a277aaf0d3"
+hash = "476f56349c63c8a7c21fdb2d3deeb4da052ec9be6e8a575ef4f7e96a31e184ad"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "89ceef2b074a3016557f6f4a3403fee45a34acee63cef60115ba0f0fd2291099"
+hash = "b3a69a06237662b5517efb45d194d7b8e7076d977d6f1a81065494ae61b1cc82"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -238,7 +246,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "a85b91599bb9b1d9af25fd1c8701a961fb8d8b3edf5ed7331c6f12d6331f6572"
+hash = "3986f49e5150368be30d29972f36fcbdc6c251effd7bc1c20180523763ee7313"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -262,7 +270,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "f9a1499e71b2dbabf290ebc5d1fafbd2f3b322862ee979f78e84b3684003f270"
+hash = "5db22a9c109cc58480b8c5692aeaf9375d53171e7f10360deb9792580c56e9b3"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -370,15 +378,15 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "4ce92890bff6afdb6ed96d9c1014c31bd497e487a3534e084fada4d6d0185055"
+hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b6c6b64c006d19f759e669c833f7c9119cbc1dc46117db1306470b10388ca60e"
+hash = "a5df7b493cc10b89bdf834093450b54cd5f43c3db2ee20528916430c941cc286"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f5a1efec93abd6b6c46fb0cc92d6651b559419885fe1ab5d69d54135d7ee1dfc"
+hash = "0bdc26af7c4914b79867abfb4eb49f120270dba57eeef67aebeef9b1d081b1f1"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -426,7 +434,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -554,11 +562,11 @@ hash = "26f2afd559b842950d914f1468c4ddf9a32742c26ea841aafd6677afa4199aba"
 
 [[files]]
 file = "kubejs/startup_scripts/functions.js"
-hash = "e2ace44513eecd8a2e3d2b8e8eebc6d60d44062e8ca40993574b2dbe54007ee7"
+hash = "a43accec0c13bf97aea90f5c4ab55ea563db83e5435aa5c1cad4968513c3cc94"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"
-hash = "899b2170aa1c06731ca359691407946a64aa3043e14a88771723576f90b5306d"
+hash = "ed4d5bcd7a5f8e56938b859fa266064b0ea74f252e48d98e16111441f832cdd9"
 
 [[files]]
 file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"

@@ -2463,62 +2463,6 @@
             ]
         },
         {
-            "pakku_id": "VV4sceaSIq9rtF2P",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "gravestone-mod",
-                "modrinth": "gravestone-mod"
-            },
-            "name": {
-                "curseforge": "GraveStone Mod",
-                "modrinth": "GraveStone Mod"
-            },
-            "id": {
-                "curseforge": "238551",
-                "modrinth": "RYtXKJPr"
-            },
-            "files": [
-                {
-                    "_internal": "CfFile",
-                    "type": "curseforge",
-                    "file_name": "gravestone-1.20.1-1.0.10.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4913/787/gravestone-1.20.1-1.0.10.jar",
-                    "id": 4913787,
-                    "required_dependencies": [
-                    ]
-                },
-                {
-                    "_internal": "MrFile",
-                    "type": "modrinth",
-                    "file_name": "gravestone-1.20.1-1.0.10.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/wXySYo0E/gravestone-1.20.1-1.0.10.jar",
-                    "hashes": {
-                        "sha512": "c7814f88cce87c690031627053415f2c9acf74847c97a80ff6ec0416e7c70b0434ac001885b2a5e5583ed4a9f605df0c632cc934afad4cb6a8705862b5167eaf",
-                        "sha1": "682fff56a8eae88fcb3d9fe98e99553d5c217e31"
-                    },
-                    "required_dependencies": [
-                    ]
-                }
-            ]
-        },
-        {
             "pakku_id": "9dnN19IcyOgGPQCD",
             "type": "MOD",
             "side": "BOTH",

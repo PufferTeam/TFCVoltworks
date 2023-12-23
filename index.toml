@@ -816,11 +816,6 @@ hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "773e4e7825809bcbd41b5eac2406b9430623402b859f38a7fdf1b2b62535df69"
 metafile = true

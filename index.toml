@@ -671,6 +671,11 @@ hash = "39fc70ada6da75706190a552190ef37e0707d15c6126abdf48baecb3b7359c13"
 metafile = true
 
 [[files]]
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -788,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "8e341490ab2a2b976251e3670af33638caf5e4137b7b782195451ca50249a5ba"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
 
 [[files]]

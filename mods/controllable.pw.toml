@@ -1,0 +1,13 @@
+name = "Controllable (Forge)"
+filename = "controllable-forge-1.20.1-0.20.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d320d387cef4f4d418a014807323c9b881b7c64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598985
+project-id = 317269

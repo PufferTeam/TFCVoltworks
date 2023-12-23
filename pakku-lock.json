@@ -947,6 +947,42 @@
             ]
         },
         {
+            "pakku_id": "rPNo21VWexq8LS86",
+            "pakku_links": [
+                "FGEAfeGm2fZjNCDi"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "controllable"
+            },
+            "name": {
+                "curseforge": "Controllable (Forge)"
+            },
+            "id": {
+                "curseforge": "317269"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "controllable-forge-1.20.1-0.20.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4598/985/controllable-forge-1.20.1-0.20.3.jar",
+                    "id": 4598985,
+                    "required_dependencies": [
+                        "549225"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "g9mTA6JBZXX4WFK2",
             "pakku_links": [
                 "cU54c5xiqOMZjlef"
@@ -2280,6 +2316,38 @@
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/4793/884/FramedBlocks-9.1.6.jar",
                     "id": 4793884,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "FGEAfeGm2fZjNCDi",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "framework"
+            },
+            "name": {
+                "curseforge": "Framework"
+            },
+            "id": {
+                "curseforge": "549225"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "framework-forge-1.20.1-0.6.16.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4718/251/framework-forge-1.20.1-0.6.16.jar",
+                    "id": 4718251,
                     "required_dependencies": [
                     ]
                 }

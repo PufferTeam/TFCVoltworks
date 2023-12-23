@@ -4287,6 +4287,69 @@
             ]
         },
         {
+            "pakku_id": "H3gh26RCeFiObQTb",
+            "pakku_links": [
+                "UykqmsQQYPHUUDxY"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rubidium-extra",
+                "modrinth": "rubidium-extra"
+            },
+            "name": {
+                "curseforge": "Rubidium Extra",
+                "modrinth": "Rubidium Extra"
+            },
+            "id": {
+                "curseforge": "654373",
+                "modrinth": "oY2B1pjg"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4873/766/rubidium-extra-0.5.3.1%2bmc1.20.1-build.110.jar",
+                    "id": 4873766,
+                    "required_dependencies": [
+                        "908741"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/PSRJ0h1d/rubidium-extra-0.5.3.1%2Bmc1.20.1-build.110.jar",
+                    "hashes": {
+                        "sha512": "0a19e8d1e7a6161bce5f82d46b3016f3f75eb647ad9c7b1436b14a7d35bf72b076386b88e597ff8766e2ca72e5ed7351c1c4596714824fdca62bccc22032d109",
+                        "sha1": "65b2c63050dda1554eae0c1ef91bb4e7c6c67b36"
+                    },
+                    "required_dependencies": [
+                        "sk9rgfiA"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "cU54c5xiqOMZjlef",
             "type": "MOD",
             "side": "BOTH",

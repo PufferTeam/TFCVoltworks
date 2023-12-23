@@ -594,6 +594,67 @@
             ]
         },
         {
+            "pakku_id": "NylscZCGGzYU2nph",
+            "pakku_links": [
+                "28E3j91Jb1EOrPZw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "betterf3",
+                "modrinth": "betterf3"
+            },
+            "name": {
+                "curseforge": "BetterF3",
+                "modrinth": "BetterF3"
+            },
+            "id": {
+                "curseforge": "401648",
+                "modrinth": "8shC1gFX"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "BetterF3-7.0.2-Forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4863/626/BetterF3-7.0.2-Forge-1.20.1.jar",
+                    "id": 4863626,
+                    "required_dependencies": [
+                        "348521"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "BetterF3-7.0.2-Forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar",
+                    "hashes": {
+                        "sha512": "e88ce04d601a5953de909edaabb49dad9eea2c3a9ccccb1247fd041554b30794d4d4c315be065c90b1017cbd798199e644fe8d905125f4c431ddb8eaf170dd15",
+                        "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "lcbyZGZUwmS7aWve",
             "pakku_links": [
                 "GG40k6TaihbmcYYv",
@@ -651,6 +712,62 @@
                     "required_dependencies": [
                         "nU0bVIaL",
                         "vvuO3ImH"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "28E3j91Jb1EOrPZw",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cloth-config",
+                "modrinth": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)",
+                "modrinth": "Cloth Config API"
+            },
+            "id": {
+                "curseforge": "348521",
+                "modrinth": "9s6osm5g"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "cloth-config-11.1.118-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4973/441/cloth-config-11.1.118-forge.jar",
+                    "id": 4973441,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "cloth-config-11.1.118-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar",
+                    "hashes": {
+                        "sha512": "5f8017fb496e65ce25ecb249927602d578fc235fc80c5db335e071ee9c108680b3c8c1f82dfafaf21c90e46a174b6717a3946feea5295a3c8ace5b11201ff7c5",
+                        "sha1": "c46ca3fba95691873a765f4e79750c615f33e446"
+                    },
+                    "required_dependencies": [
                     ]
                 }
             ]

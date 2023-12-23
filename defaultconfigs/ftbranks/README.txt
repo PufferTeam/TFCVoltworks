@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Tue Dec 19 23:45:29 EST 2023
+Last README file update: Fri Dec 22 22:03:35 EST 2023
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -63,15 +63,6 @@ command.attribute.target.attribute.modifier.value.get.uuid.scale
 command.backup
 command.backup.command
 command.backup.command.name
-command.ban
-command.ban-ip
-command.ban-ip.target
-command.ban-ip.target.reason
-command.ban.targets
-command.ban.targets.reason
-command.banlist
-command.banlist.ips
-command.banlist.players
 command.bossbar
 command.bossbar.add
 command.bossbar.add.id
@@ -921,13 +912,19 @@ command.debug.start
 command.debug.stop
 command.defaultgamemode
 command.defaultgamemode.gamemode
-command.deop
-command.deop.targets
+command.defaultoptions
+command.defaultoptions.saveAll
+command.defaultoptions.saveKeys
+command.defaultoptions.saveOptions
+command.defaultoptions.saveServers
 command.difficulty
 command.difficulty.easy
 command.difficulty.hard
 command.difficulty.normal
 command.difficulty.peaceful
+command.e4mc
+command.e4mc.restart
+command.e4mc.stop
 command.effect
 command.effect.clear
 command.effect.clear.targets
@@ -1800,8 +1797,6 @@ command.musicexport
 command.musicexport.name
 command.musicimport
 command.musicimport.name
-command.op
-command.op.targets
 command.open-patchouli-book
 command.open-patchouli-book.targets
 command.open-patchouli-book.targets.book
@@ -1908,10 +1903,38 @@ command.playsound.sound.weather.targets.pos
 command.playsound.sound.weather.targets.pos.volume
 command.playsound.sound.weather.targets.pos.volume.pitch
 command.playsound.sound.weather.targets.pos.volume.pitch.minVolume
+command.pncr
+command.pncr.amadrone_deliver
+command.pncr.amadrone_deliver.player
+command.pncr.amadrone_deliver.player.fromPos
+command.pncr.amadrone_deliver.toPos
+command.pncr.amadrone_deliver.toPos.fromPos
+command.pncr.armor_upgrade
+command.pncr.armor_upgrade.upgrade
+command.pncr.armor_upgrade.upgrade.enabled
+command.pncr.dump_nbt
+command.pncr.global_var
+command.pncr.global_var.delete
+command.pncr.global_var.delete.varname
+command.pncr.global_var.get
+command.pncr.global_var.get.varname
+command.pncr.global_var.list
+command.pncr.global_var.set
+command.pncr.global_var.set.varname
+command.pncr.global_var.set.varname.item
+command.pncr.global_var.set.varname.pos
 command.publish
 command.publish.allowCommands
 command.publish.allowCommands.gamemode
 command.publish.allowCommands.gamemode.port
+command.railways
+command.railways.split_train
+command.railways.split_train.train_id
+command.railways.split_train.train_id.number
+command.railways.split_train.train_name
+command.railways.split_train.train_name.number
+command.railways.train_uuid
+command.railways.train_uuid.name
 command.recipe
 command.recipe.give
 command.recipe.give.targets
@@ -2003,6 +2026,14 @@ command.setblock.pos.block.replace
 command.setworldspawn
 command.setworldspawn.pos
 command.setworldspawn.pos.angle
+command.snr
+command.snr.split_train
+command.snr.split_train.train_id
+command.snr.split_train.train_id.number
+command.snr.split_train.train_name
+command.snr.split_train.train_name.number
+command.snr.train_uuid
+command.snr.train_uuid.name
 command.spawnpoint
 command.spawnpoint.targets
 command.spawnpoint.targets.pos
@@ -2216,15 +2247,6 @@ command.weather.rain.duration.intensity
 command.weather.thunder
 command.weather.thunder.duration
 command.weather.thunder.duration.intensity
-command.whitelist
-command.whitelist.add
-command.whitelist.add.targets
-command.whitelist.list
-command.whitelist.off
-command.whitelist.on
-command.whitelist.reload
-command.whitelist.remove
-command.whitelist.remove.targets
 command.worldborder
 command.worldborder.add
 command.worldborder.add.distance

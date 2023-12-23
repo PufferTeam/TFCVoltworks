@@ -457,8 +457,16 @@ file = "defaultconfigs/advancedtfctech-server.toml"
 hash = "e281da41f4c62e0148cca3f3c06007873212f9d8335dd232d42bdcedb20b5ae7"
 
 [[files]]
+file = "defaultconfigs/compressedcreativity-server.toml"
+hash = "819dfe96691df13fbae3dc5ec8675f228f106c86a7d16c3d6d4b9af8ab2cd1e6"
+
+[[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "e9a829e67309524c934f5bfc981296c228df1f1b5e5ed6cdb44f458a34ceb7f8"
+
+[[files]]
+file = "defaultconfigs/create_power_loader-server.toml"
+hash = "2db571275f1ca0e467b15de4182da3724f215381ef9cfc925299177dbb6e8cd3"
 
 [[files]]
 file = "defaultconfigs/createbigcannons-server.toml"
@@ -486,7 +494,7 @@ hash = "dd81f1efe613489929479cbcbf6f7d7cf816292cdfe565e2d47ae35ee2e512df"
 
 [[files]]
 file = "defaultconfigs/ftbranks/README.txt"
-hash = "ef62956a413adc479045cbefddfd1cd5fd9277cbe960caab0e244431697d570b"
+hash = "151dd314cc26b4dc9c099aec55c2d2936fed6cf6b31e0fa1778f26236240f761"
 
 [[files]]
 file = "defaultconfigs/ftbranks/players.snbt"
@@ -633,8 +641,18 @@ hash = "b7343dc0912ef9ef728583a15415f125b96fa7babf144cdaea8d58850e029447"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "b9d2721cef410929502491b6cd2394eb6a90ce5df684d7e7ca207402ad445a0f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]

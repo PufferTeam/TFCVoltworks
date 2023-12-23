@@ -414,6 +414,70 @@
             ]
         },
         {
+            "pakku_id": "LnJdk9twrrSa5j2R",
+            "pakku_links": [
+                "sNrhkBfrkxCAsv1d",
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "barrels-2012",
+                "modrinth": "barrels-2012"
+            },
+            "name": {
+                "curseforge": "Barrels 2012",
+                "modrinth": "Barrels 2012"
+            },
+            "id": {
+                "curseforge": "662156",
+                "modrinth": "hnvFIZaX"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "barrels_2012-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4944/918/barrels_2012-2.1.jar",
+                    "id": 4944918,
+                    "required_dependencies": [
+                        "309927",
+                        "302973"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "barrels_2012-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hnvFIZaX/versions/moK5fhSI/barrels_2012-2.1.jar",
+                    "hashes": {
+                        "sha512": "b8e7072893dcb62d4382103894f47effd7e80585fee066dcc0e0ee2fae45a458a54d0d3f1893a9367e745f0adcd5602b794b28100976554881022e81d69202e0",
+                        "sha1": "98ef976a9b356dce459fdd249ff19ad14fd375dd"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg",
+                        "vvuO3ImH"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "Zb047f7KikqJA65r",
             "pakku_links": [
                 "bTwZhv2221dTRQwB"

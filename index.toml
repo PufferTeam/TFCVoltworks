@@ -676,6 +676,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "c1829724fc8399b466a60a2aee6a72251f55e1f7443c776094a01b952f3f8561"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "592d00ed449f8cc03e6ac128a51f1fe5cbcd4542f56c4f3a4286adbda1522387"
 metafile = true

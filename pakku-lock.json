@@ -1006,6 +1006,60 @@
             ]
         },
         {
+            "pakku_id": "soRLmjq03N9p7mAq",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "corpse",
+                "modrinth": "corpse"
+            },
+            "name": {
+                "curseforge": "Corpse",
+                "modrinth": "Corpse"
+            },
+            "id": {
+                "curseforge": "316582",
+                "modrinth": "WrpuIfhw"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "corpse-forge-1.20.1-1.0.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4973/430/corpse-forge-1.20.1-1.0.10.jar",
+                    "id": 4973430,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "corpse-forge-1.20.1-1.0.10.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/yL3olYId/corpse-forge-1.20.1-1.0.10.jar",
+                    "hashes": {
+                        "sha512": "049bbea8b519e19b4831da8b53928854fbc087c325aa868600b98abf14579935aed686709b096199aca0725ff4dbbc4039b51f3ec72cdce9c1f78d9888450b2a",
+                        "sha1": "241f02bd97d7f74fdfbc2d71cddfb56c42630e2e"
+                    },
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "bTwZhv2221dTRQwB",
             "type": "MOD",
             "side": "BOTH",

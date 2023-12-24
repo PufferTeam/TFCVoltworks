@@ -1277,6 +1277,65 @@
             ]
         },
         {
+            "pakku_id": "18kTrT7tjjoFdl8x",
+            "pakku_links": [
+                "bTwZhv2221dTRQwB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-connected",
+                "modrinth": "create-connected"
+            },
+            "name": {
+                "curseforge": "Create: Connected",
+                "modrinth": "Create: Connected"
+            },
+            "id": {
+                "curseforge": "947914",
+                "modrinth": "Vg5TIO6d"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "create_connected-0.1.0-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4977/842/create_connected-0.1.0-mc1.20.1.jar",
+                    "id": 4977842,
+                    "required_dependencies": [
+                        "328085"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "create_connected-0.1.0-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/RyZaU1gq/create_connected-0.1.0-mc1.20.1.jar",
+                    "hashes": {
+                        "sha512": "0b83c9cde1f4336fb643d4f60969d799e230e0a5ae1a19b132c059990331e59c101418e999c028dbbb44c9cbd8335807b6854c98d9e877b1f4ae901f5c9752dc",
+                        "sha1": "7f76ccb61dc08a44498dd00e31271111a9a87ab3"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "wEARZXRaXqdWG1Z9",
             "pakku_links": [
                 "bTwZhv2221dTRQwB"

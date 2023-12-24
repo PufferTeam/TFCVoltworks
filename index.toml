@@ -394,11 +394,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "775f73ae7f545117c676c2a506eb5a760158df96e34f874109a983d5fc31b5b0"
+hash = "9dc7c20bdae3737fef6442fb0647d0015bae9f23de9e167c3158d0835570b0ec"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "fda87ae4df15957899b1d5f06c619acbfc686bc9637e223d91e2768197c74f14"
+hash = "7f34ecec6d791932cdbc627ddd344a66baa0b3ba66513e5f05d25b085cac83cd"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -446,7 +446,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -709,6 +709,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "592d00ed449f8cc03e6ac128a51f1fe5cbcd4542f56c4f3a4286adbda1522387"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "803bf86eb69fed3a10746cffbcb6413c5209485d7838d74b489cda54e7675931"
 metafile = true
 
 [[files]]

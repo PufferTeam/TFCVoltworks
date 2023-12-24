@@ -1,5 +1,5 @@
 {
-  "parent": "tfc:item/grill",
+  "parent": "tfc:item/grill_template",
   "textures": {
     "texture": "tfc:item/wrought_iron_grill"
   }

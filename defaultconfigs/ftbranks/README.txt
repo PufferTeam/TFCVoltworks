@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Fri Dec 22 22:03:35 EST 2023
+Last README file update: Sat Dec 23 22:03:02 EST 2023
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -905,6 +905,9 @@ command.datapack.enable.name.last
 command.datapack.list
 command.datapack.list.available
 command.datapack.list.enabled
+command.deathhistory
+command.deathhistory.player
+command.deathhistory.player_uuid
 command.debug
 command.debug.function
 command.debug.function.name
@@ -1945,11 +1948,6 @@ command.recipe.take.targets
 command.recipe.take.targets.all
 command.recipe.take.targets.recipe
 command.reload
-command.restore
-command.restore.target
-command.restore.target.death_id
-command.restore.target.death_id.add
-command.restore.target.death_id.replace
 command.return
 command.return.value
 command.ride

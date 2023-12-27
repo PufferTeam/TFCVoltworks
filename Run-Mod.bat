@@ -49,7 +49,13 @@ goto start
 
 echo Committing to Git...
 git add .
-git commit -am "%git_op% %id%."
+
+set /p mc="Multiples changes [Y/N]: "
+
+if /I "%mc%" EQU "N" set id_p=%id%
+if /I "%mc%" EQU "Y" set id_p=multiples mods.
+
+git commit -am "%git_op% %id_p%."
 git push
 
 java -jar Pakku-0.0.6.jar fetch

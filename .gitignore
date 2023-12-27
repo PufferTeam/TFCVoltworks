@@ -22,6 +22,7 @@
 !/resourcepacks/**
 !/resources/**
 !/mods/**
+/mods/.index/**
 /mods/**.jar
 !/mods/CTM_DEV**.jar
 

@@ -1238,7 +1238,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.a.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1247,8 +1247,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4921/486/createbigcannons-forge-1.20.1-0.5.3.jar",
-                    "id": 4921486,
+                    "url": "https://edge.forgecdn.net/files/4983/571/createbigcannons-forge-1.20.1-0.5.3.a.jar",
+                    "id": 4983571,
                     "required_dependencies": [
                         "328085"
                     ]
@@ -1256,7 +1256,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.a.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1265,10 +1265,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/Ho4pNC1O/createbigcannons-forge-1.20.1-0.5.3.jar",
+                    "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/X2xfj6pi/createbigcannons-forge-1.20.1-0.5.3.a.jar",
                     "hashes": {
-                        "sha512": "b2f906251cdaee135d8f607c3ca24331a8a7b5299626a3afc6463050e57e02333340e61ef35062f7480043476c80f6079091ac060689707c219c2885dba93844",
-                        "sha1": "52596cd8e234376a8350abef044c656d0c8cbd88"
+                        "sha512": "78864810a9bec22836256db22a5b838759dd00362d1a84a5cab7b70a3b72f3b4c8257b1d2c80162d49dec46c61cbea3001628eeeca7c009365d03cf574647065",
+                        "sha1": "28093e9f0d432d2b47bf84bae1edf6c1363e76c3"
                     },
                     "required_dependencies": [
                         "LNytGWDc"

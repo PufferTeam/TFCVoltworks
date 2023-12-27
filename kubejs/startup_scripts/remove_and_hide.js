@@ -132,7 +132,8 @@ function removeAndHide(type, mod, item) {
             `${mod}:cut_${item}_bricks`,
             `${mod}:small_${item}_bricks`,
             `${mod}:layered_${item}`,
-            `${mod}:${item}_pillar`
+            `${mod}:${item}_pillar`,
+            `bellsandwhistles:polished_${item}_pilot`
         )
         global.cutBlocks2.forEach(cut => {
             global.removeAndHide.push(

@@ -117,6 +117,10 @@ file = "config/create-common.toml"
 hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "5882ed3775e3dd3c14509531aa9bfac37917240fc12ef26637904615503a56b9"
+
+[[files]]
 file = "config/create_jetpack-client.toml"
 hash = "3ef10cf780e735b417be86d1ef29bb72fc9257250a4d5224bf9168d4978e93c9"
 
@@ -209,6 +213,18 @@ file = "config/ftbbackups2.json"
 hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/getting_started.snbt"
+hash = "c77ffaec68a933225fab5e5d73d6915be3a99fa70d53ef347326851c4e9413ee"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "04d6c7086c225a5de442591e2e23df09b82f57afbdca7ac76f03235ed900519c"
+
+[[files]]
 file = "config/immersiveengineering-client.toml"
 hash = "10e2de8d987432c81724371ff27ccc2a452e88f22880c45777ca0cd35eda6118"
 
@@ -250,7 +266,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "843a191693f47772b653a98d2e6445b5b62d7a49f7dd4cd431df127be4c083b6"
+hash = "b6ec9fec1c152e4aa705bf03e8af01559d4487d5193c10bff4a99084f4d53e9c"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -394,11 +410,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9dc7c20bdae3737fef6442fb0647d0015bae9f23de9e167c3158d0835570b0ec"
+hash = "d2358fd7d2f3d0f880caf9704bb12df227fd6cff7e9c7a83388a4aedd536d358"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7f34ecec6d791932cdbc627ddd344a66baa0b3ba66513e5f05d25b085cac83cd"
+hash = "fd628f19d7dbaee04c16973e689cf679c8c7567818724c46f724df284e85d348"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -446,7 +462,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -590,7 +606,7 @@ hash = "a43accec0c13bf97aea90f5c4ab55ea563db83e5435aa5c1cad4968513c3cc94"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"
-hash = "ed4d5bcd7a5f8e56938b859fa266064b0ea74f252e48d98e16111441f832cdd9"
+hash = "a069dda8d47cccf4d4ee90c891ca9183371132b2532f28bec722a7d4e87c3406"
 
 [[files]]
 file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"

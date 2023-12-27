@@ -13,6 +13,7 @@
 !/mods/**
 /mods/**.jar
 !/mods/CTM_DEV**.jar
+/mods/.index/**
 
 /config/valkyrienskies/**
 /config/jei/world/local/**

@@ -53,7 +53,7 @@ git add .
 set /p mc="Multiples changes [Y/N]: "
 
 if /I "%mc%" EQU "N" set id_p=%id%
-if /I "%mc%" EQU "Y" set id_p=multiples mods.
+if /I "%mc%" EQU "Y" set id_p=multiples mods
 
 git commit -am "%git_op% %id_p%."
 git push

@@ -8,17 +8,20 @@
     ],
     "projects": [
         {
-            "pakku_id": "E0vyga1Rw6qTfWDe",
+            "pakku_id": "045VXYTTD6bNBvUx",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "achievements-optimizer"
+                "curseforge": "achievements-optimizer",
+                "modrinth": "achievements-optimizer"
             },
             "name": {
-                "curseforge": "Achievements Optimizer"
+                "curseforge": "Achievements Optimizer",
+                "modrinth": "Achievements Optimizer"
             },
             "id": {
-                "curseforge": "912788"
+                "curseforge": "912788",
+                "modrinth": "SvXrP8rT"
             },
             "files": [
                 {
@@ -35,6 +38,25 @@
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/4791/478/AchievementOptimizer-1.20.1-1.0.2.jar",
                     "id": 4791478,
+                    "required_dependencies": [
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "AchievementOptimizer-1.20.1-1.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SvXrP8rT/versions/Zi9XTUg0/AchievementOptimizer-1.20.1-1.0.2.jar",
+                    "hashes": {
+                        "sha512": "49461bbd90c7eccad2b6635530787d27ed7d3b7d10576e67b83efe0771be25c87583e96dad6a7f43b10320fad608a02771e68afa96e540947408b94ef4509032",
+                        "sha1": "42263ee2a5ae94f8061b597e1f803a3aac8b527b"
+                    },
                     "required_dependencies": [
                     ]
                 }

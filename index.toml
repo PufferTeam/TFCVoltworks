@@ -609,11 +609,6 @@ file = "kubejs/startup_scripts/remove_and_hide.js"
 hash = "a069dda8d47cccf4d4ee90c891ca9183371132b2532f28bec722a7d4e87c3406"
 
 [[files]]
-file = "mods/.index/achievements-optimizer.pw.toml"
-hash = "3027d9ffedea914e2f26653ccdd91a98f9a3aa0a402b98294deb124b97b4ea09"
-metafile = true
-
-[[files]]
 file = "mods/.index/additional-placements.pw.toml"
 hash = "8ab63ed070f2c22106de46f12d645c53d100484eb5df40e5a567c52eb12fd8d6"
 metafile = true

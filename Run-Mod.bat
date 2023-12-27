@@ -42,7 +42,8 @@ goto :choice
 
 echo Won't commit to Git
 pause
-exit
+
+goto start
 
 :yes
 

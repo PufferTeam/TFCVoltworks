@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/create-power-loader.pw.toml"
-hash = "36b4c92eebf61281e05b2df7c6c4ee1bc66695d782a69208b8d8b30e2b17bc20"
+hash = "31980e3307c6037157512068560e865b1875bb9e1619099b9495cb20957c5f88"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/curios.pw.toml"
-hash = "104085e2b8fd06b7c9bc47993a97dc857e7afe956d693264f474640af39caaa1"
+hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/kotlin-for-forge.pw.toml"
-hash = "b44e23e002e366810253c97a182d6721ba90551e77d53ad3e2bedfa38a9c5c4c"
+hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/patchouli.pw.toml"
-hash = "63ffe5d811407ad817968bb89dceda171881e070608c1aa4de331d8ada316d0f"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
@@ -1035,12 +1035,12 @@ metafile = true
 
 [[files]]
 file = "mods/.index/selene.pw.toml"
-hash = "7039c1ed57f019ef9626a42a09eb3bb8c59b1c40f33561c599aa7a9025d621c6"
+hash = "418fdfaeafeeb7822ad568549418eeab81052638035035df8e97a6212c091f55"
 metafile = true
 
 [[files]]
 file = "mods/.index/sound-physics-remastered.pw.toml"
-hash = "835a18b658c3700e295fa7a04375234bf1fb59f04dbd0ac204adffb78019747f"
+hash = "5bf5faa4a3e31485734580e9b319423bdccf28bc94f91d7164f175fda959a47e"
 metafile = true
 
 [[files]]
@@ -1219,7 +1219,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "803bf86eb69fed3a10746cffbcb6413c5209485d7838d74b489cda54e7675931"
+hash = "70da8c23ed92b2ef1deaf01516046898e3763c2d5f361c51c3a6f7866a340c3c"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b36cf1e8add86453575c82817dddedcc7b01050d7f087addd167e8a06be2dc78"
+hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
+hash = "cb4f02cd5d4df138be834485dd97a093620a5ed34e35ee56cdfef8ccc799f95d"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "0196e3d4eeb90547d55b305f8095b9a2918385ec94f6dff2ffaf15de3279af00"
+hash = "55687c15743278e61fca84c8f44f7d4ddf9a1c17183ee9b36ff31a57029fe4fb"
 metafile = true
 
 [[files]]
@@ -1394,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "047b5098a60e23a78425c92d69643d5e43102d8e9c560736a6f2e63c4eca94bb"
+hash = "02ab03014c7507efa95f519f26177b3ad80ec538f7f48e48c052d49156a4d2bc"
 metafile = true
 
 [[files]]
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "76b4e4b3abe726484676a793700105e51dfa2e3a1b62185c8c85e03dec1cf012"
+hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
 metafile = true
 
 [[files]]

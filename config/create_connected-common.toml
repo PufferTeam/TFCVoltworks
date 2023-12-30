@@ -19,4 +19,5 @@
 	copycat_block = true
 	copycat_beam = true
 	brass_gearbox = true
+	item_silo = true
 

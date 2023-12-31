@@ -226,11 +226,15 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_started.snbt"
-hash = "4dbb23fd4f846ef3212f5391535059425958d5f67c0072f28f9c4d576329cca6"
+hash = "532afc67e531fc93c155d85b19e921fcd14417cf0f66909cf602322c29bc459c"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "04d6c7086c225a5de442591e2e23df09b82f57afbdca7ac76f03235ed900519c"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
@@ -274,7 +278,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "b6ec9fec1c152e4aa705bf03e8af01559d4487d5193c10bff4a99084f4d53e9c"
+hash = "d44a64a52c5b46fb399b3a3e4c45632c4f2ad87975a6d1c5d06199ba2b1f11e4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -298,7 +302,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "5db22a9c109cc58480b8c5692aeaf9375d53171e7f10360deb9792580c56e9b3"
+hash = "dc6fc586e9fe520b271278f5c16a678ce8b8686e728fb0440a2002ba63d46545"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -418,11 +422,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "54b5d0ef73a8ef581ebba046f8c957524de074b459e67f4a548a6e5b21ed47c1"
+hash = "806c28265dc52b85acfbc1a63872a75aab4be94040b72ea33973dcb20f9aa304"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9b1f95a49441b0cd3e92d16959a0a8319f49f8093f94c81bc2ae315d47fae380"
+hash = "646f91d553142f9b782f429cff35578a04a05095834897a50e5e1f17296ffb0b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -470,7 +474,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -549,6 +553,10 @@ file = "defaultconfigs/ftbranks/ranks.snbt"
 hash = "04cedb95abfc577029a8f1b6da050e662b7e1210e942d9a97e99a1cb00e006ac"
 
 [[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
+
+[[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "37e16351d1f9657028f2c2dc5a2dca6d057e99eb752d17ea312acfcd86ae5195"
 
@@ -603,6 +611,10 @@ hash = "b2b2747dd033b2628b4d30f3a925e3fadbebb6886d26275357e5d7d8c4fe1177"
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
 hash = "e606a01c95a534c80502924a3bcb75c31e99708f2d12f31a3cf7b7424561b9e8"
+
+[[files]]
+file = "kubejs/server_scripts/recipes_replace.js"
+hash = "cbe91d2bf0438e3c0cb3ff3fd897f962165940eb05e8d8dc16231d4b87ae532b"
 
 [[files]]
 file = "kubejs/startup_scripts/constants.js"

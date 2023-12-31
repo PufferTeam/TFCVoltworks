@@ -142,8 +142,15 @@
 			id: "59513198E5FB6515"
 			subtitle: "Cut those damn trees!"
 			tasks: [{
-				id: "0311567F17BD81D8"
-				item: "tfc:wood/log/spruce"
+				id: "5E4A3F601D1FC3A2"
+				item: {
+					Count: 1b
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:firepit_logs)"
+					}
+				}
+				title: "Any Logs"
 				type: "item"
 			}]
 			title: "Lumberjack"
@@ -751,19 +758,6 @@
 			}
 			id: "42CE9BECCD10CBA2"
 			subtitle: "Worth a lot, or is it?"
-			tasks: [{
-				count: 3L
-				id: "422F3D5C5B4F50D9"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "tfc:ores/gold"
-					}
-				}
-				title: "3x Any Gold Ores"
-				type: "item"
-			}]
 			title: "Gold"
 			x: -1.0d
 			y: 9.0d
@@ -1078,19 +1072,19 @@
 					type: "item"
 				}
 				{
-					id: "1569E8337B1BC399"
+					id: "6512BE51B969A01E"
 					item: {
 						Count: 1b
-						id: "itemfilters:tag"
+						id: "ftbfiltersystem:smart_filter"
 						tag: {
-							value: "tfc:ore_deposits"
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:ore_deposits)"
 						}
 					}
 					title: "Any Ore Deposits"
 					type: "item"
 				}
 				{
-					id: "5726CE9EB25DEECC"
+					id: "3E69E81FB1404320"
 					type: "checkmark"
 				}
 			]
@@ -1289,9 +1283,9 @@
 		{
 			dependencies: ["5B45C482001F4039"]
 			description: [
-				"{image:tfcbarrels:textures/block/wood/barrel/barrel_bottom_oak.png width:30 height:30 align:1}"
+				"{image:minecraft:item/dark_oak_chest_boat width:30 height:30 align:1}"
 				""
-				"While a Vessel may be useful at the start, it only has 8 slots, the &lChest&r is here to fix your issue by providing you &lmuch more spaces&r and doesn't require smelting! The &lItem Barrel&r is also an alternative, if you want a more barrel-aesthetic to your chest."
+				"While a Vessel may be useful at the start, it only has 8 slots, the &lChest&r is here to fix your issue by providing you &lmuch more spaces&r and doesn't require smelting!"
 				""
 				"You can also use &lTool Racks&r, to storage up to &l6 Tools&r in a cool way."
 			]
@@ -1299,39 +1293,27 @@
 			id: "6CDF18DDCAD19129"
 			tasks: [
 				{
-					id: "499EC3DFCF78EBD4"
+					id: "0E0731911C109388"
 					item: {
 						Count: 1b
-						id: "itemfilters:tag"
+						id: "ftbfiltersystem:smart_filter"
 						tag: {
-							value: "forge:chests/wooden"
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(forge:chests/wooden)"
 						}
 					}
-					title: "Any Wooden Chests"
+					title: "Any Chests"
 					type: "item"
 				}
 				{
-					id: "307DCD46F4FDADAA"
+					id: "029DBEDA37F973F4"
 					item: {
 						Count: 1b
-						id: "itemfilters:tag"
+						id: "ftbfiltersystem:smart_filter"
 						tag: {
-							value: "tfc:tool_racks"
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:tool_racks)"
 						}
 					}
 					title: "Any Tool Racks"
-					type: "item"
-				}
-				{
-					id: "24055A26A875234A"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "tfcbarrels:barrels"
-						}
-					}
-					title: "Any Wooden Storage Barrels"
 					type: "item"
 				}
 			]
@@ -1342,7 +1324,7 @@
 		{
 			dependencies: ["5B45C482001F4039"]
 			description: [
-				"{image:tfcbarrels:textures/block/wood/barrel/barrel_side_oak.png width:30 height:30 align:1}"
+				"{image:minecraft:block/barrel_side width:30 height:30 align:1}"
 				""
 				"&lBarrels&r are a device that can be used for &lFood Preservation&r, but also needed for multiples process like &lLeather Making&r, &lDyeing&r, &lAlcohol&r."
 				""
@@ -1351,15 +1333,15 @@
 			icon: "tfc:wood/barrel/oak"
 			id: "67F58C13628894AD"
 			tasks: [{
-				id: "500A8506FB8184DB"
+				id: "7FD31526D973B05B"
 				item: {
 					Count: 1b
-					id: "itemfilters:tag"
+					id: "ftbfiltersystem:smart_filter"
 					tag: {
-						value: "tfc:barrels"
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:barrels)"
 					}
 				}
-				title: "Any Wooden Barrels"
+				title: "Any Barrels"
 				type: "item"
 			}]
 			title: "Barrels"
@@ -1384,12 +1366,12 @@
 			id: "6F352C730275FF29"
 			subtitle: "More efficient panning"
 			tasks: [{
-				id: "488B33A959748665"
+				id: "451F28742CB1C23D"
 				item: {
 					Count: 1b
-					id: "itemfilters:tag"
+					id: "ftbfiltersystem:smart_filter"
 					tag: {
-						value: "tfc:sluices"
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:sluices)"
 					}
 				}
 				title: "Any Sluices"
@@ -1481,12 +1463,12 @@
 			icon: "tfc:rock/raw/andesite"
 			id: "63E21427598BDC8E"
 			tasks: [{
-				id: "10BECE1A91AA747E"
+				id: "1721CFD85A80A049"
 				item: {
 					Count: 1b
-					id: "itemfilters:tag"
+					id: "ftbfiltersystem:smart_filter"
 					tag: {
-						value: "tfc:rock/raw"
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:rock/raw)"
 					}
 				}
 				title: "Any Raw Rocks"
@@ -1548,11 +1530,33 @@
 			}
 			id: "5C7EA4FB7BCF703A"
 			subtitle: "I hope you are not vegetarian"
-			tasks: [{
-				id: "49156F3C17F55DD9"
-				item: "itemfilters:tag"
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 2L
+					id: "4B31299867CD0672"
+					item: {
+						Count: 1b
+						id: "ftbfiltersystem:smart_filter"
+						tag: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:foods/raw_meats)"
+						}
+					}
+					title: "Any Raw Meats"
+					type: "item"
+				}
+				{
+					id: "2541A761A2325CCE"
+					item: {
+						Count: 1b
+						id: "ftbfiltersystem:smart_filter"
+						tag: {
+							"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(tfc:raw_hides)"
+						}
+					}
+					title: "Any Raw Hides"
+					type: "item"
+				}
+			]
 			title: "Butcher"
 			x: 1.5362244897958988d
 			y: 2.172619047619037d

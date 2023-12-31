@@ -763,7 +763,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "Botania-1.20.1-441-FORGE.jar",
+                    "file_name": "Botania-1.20.1-442-FORGE.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -771,17 +771,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4900/327/Botania-1.20.1-441-FORGE.jar",
-                    "id": 4900327,
+                    "url": "https://edge.forgecdn.net/files/4994/847/Botania-1.20.1-442-FORGE.jar",
+                    "id": 4994847,
                     "required_dependencies": [
-                        "306770",
-                        "309927"
+                        "309927",
+                        "306770"
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "Botania-1.20.1-441-FORGE.jar",
+                    "file_name": "Botania-1.20.1-442-FORGE.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -789,10 +789,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/s2BpxY5Q/Botania-1.20.1-441-FORGE.jar",
+                    "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/fsiPITPT/Botania-1.20.1-442-FORGE.jar",
                     "hashes": {
-                        "sha512": "39103dd2fc0dcdb434608b9bafe92a52b9e923445812649e8af8a59a48ab6f6355f98bf754fef373882cbd05a931306943f87f72352e8377d6ecd1675cdc6b56",
-                        "sha1": "e9cecd23bdb83e2edf4b93122b4e7e046c14b87b"
+                        "sha512": "4abada935a9a1ae3aefa9ef90625c311a8ed363374accab6757e19b662f3a09caf9ae0b0949af60183f5b586f500ab5a80d95a36e5077742a0f2388502245f6b",
+                        "sha1": "69637b4026a7a8ba8a2f4c0b3cd3041ce69c7ee0"
                     },
                     "required_dependencies": [
                         "nU0bVIaL",

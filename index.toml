@@ -118,7 +118,7 @@ hash = "509a7639fd0bae962775ad8d3ad6b160d0b0e8b3efd9787c3e8bfb1ecbfd47c1"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "7f61fc2d8083b7ec309df1e2de32015616f74c9c2b1aa791bd596cb3312a13a9"
+hash = "a2ce1147062695991302a913ef076712450bcef00c9ba37581825068d2255a72"
 
 [[files]]
 file = "config/create_jetpack-client.toml"
@@ -155,6 +155,14 @@ hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 [[files]]
 file = "config/defaultoptions-common.toml"
 hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "d2f310289655c40d1a9c954d742776ea830a0f5d4dc9ec6a382ae0b83d97a758"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "29c2f3c414e451c59df5c77a5d73e3f381290332551aeccbcdee9c202996dc53"
 
 [[files]]
 file = "config/dynamic_lights_reforged.toml"
@@ -218,7 +226,7 @@ hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_started.snbt"
-hash = "c77ffaec68a933225fab5e5d73d6915be3a99fa70d53ef347326851c4e9413ee"
+hash = "4dbb23fd4f846ef3212f5391535059425958d5f67c0072f28f9c4d576329cca6"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -410,11 +418,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "65bf3b867d69df84fa59e142daf3db9e39af4febf163f8c357b3131113ae2cf9"
+hash = "54b5d0ef73a8ef581ebba046f8c957524de074b459e67f4a548a6e5b21ed47c1"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "1035e74568aa9d7f49bf0b2eb524a81501caad659d808810747d3fd559d0de50"
+hash = "9b1f95a49441b0cd3e92d16959a0a8319f49f8093f94c81bc2ae315d47fae380"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -462,7 +470,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -848,6 +856,11 @@ hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "861fbd37ddfb6fbc634b339e3b9aeef435c6a04f8c18e949bf0784ff0a6bf9d4"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "ba8611194b53a37c87f3531718f338b7f5275a84dc7d35730e660c9e7d5e680e"
 metafile = true
@@ -873,6 +886,11 @@ hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "c29644a21f7936f1db9dc3c3dd54fe593a91dfeb1cc3f13ffc5fff5e02f890a6"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "773e4e7825809bcbd41b5eac2406b9430623402b859f38a7fdf1b2b62535df69"
 metafile = true
@@ -885,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
-metafile = true
-
-[[files]]
-file = "mods/item-filters.pw.toml"
-hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]

@@ -142,16 +142,8 @@
 			id: "59513198E5FB6515"
 			subtitle: "Cut those damn trees!"
 			tasks: [{
-				count: 16L
-				id: "4132A55832F2463B"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "tfc:firepit_logs"
-					}
-				}
-				title: "Any Wooden Logs"
+				id: "0311567F17BD81D8"
+				item: "tfc:wood/log/spruce"
 				type: "item"
 			}]
 			title: "Lumberjack"
@@ -577,7 +569,7 @@
 			id: "3A84C620BB89E1E7"
 			subtitle: "Too big to fit in pockets!"
 			tasks: [{
-				icon: "kubejs:oak_firewood"
+				icon: "tfc:wood/log/oak"
 				id: "0307E8FED61E53BB"
 				observe_type: 0
 				timer: 0L
@@ -1423,7 +1415,7 @@
 			]
 			id: "24385E68A46A4562"
 			tasks: [{
-				icon: "thermal:charcoal_block"
+				icon: "mekanism:block_charcoal"
 				id: "1D8CE7DB3FD5E09E"
 				observe_type: 0
 				timer: 0L
@@ -1556,6 +1548,11 @@
 			}
 			id: "5C7EA4FB7BCF703A"
 			subtitle: "I hope you are not vegetarian"
+			tasks: [{
+				id: "49156F3C17F55DD9"
+				item: "itemfilters:tag"
+				type: "item"
+			}]
 			title: "Butcher"
 			x: 1.5362244897958988d
 			y: 2.172619047619037d

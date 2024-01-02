@@ -582,7 +582,7 @@ hash = "14af70a552ff9b346f0349059e716bae252031fa74746bb7df1c930a49dffda5"
 
 [[files]]
 file = "defaultconfigs/tfc-server.toml"
-hash = "313b88a5046440904c078ba3d672b0e31cd439402c1bcc1b5998a31e2c6e524a"
+hash = "ecca78d295ce422f04bc36981a4c9b953bf6356adc319db92f12d024375f3982"
 
 [[files]]
 file = "defaultconfigs/tfc_ie_addon-server.toml"

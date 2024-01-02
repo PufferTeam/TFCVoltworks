@@ -296,10 +296,10 @@
 		enableThatchBedSpawnSetting = true
 		#
 		# If true, the player can sleep the night in a thatch bed
-		enableThatchBedSleeping = false
+		enableThatchBedSleeping = true
 		#
 		# If true, the player cannot sleep in thatch beds during thunderstorms.
-		thatchBedNoSleepInThunderstorms = true
+		thatchBedNoSleepInThunderstorms = false
 
 	[blocks.placedItems]
 		#

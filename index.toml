@@ -6,7 +6,7 @@ hash = "dede44786231afcbecd1993246ea8206d17b3f013f39ec9866a9bc18335e4bc7"
 
 [[files]]
 file = "config/Mekanism/client.toml"
-hash = "6cace90f846ea754699dbd2e4299b2e2c9cceb168ace6151bea111bbef81b90a"
+hash = "5bc9b0151797329f1143975a85b2a412f4c453f00efb6724bb8042a4b6185865"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -422,11 +422,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "806c28265dc52b85acfbc1a63872a75aab4be94040b72ea33973dcb20f9aa304"
+hash = "8d7c697e11976e9cd6c9412201b31b9310961ee776d0d312a320d2132bfbdd8d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "646f91d553142f9b782f429cff35578a04a05095834897a50e5e1f17296ffb0b"
+hash = "137ef247fcf3ed7bc4781672409f98c9505bf8679bd9f89b75a1b72bc5f54202"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -474,7 +474,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "18130f3865770010558e3decb2f0107045c58d2e0a282f74992ae7f7566d53ee"
+hash = "6c1fff3879c1e399dc85973e40beeac270b1d67942a54deb05c56c6ce5b1dbe0"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cb4f02cd5d4df138be834485dd97a093620a5ed34e35ee56cdfef8ccc799f95d"
+hash = "09d8e90563eccd14036316e3251c6bbee1408e6d5e0f405bb8f42e44ec2c85d7"
 metafile = true
 
 [[files]]
@@ -1013,6 +1013,11 @@ hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
 metafile = true
@@ -1064,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "cbebf4d9db9ee00364e7cc1a5bc62ccc8a087bf6eb691d0be22cca95842cf886"
+hash = "ed71c0d0d5dcc475a8077bb14b9ccdaccd1b009f9d57e12dea9cd44391d73fc6"
 metafile = true
 
 [[files]]

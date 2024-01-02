@@ -1259,7 +1259,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.a.jar",
+                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.b.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1268,8 +1268,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4983/571/createbigcannons-forge-1.20.1-0.5.3.a.jar",
-                    "id": 4983571,
+                    "url": "https://edge.forgecdn.net/files/5000/116/createbigcannons-forge-1.20.1-0.5.3.b.jar",
+                    "id": 5000116,
                     "required_dependencies": [
                         "328085"
                     ]
@@ -1277,7 +1277,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.a.jar",
+                    "file_name": "createbigcannons-forge-1.20.1-0.5.3.b.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1286,10 +1286,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/X2xfj6pi/createbigcannons-forge-1.20.1-0.5.3.a.jar",
+                    "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/3MQqJhzY/createbigcannons-forge-1.20.1-0.5.3.b.jar",
                     "hashes": {
-                        "sha512": "78864810a9bec22836256db22a5b838759dd00362d1a84a5cab7b70a3b72f3b4c8257b1d2c80162d49dec46c61cbea3001628eeeca7c009365d03cf574647065",
-                        "sha1": "28093e9f0d432d2b47bf84bae1edf6c1363e76c3"
+                        "sha512": "3ba3416d12c765fa6278ac3ea7051cbcd28809f6e66e1c874fbd8a67fbac39c3e9c2a01bc6fdbd75f822c027a045902d3c949599e4118628ddcc1e4039c78d9b",
+                        "sha1": "8e89e0d04b7fa7e151fdb26b9e7945464685f745"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
@@ -2180,7 +2180,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "everycomp-1.20-2.6.19.jar",
+                    "file_name": "everycomp-1.20-2.6.21.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2188,8 +2188,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4985/537/everycomp-1.20-2.6.19.jar",
-                    "id": 4985537,
+                    "url": "https://edge.forgecdn.net/files/4997/892/everycomp-1.20-2.6.21.jar",
+                    "id": 4997892,
                     "required_dependencies": [
                         "499980"
                     ]
@@ -2197,7 +2197,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "everycomp-1.20-2.6.19.jar",
+                    "file_name": "everycomp-1.20-2.6.21.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2205,10 +2205,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EeTYYxit/everycomp-1.20-2.6.19.jar",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wwkDXkMM/everycomp-1.20-2.6.21.jar",
                     "hashes": {
-                        "sha512": "a4e317cdae39ca5def9f1a2155a68caf459b5a8dbf48e447d003d4e2ca32d50634ed8104ca06a42ef5d26322ee1050227f3d16b0ae55a23a31cf7ac5a1e226bd",
-                        "sha1": "41ef48c0285357ea741852fdec429559c3391c8c"
+                        "sha512": "928f9ffa270c1d23092bdcf32f8ea4f14e45132ef18967b872799ca6e55b6a4ab9ad266e33b0fc90d52728916fdae67d3b8597a09ef506a11da7045757ab6b51",
+                        "sha1": "eeadc26d6c37f8d57b8f0be5a0de8b2656d7950c"
                     },
                     "required_dependencies": [
                         "twkfQtEc"
@@ -4039,6 +4039,67 @@
             ]
         },
         {
+            "pakku_id": "nuaqQ4Q6r7zevdoF",
+            "pakku_links": [
+                "UykqmsQQYPHUUDxY"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "oculus",
+                "modrinth": "oculus"
+            },
+            "name": {
+                "curseforge": "Oculus",
+                "modrinth": "Oculus"
+            },
+            "id": {
+                "curseforge": "581495",
+                "modrinth": "GchcoXML"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "oculus-mc1.20.1-1.6.13.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4952/626/oculus-mc1.20.1-1.6.13.jar",
+                    "id": 4952626,
+                    "required_dependencies": [
+                        "908741"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "oculus-mc1.20.1-1.6.13a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GchcoXML/versions/yUsIHXQX/oculus-mc1.20.1-1.6.13.jar",
+                    "hashes": {
+                        "sha512": "839b6b8b97b959ab636d378c80515d649c359f6095a8942a610113e53533274d196f6deb5d083da2c29e8b69921aceec49f0913fe37ff31a7f2df0a7d12d6d3c",
+                        "sha1": "196539d0e5dc057b81edbaa8d0e396c6cd8a2db8"
+                    },
+                    "required_dependencies": [
+                        "sk9rgfiA"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "pcPvYk5DMzltCjo7",
             "type": "MOD",
             "side": "BOTH",
@@ -4582,7 +4643,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "moonlight-1.20-2.8.78-forge.jar",
+                    "file_name": "moonlight-1.20-2.8.79-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4590,15 +4651,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4991/483/moonlight-1.20-2.8.78-forge.jar",
-                    "id": 4991483,
+                    "url": "https://edge.forgecdn.net/files/5000/808/moonlight-1.20-2.8.79-forge.jar",
+                    "id": 5000808,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "moonlight-1.20-2.8.78-forge.jar",
+                    "file_name": "moonlight-1.20-2.8.79-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4606,10 +4667,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/TDf2CeG9/moonlight-1.20-2.8.78-forge.jar",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/7NLlFrFF/moonlight-1.20-2.8.79-forge.jar",
                     "hashes": {
-                        "sha512": "2ff146e0591c0cdb06295c78cc3032b93776757f785e9b081a8429ce6c735b04f2edd55d226012bfbb72a52b9324fd85889c03e72118c0fab602f6d72538d4d7",
-                        "sha1": "848cf0d36bbd8daed2e9268e916ba0d6f00d98b0"
+                        "sha512": "1c7c646c4a882403edfe330b14ed8adaba285aa57fca249346b0b1f8a1295a334c1ad8c2352a3d3a0130353360fa7ede2618c7fd3b5b0e118181ef7b1bb79332",
+                        "sha1": "82eafec560a47eac304226950ed636cf31a4ab56"
                     },
                     "required_dependencies": [
                     ]

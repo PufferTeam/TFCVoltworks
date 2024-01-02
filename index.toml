@@ -422,11 +422,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "8d7c697e11976e9cd6c9412201b31b9310961ee776d0d312a320d2132bfbdd8d"
+hash = "acbe1408a663dd6afe4230c178fa6a59c99c11dd06e8a40734aa2cfc5dfb7681"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "137ef247fcf3ed7bc4781672409f98c9505bf8679bd9f89b75a1b72bc5f54202"
+hash = "98131cf0f9711ad3b672664ceccf4b26ea2184ae86b9df883b977e9bd5ad6667"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -474,7 +474,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1135,3 +1135,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/2D_LOGS.zip"
 hash = "398a26320895426e7c42189148f637ab0470a36d6d99c3c8a3c973bfd02317b0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "845450b511fb0202a21d789457144d689aad58b4a106d7156e851002fa9373f2"

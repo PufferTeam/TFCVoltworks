@@ -3,11 +3,12 @@
 
 Months of works is coming for a release of my personal modpack based on **TFC, Create and Immersive Engineering**. A fully **fledged technology tree**, from pottery and pit kilns, to charcoal production, producing iron with a bloomery, steel making and later on, with electric machines, rotational power and more.
 Every Recipe from every modpack is tweaked to fit the TFC gameplay.
+
 ### __**Quests**__ 
 The modpack will have **extensive questlines** to guide yourself in TerraFirmaCraft world and the **modpack progression**.
 
 ### __**Automation**__ 
-In this pack, everything from the **TerraFirmaCraft** mod will be able to be **automated**! Automated Forging machines, Heating etc. Every aspect that is not normally automatable will have alternatives to be automated in Create/IE and** every machine in Create is compatible** with TFC (blaze burner is removed, replaced with Charcoal Forge, you can heat up items with fans)
+In this pack, everything from the **TerraFirmaCraft** mod will be able to be **automated**! Automated Forging machines, Heating etc. Every aspect that is not normally automatable will have alternatives to be automated in Create/IE and **every machine in Create is compatible** with TFC (blaze burner is removed, replaced with Charcoal Forge, you can heat up items with fans)
 
 The Progression includes **multiples goals**, with the goal of always being **automatable.**
 
@@ -23,3 +24,6 @@ The underground has been **completely reimagined**, with layers of different typ
 
 ###  __**Seasons**__
 **Seasons, weather, and a realistic climate** and calendar model cause the player to need to stockpile food for winter to survive
+
+###  __**Credits**__ 
+- Pack includes [Complementary Shaders](https://www.curseforge.com/minecraft/shaders/complementary-reimagined).

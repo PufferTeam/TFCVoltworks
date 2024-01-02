@@ -6,6 +6,7 @@
 !/defaultconfigs/**
 !/kubejs/**
 !/resourcepacks/**
+!/shaderpacks/**
 /kubejs/unused_assets/**
 /kubejs/assets/**
 /kubejs/data/**

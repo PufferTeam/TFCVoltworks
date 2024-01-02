@@ -20,6 +20,7 @@
 !/defaultconfigs/**
 !/kubejs/**
 !/resourcepacks/**
+!/shaderpacks/**
 !/resources/**
 !/mods/**
 /mods/.index/**

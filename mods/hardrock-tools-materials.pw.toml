@@ -1,0 +1,13 @@
+name = "HardRock Tools & Materials"
+filename = "htm-1.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3679fe027b07a716040aee10863372b9447782cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4979256
+project-id = 948055

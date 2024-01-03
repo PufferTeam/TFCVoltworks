@@ -1,0 +1,13 @@
+name = "Animals Trap"
+filename = "AnimalTrap-1.20.1-forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "398286205ee602a999e3c2ca0fe15456dd61cf58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4997023
+project-id = 954291

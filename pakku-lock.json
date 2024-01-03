@@ -196,6 +196,82 @@
             ]
         },
         {
+            "pakku_id": "pN4KDUp4HuoqHY9L",
+            "pakku_links": [
+                "8IQl6ii3a9QxwRAi"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "animals-trap"
+            },
+            "name": {
+                "curseforge": "Animals Trap"
+            },
+            "id": {
+                "curseforge": "954291"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "AnimalTrap-1.20.1-forge-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4997/23/AnimalTrap-1.20.1-forge-1.0.1.jar",
+                    "id": 4997023,
+                    "required_dependencies": [
+                        "948055"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "YLlAbvm3UnykHEW8",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5",
+                "pN4KDUp4HuoqHY9L"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "animals-trap-for-tfc"
+            },
+            "name": {
+                "curseforge": "Animals Trap for TFC"
+            },
+            "id": {
+                "curseforge": "954871"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "AnimalTrapTFC-1.20.1-forge-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4997/31/AnimalTrapTFC-1.20.1-forge-1.0.1.jar",
+                    "id": 4997031,
+                    "required_dependencies": [
+                        "302973",
+                        "954291"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "OzDXE0ekHMLm1G5q",
             "type": "MOD",
             "side": "BOTH",
@@ -2859,6 +2935,39 @@
                     },
                     "required_dependencies": [
                         "MBAkmtvl"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "8IQl6ii3a9QxwRAi",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "hardrock-tools-materials"
+            },
+            "name": {
+                "curseforge": "HardRock Tools & Materials"
+            },
+            "id": {
+                "curseforge": "948055"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "htm-1.0.3-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4979/256/htm-1.0.3-forge-1.20.1.jar",
+                    "id": 4979256,
+                    "required_dependencies": [
                     ]
                 }
             ]

@@ -2803,6 +2803,67 @@
             ]
         },
         {
+            "pakku_id": "f37C0kgcQlvrsqMy",
+            "pakku_links": [
+                "cdBixBr1ymsImNMT"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "hardcore-revival",
+                "modrinth": "hardcore-revival"
+            },
+            "name": {
+                "curseforge": "Hardcore Revival",
+                "modrinth": "Hardcore Revival"
+            },
+            "id": {
+                "curseforge": "274036",
+                "modrinth": "HqKoXaXz"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "hardcorerevival-forge-1.20.1-12.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4944/758/hardcorerevival-forge-1.20.1-12.0.1.jar",
+                    "id": 4944758,
+                    "required_dependencies": [
+                        "531761"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "hardcorerevival-forge-1.20.1-12.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HqKoXaXz/versions/Q7CnwUKz/hardcorerevival-forge-1.20.1-12.0.1.jar",
+                    "hashes": {
+                        "sha512": "1829f65ff4ac0518ae581a03aeac91742249249d87727f44f29f3ea3fa6a3479571075ccef790ee6a0693d2e92cd262af3011edf53ad590a46b79b4ab7e0eb50",
+                        "sha1": "5bd453f05f59d68185e1f5e250b1bc5876f9b8bf"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "9dnN19IcyOgGPQCD",
             "type": "MOD",
             "side": "BOTH",

@@ -903,6 +903,11 @@ hash = "c29644a21f7936f1db9dc3c3dd54fe593a91dfeb1cc3f13ffc5fff5e02f890a6"
 metafile = true
 
 [[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "d528637e256102eff74f83725e9fdc6f6558eebbec2d89ccf5b835ec95201764"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "773e4e7825809bcbd41b5eac2406b9430623402b859f38a7fdf1b2b62535df69"
 metafile = true

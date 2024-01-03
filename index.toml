@@ -237,6 +237,10 @@ file = "config/ftbxmodcompat.snbt"
 hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
 [[files]]
+file = "config/hardcorerevival-common.toml"
+hash = "8c9de02020e45e57d5d1b859fbcf1d173b3d8c9a673dceb0288f7b36d3e40ea7"
+
+[[files]]
 file = "config/immersiveengineering-client.toml"
 hash = "10e2de8d987432c81724371ff27ccc2a452e88f22880c45777ca0cd35eda6118"
 
@@ -278,7 +282,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "d44a64a52c5b46fb399b3a3e4c45632c4f2ad87975a6d1c5d06199ba2b1f11e4"
+hash = "858dc8d3039d284978e6118496e513ca55e795324c4a757a8a7061dd045a50e8"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -422,11 +426,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "acbe1408a663dd6afe4230c178fa6a59c99c11dd06e8a40734aa2cfc5dfb7681"
+hash = "b75e56f02053876591927a90ece0026e99e0e416ba6d233d87da88f8707bca29"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "98131cf0f9711ad3b672664ceccf4b26ea2184ae86b9df883b977e9bd5ad6667"
+hash = "af5a9e22be58edc8072295d5018681165a25ad74253f5bc77419a246c1f330fa"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -474,7 +478,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -650,16 +654,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
-metafile = true
-
-[[files]]
-file = "mods/animals-trap-for-tfc.pw.toml"
-hash = "47de7036536aa5e6970c894cc701c1989d177b2d99b729f06d8ec08db81c07b1"
-metafile = true
-
-[[files]]
-file = "mods/animals-trap.pw.toml"
-hash = "226dad1794315fff41ad1c29ca55977eb5c1edbaf4abe0c4343af17c9b66d7e2"
 metafile = true
 
 [[files]]
@@ -915,11 +909,6 @@ metafile = true
 [[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "d528637e256102eff74f83725e9fdc6f6558eebbec2d89ccf5b835ec95201764"
-metafile = true
-
-[[files]]
-file = "mods/hardrock-tools-materials.pw.toml"
-hash = "1883e3ccbfad6c8a5fe142c52d1e889d8e3bbc8fadb34ca4d89c16d50968a33a"
 metafile = true
 
 [[files]]

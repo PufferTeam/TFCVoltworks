@@ -282,7 +282,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "858dc8d3039d284978e6118496e513ca55e795324c4a757a8a7061dd045a50e8"
+hash = "40c8147d76747ff47c1ac11f4f8875ff2d58c309f59be5a30e617d7a609bd607"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -426,11 +426,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b75e56f02053876591927a90ece0026e99e0e416ba6d233d87da88f8707bca29"
+hash = "d5d227adbdddaf5b9c47c8853a6128df8bcfe05f0cc1242008f8e416141fbafd"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "af5a9e22be58edc8072295d5018681165a25ad74253f5bc77419a246c1f330fa"
+hash = "c314b8c0f9b346481b717a645be685eb8713553e681dd876883c86e61d817c27"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -478,7 +478,7 @@ hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -704,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
 metafile = true
 
 [[files]]
@@ -1117,8 +1122,18 @@ hash = "237c3e5f65dbb50dbf725bbcfa1ba192242b353d970180f81e9b01004d84b121"
 metafile = true
 
 [[files]]
+file = "mods/tfcgyres-orehints.pw.toml"
+hash = "06efeedc8f8e174ed3854bc2c16a03f72886973ea948529728424ded583993b0"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "7dad159180008784682868e643456e68cea890317aa188eb5c7796d6d585c965"
 metafile = true
 
 [[files]]

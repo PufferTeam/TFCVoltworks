@@ -9,24 +9,28 @@ if /I "%co%" EQU "R" goto :rem
 if /I "%co%" EQU "U" goto :upd
 
 :add
+echo Adding the mod...
 set pakku_op=add
 set packwiz_op=curseforge add
 set git_op=Added
 goto :run
 
 :rem
+echo Removing the mod...
 set pakku_op=rm
 set packwiz_op=remove
 set git_op=Removed
 goto :run
 
 :upd
+echo Updating the mod...
 set pakku_op=update
 set packwiz_op=update
 set git_op=Updated
 goto :run
 
 :run
+echo Update modlist...
 java -jar Pakku-0.0.6.jar %pakku_op% %id%
 packwiz %packwiz_op% %id%
 packwiz refresh
@@ -47,7 +51,6 @@ goto start
 
 :yes
 
-echo Committing to Git...
 git add .
 
 set /p mc="Multiples changes [Y/N]: "
@@ -55,9 +58,11 @@ set /p mc="Multiples changes [Y/N]: "
 if /I "%mc%" EQU "N" set id_p=%id%
 if /I "%mc%" EQU "Y" set id_p=multiples mods
 
+echo Committing to Git...
 git commit -am "%git_op% %id_p%."
 git push
 
+echo Update instance modlist...
 java -jar Pakku-0.0.6.jar fetch
 git restore *.pw.toml
 git restore *.jar

@@ -740,6 +740,42 @@
             ]
         },
         {
+            "pakku_id": "sr5uZ3ZB1NCfgcHN",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "bookshelf",
+                "modrinth": "bookshelf"
+            },
+            "name": {
+                "curseforge": "Bookshelf",
+                "modrinth": "Bookshelf"
+            },
+            "id": {
+                "curseforge": "228525",
+                "modrinth": "VUkUwfUG"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "Bookshelf-Forge-1.20.1-20.1.8.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4975/282/Bookshelf-Forge-1.20.1-20.1.8.jar",
+                    "id": 4975282,
+                    "required_dependencies": [
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "lcbyZGZUwmS7aWve",
             "pakku_links": [
                 "GG40k6TaihbmcYYv",
@@ -5086,6 +5122,43 @@
             ]
         },
         {
+            "pakku_id": "GNOz77nFXKRCdj1E",
+            "pakku_links": [
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tfcgyres-orehints"
+            },
+            "name": {
+                "curseforge": "TFCGyres-OreHints"
+            },
+            "id": {
+                "curseforge": "838993"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "TFCGyres-OreHints-2.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4964/731/TFCGyres-OreHints-2.1.jar",
+                    "id": 4964731,
+                    "required_dependencies": [
+                        "302973"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "tf3k5zRF1QU1DxI8",
             "pakku_links": [
                 "DMmUXUB9OblZ2i0J"
@@ -5118,6 +5191,43 @@
                     "id": 4711316,
                     "required_dependencies": [
                         "283644"
+                    ]
+                }
+            ]
+        },
+        {
+            "pakku_id": "43IKiJltuM9TQffU",
+            "pakku_links": [
+                "sr5uZ3ZB1NCfgcHN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tool-stats"
+            },
+            "name": {
+                "curseforge": "Tool Stats"
+            },
+            "id": {
+                "curseforge": "377109"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "ToolStats-Forge-1.20.1-16.0.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4974/998/ToolStats-Forge-1.20.1-16.0.7.jar",
+                    "id": 4974998,
+                    "required_dependencies": [
+                        "228525"
                     ]
                 }
             ]

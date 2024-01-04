@@ -3567,6 +3567,68 @@
             ]
         },
         {
+            "pakku_id": "3FKEfPemCY7nA37i",
+            "pakku_links": [
+                "LCgiSq4qhUBcBFUM",
+                "HsC1qRYhuJm0ASw5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kubejs-tfc",
+                "modrinth": "kubejs-tfc"
+            },
+            "name": {
+                "curseforge": "KubeJS TFC",
+                "modrinth": "KubeJS TFC"
+            },
+            "id": {
+                "curseforge": "841001",
+                "modrinth": "mhtClB2S"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "kubejs_tfc-1.20.1-1.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4945/181/kubejs_tfc-1.20.1-1.0.3.jar",
+                    "id": 4945181,
+                    "required_dependencies": [
+                        "238086",
+                        "302973"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "kubejs_tfc-1.20.1-1.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/mhtClB2S/versions/caFMAdRt/kubejs_tfc-1.20.1-1.0.3.jar",
+                    "hashes": {
+                        "sha512": "b2c96d229ef533ce7288d86bdfee6a227da6cc4bc7f74810b065aa324635b2388c1f1d3899cdae0d04730ae5b6ff7ee0e7d0091efc9f69e60ca892e176e6b724",
+                        "sha1": "f734504fd36904d07c881758e56020ed89c276f7"
+                    },
+                    "required_dependencies": [
+                        "JaCEZUhg",
+                        "umyGl7zF"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "X1paIsvYVTOxcsWA",
             "pakku_links": [
                 "4ILiTvZ1RqlnkcTC",

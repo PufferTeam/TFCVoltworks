@@ -609,6 +609,14 @@ file = "kubejs/config/common.properties"
 hash = "3d8819715651f627f8d99fccc7d408af7e447ba824180d6882542c5e58402fb3"
 
 [[files]]
+file = "kubejs/server_scripts/add_recipes.js"
+hash = "0330ca041bac796ae1e6e357a8af45430e1d48a234ae368f1e1fda6195bf580d"
+
+[[files]]
+file = "kubejs/server_scripts/cut_recipes.js"
+hash = "2562978554b23fb6f18036dd559a482ef2ddec4a9d88bc6e6a34885b19efce84"
+
+[[files]]
 file = "kubejs/server_scripts/functions.js"
 hash = "b2b2747dd033b2628b4d30f3a925e3fadbebb6886d26275357e5d7d8c4fe1177"
 
@@ -969,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-tfc.pw.toml"
+hash = "2e6b0973134ffca857839cac80f38c3c1bee4762b661d80fd0dba6b033db222a"
 metafile = true
 
 [[files]]

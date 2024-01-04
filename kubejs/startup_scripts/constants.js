@@ -142,6 +142,81 @@ global.tfcJarTypes = [
     'wintergreen_berry'
 ];
 
+global.tfcGemTypes = [
+    'amethyst',
+    'diamond',
+    'emerald',
+    'lapis_lazuli',
+    'opal',
+    'pyrite',
+    'ruby',
+    'sapphire',
+    'topaz'
+]
+
+global.tfcMetalParts = [
+    'anvil',
+    'chain',
+    'block',
+    'double_ingot',
+    'double_sheet',
+    'horse_armor',
+    'ingot',
+    'lamp',
+    'rod',
+    'sheet',
+    'unfinished_helmet',
+    'unfinished_chestplate',
+    'unfinished_greaves',
+    'unfinished_boots',
+    'trapdoor'
+]
+
+global.forgingBonusWhitelist = [
+    "fish_hook",
+    "tuyere",
+    "pickaxe_head",
+    "propick_head",
+    "axe_head",
+    "shovel_head",
+    "hoe_head",
+    "chisel_head",
+    "hammer_head",
+    "saw_blade",
+    "javelin_head",
+    "sword_blade",
+    "mace_head",
+    "knife_blade",
+    "scythe_blade",
+    "helmet",
+    "chestplate",
+    "greaves",
+    "boots",
+    "shield"
+];
+
+global.forgingBonusWhitelist.forEach(i => global.tfcMetalParts.push(i));
+
+global.tfcToolsTypes = [
+    'axe',
+    'chisel',
+    'fishing_rod',
+    'hammer',
+    'hoe',
+    'javelin',
+    'knife',
+    'mace',
+    'pickaxe',
+    'propick',
+    'saw',
+    'scythe',
+    'shears',
+    'shovel',
+    'sword'
+]
+
+global.tfcToolsTypes.forEach(i => global.tfcMetalParts.push(i));
+
 /*
     Create values
 */

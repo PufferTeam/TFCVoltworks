@@ -45,7 +45,13 @@ global.removeAndHide = [
     'immersiveengineering:hoe_steel',
     'immersiveengineering:seed',
     'immersiveengineering:hemp_fiber',
-    'create:copper_nugget'
+    'create:copper_nugget',
+    'createbigcannons:nethersteel_ingot',
+    'createbigcannons:nethersteel_block',
+    'createbigcannons:nethersteel_nugget',
+    'createbigcannons:cast_iron_ingot',
+    'createbigcannons:cast_iron_nugget',
+    'createbigcannons:cast_iron_block',
 ]
 function removeAndHide(type, mod, item) {
     if (type == 'cut') {

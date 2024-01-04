@@ -1,7 +1,6 @@
 ServerEvents.recipes(event => {
 
     function replace(i, i2) {
-        event.replaceInput({ input: i }, i, i2)
         event.replaceOutput({ output: i }, i, i2)
     }
 

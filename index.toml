@@ -77,6 +77,10 @@ file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "ae123de01d0b9aa1fcb4df530a1eaeae82e2659887a651ac0eab05d2cdabc777"
+
+[[files]]
 file = "config/betterfoliage-client.toml"
 hash = "c980ebb79847b5eb5389d15567843cba8e32586ab1039c8e68f05574fa1ff765"
 
@@ -162,7 +166,7 @@ hash = "d2f310289655c40d1a9c954d742776ea830a0f5d4dc9ec6a382ae0b83d97a758"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "29c2f3c414e451c59df5c77a5d73e3f381290332551aeccbcdee9c202996dc53"
+hash = "c74952d6dab463ceeaf8d354ff2d1d790b79190ce04bf5a03df26a852df9b384"
 
 [[files]]
 file = "config/dynamic_lights_reforged.toml"
@@ -170,7 +174,7 @@ hash = "f6e6e9b80a3d95639a0cf81f53bd6fdd2b9064e56124025fbd7cb5731fcfd253"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "a5cb81fa51b2715156af3ddd8f146d8d71695f79f71c5a2259ecde2cc2338ff3"
+hash = "faa3ea331b7174448f0fb6c39f7b72a860c26b33e0100c54c38deff54acb52d8"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -282,7 +286,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "40c8147d76747ff47c1ac11f4f8875ff2d58c309f59be5a30e617d7a609bd607"
+hash = "d44a64a52c5b46fb399b3a3e4c45632c4f2ad87975a6d1c5d06199ba2b1f11e4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -307,6 +311,10 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "dc6fc586e9fe520b271278f5c16a678ce8b8686e728fb0440a2002ba63d46545"
+
+[[files]]
+file = "config/kubejs-tfc.toml"
+hash = "ab62499b9ba5edf26a46ac7a55ec96b334724dc0c7c6e116c5c5586ead45f707"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -414,7 +422,7 @@ hash = "410350c91c2fbc9d89a48450fb190189bd09afc647e12574e1ca2b9833fdbe99"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "be4747ae45241c9bf90031ea61b88188c776b8547d9041feba62d18c4b218e3b"
+hash = "80778622c9593fec8b4ad153329931dd96e9cdf611216377a21c41596bad9afa"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -426,11 +434,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "d5d227adbdddaf5b9c47c8853a6128df8bcfe05f0cc1242008f8e416141fbafd"
+hash = "6594460df41328568a6e40f56f7818ae847338e0ea8303e3a1e669d15cd07990"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "c314b8c0f9b346481b717a645be685eb8713553e681dd876883c86e61d817c27"
+hash = "854f23043ce22dc7a57c13628f1b23cc3514e4f15688dcebcd0b9ba2ccdb5378"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -465,6 +473,10 @@ file = "config/toastcontrol-common.toml"
 hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
 
 [[files]]
+file = "config/toolstats.json"
+hash = "27a7daab8a6e86487fe1d019ffdf0411db6ea7438d99d6aa4d727094473857f9"
+
+[[files]]
 file = "config/woodencog-common.toml"
 hash = "52d862ec097be0cfc8e68a02189557528c44bd9a6bb481ef65cd076c6ed6316e"
 
@@ -474,7 +486,7 @@ hash = "4d3bd59edaa749e038133d763f21e3773265a156d2347bbc23cf85071eaedd2e"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "a308223572e0ec2c2268844d7e5f0592e1752ed410b77d1c68592a3438a0e2e6"
+hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -610,27 +622,31 @@ hash = "3d8819715651f627f8d99fccc7d408af7e447ba824180d6882542c5e58402fb3"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "0330ca041bac796ae1e6e357a8af45430e1d48a234ae368f1e1fda6195bf580d"
+hash = "d2c168f4de0c727a33013cdcad71b96f33e5f9133850450115777cf86160e0ba"
+
+[[files]]
+file = "kubejs/server_scripts/compat.js"
+hash = "d3e1328fb8230e44853f650448565af7a2694d678c0bbe795b7cdb955f47b0dc"
 
 [[files]]
 file = "kubejs/server_scripts/cut_recipes.js"
-hash = "2562978554b23fb6f18036dd559a482ef2ddec4a9d88bc6e6a34885b19efce84"
+hash = "d174004e18899b7d4c8890779dfed3e255a943d139cb5f05e9fd3088f024da28"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
-hash = "b2b2747dd033b2628b4d30f3a925e3fadbebb6886d26275357e5d7d8c4fe1177"
+hash = "6d68095d96b66fddcac2b8c3d13f22eec29f626983b4f62bca89d0f81d7b00c1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "e606a01c95a534c80502924a3bcb75c31e99708f2d12f31a3cf7b7424561b9e8"
+hash = "1a50627724fbc4f5826224756872a0268e4308a1016ba3e82e9d8e5a2d70b0c0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_replace.js"
-hash = "cbe91d2bf0438e3c0cb3ff3fd897f962165940eb05e8d8dc16231d4b87ae532b"
+hash = "4976b7dcfd7b9011f256ee0bbf6fc2303b4371f2c23b5f7922698179b414807d"
 
 [[files]]
 file = "kubejs/startup_scripts/constants.js"
-hash = "26f2afd559b842950d914f1468c4ddf9a32742c26ea841aafd6677afa4199aba"
+hash = "d4a99b8488534a1a24f8462abb5241aa5042adf8e37bdb4a6ebb0ca3b7ee1a4f"
 
 [[files]]
 file = "kubejs/startup_scripts/functions.js"
@@ -638,7 +654,7 @@ hash = "a43accec0c13bf97aea90f5c4ab55ea563db83e5435aa5c1cad4968513c3cc94"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"
-hash = "a069dda8d47cccf4d4ee90c891ca9183371132b2532f28bec722a7d4e87c3406"
+hash = "d21b2c0772e3b04285813f4c114f7c4c70976ce5215ee427c95b328ac1b87388"
 
 [[files]]
 file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"

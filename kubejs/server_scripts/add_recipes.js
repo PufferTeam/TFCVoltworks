@@ -23,13 +23,13 @@ ServerEvents.recipes(event => {
     }
 
     global.createMixing = function createMixing(isTag, isFood, outputType, output, outputCount, isFluidTag, inputFluid, inputFluidCount, input, inputCount, time) {
-        if(outputType == 'item') {
+        if (outputType == 'item') {
             event.recipes.createMixing(global.getCount(output, outputCount), [global.getItem(isTag, input, inputCount, isFood), global.getFluid(isFluidTag, inputFluid, inputFluidCount)]).processingTime(time).id(global.getId('mixing', input, output, inputFluid))
-        } else if(outputType == 'fluid') {
+        } else if (outputType == 'fluid') {
             event.recipes.createMixing(global.getFluid(false, output, outputCount), [global.getItem(isTag, input, inputCount, isFood), global.getFluid(isFluidTag, inputFluid, inputFluidCount)]).processingTime(time).id(global.getId('mixing', input, output, inputFluid))
-        } else if(outputType == 'fluid_no_item') {
+        } else if (outputType == 'fluid_no_item') {
             event.recipes.createMixing(global.getFluid(false, output, outputCount), [global.getFluid(isFluidTag, inputFluid, inputFluidCount)]).processingTime(time).id(global.getId('mixing', input, output, inputFluid))
-        } else if(outputType == 'item_no_item') {
+        } else if (outputType == 'item_no_item') {
             event.recipes.createMixing(global.getCount(output, outputCount), [global.getFluid(isFluidTag, inputFluid, inputFluidCount)]).processingTime(time).id(global.getId('mixing', input, output, inputFluid))
         }
     }

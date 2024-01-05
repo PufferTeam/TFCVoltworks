@@ -622,11 +622,11 @@ hash = "3d8819715651f627f8d99fccc7d408af7e447ba824180d6882542c5e58402fb3"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "b330cc7c0df43fa3f0b657749c98189c9ba3e80fc74857fe218d27b08654b603"
+hash = "5a75ccf54f8faa681aec00c37263f118ba7debe4161e78fe36d923da1058ce13"
 
 [[files]]
 file = "kubejs/server_scripts/compat.js"
-hash = "6bbd151f1d53c200595f62615275fdc3a5fc1e26ad9f6899f4e25f5d7ac6ed13"
+hash = "833564212d421d8a2dc378454707f3e85893d293eb0c3fa9cf88f90765f3f60c"
 
 [[files]]
 file = "kubejs/server_scripts/cut_recipes.js"
@@ -634,7 +634,7 @@ hash = "d174004e18899b7d4c8890779dfed3e255a943d139cb5f05e9fd3088f024da28"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
-hash = "f58809a1cb4cd6118d16ef9964f566d8bee6293f625f3ec645c108dc7022ba83"
+hash = "1548c5490e66a249f08980296d7eadbe74d790bc585bc5f37e1744c6926aa2e4"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
@@ -650,7 +650,7 @@ hash = "d4a99b8488534a1a24f8462abb5241aa5042adf8e37bdb4a6ebb0ca3b7ee1a4f"
 
 [[files]]
 file = "kubejs/startup_scripts/functions.js"
-hash = "a43accec0c13bf97aea90f5c4ab55ea563db83e5435aa5c1cad4968513c3cc94"
+hash = "48fac26b6daff882ccc3db5532d1309cb32cf0b082d5a119630030d1545eaf43"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"

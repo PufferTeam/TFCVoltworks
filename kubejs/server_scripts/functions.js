@@ -7,7 +7,7 @@ global.getId = function getId(type, input, output, second) {
     let input2 = result[1].replace("/", "_")
 
     let id = `${mod}:${type}/${output2}_from_${input2}`
-    if(second !== undefined && second !== null) {
+    if (second !== undefined && second !== null) {
         let result2 = second.split(':')
         let second2 = result2[1].replace("/", "_")
 
@@ -33,8 +33,8 @@ global.getFluid = function getFluid(isTag, fluid, fluidAmount) {
     if (fluidAmount == undefined) {
         fluidAmount = 1000
     }
-    if(isTag) {
-        i2 = {fluidTag: fluid, amount: fluidAmount}
+    if (isTag) {
+        i2 = { fluidTag: fluid, amount: fluidAmount }
     }
 
     return i2
@@ -42,17 +42,17 @@ global.getFluid = function getFluid(isTag, fluid, fluidAmount) {
 
 global.getItem = function getItem(isTag, item, itemCount, isFood) {
     let it = item
-    if(isTag) {
+    if (isTag) {
         it = `#${item}`
     }
     if (itemCount == undefined) {
         itemCount = 1
     }
     let i2 = Ingredient.of(it, itemCount)
-    if(isFood == undefined) {
+    if (isFood == undefined) {
         isFood = false
     }
-    if(isFood) {
+    if (isFood) {
         i2 = Ingredient.of(TFC.ingredient.notRotten(it), itemCount)
     }
 

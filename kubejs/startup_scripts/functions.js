@@ -101,7 +101,7 @@ global.getCutPrefix = function getCutPrefix(i) {
 global.getSingleItem = function getSingleItem(i) {
     let i2 = i
 
-    if(i == 'lapis') {
+    if (i == 'lapis') {
         i2 = 'lapis_lazuli'
     }
 
@@ -111,7 +111,7 @@ global.getSingleItem = function getSingleItem(i) {
 global.getToolItem = function getToolItem(i) {
     let i2 = i
 
-    if(i == 'gold') {
+    if (i == 'gold') {
         i2 = 'golden'
     }
 

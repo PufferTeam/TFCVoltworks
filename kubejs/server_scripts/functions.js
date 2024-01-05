@@ -18,14 +18,21 @@ global.getId = function getId(type, input, output, second) {
 }
 
 global.getCount = function getCount(output, outputCount) {
+    if (outputCount == undefined) {
+        outputCount = 1
+    }
+
     let i2 = `${outputCount}x ${output}`
 
     return i2
 }
 
-global.getFluidCount = function getFluidCount(isTag, fluid, fluidAmount) {
+global.getFluid = function getFluid(isTag, fluid, fluidAmount) {
     let i2 = Fluid.of(fluid, fluidAmount)
 
+    if (fluidAmount == undefined) {
+        fluidAmount = 1000
+    }
     if(isTag) {
         i2 = {fluidTag: fluid, amount: fluidAmount}
     }
@@ -33,24 +40,22 @@ global.getFluidCount = function getFluidCount(isTag, fluid, fluidAmount) {
     return i2
 }
 
-global.getItem = function getItem(isTag, item) {
-    let i2 = item
+global.getItem = function getItem(isTag, item, itemCount, isFood) {
+    let it = item
     if(isTag) {
-        i2 = `#${item}`
+        it = `#${item}`
     }
-
-    return i2
-}
-
-global.getItemNotRotten = function getItemNotRotten(isTag, isFood, input, inputCount) {
-    let i = global.getItem(isTag, input)
-    let i2 = i
+    if (itemCount == undefined) {
+        itemCount = 1
+    }
+    let i2 = Ingredient.of(it, itemCount)
+    if(isFood == undefined) {
+        isFood = false
+    }
     if(isFood) {
-        i2 = TFC.ingredient.notRotten(i)
+        i2 = Ingredient.of(TFC.ingredient.notRotten(it), itemCount)
     }
-    if(inputCount !== undefined && !isTag && !isFood) {
-        i2 = global.getCount(input, inputCount)
-    }
+
     return i2
 }
 

@@ -52,6 +52,9 @@ global.removeAndHide = [
     'createbigcannons:cast_iron_ingot',
     'createbigcannons:cast_iron_nugget',
     'createbigcannons:cast_iron_block',
+    'tfc:crankshaft',
+    'tfc:steel_pump',
+    'tfc:steel_pipe',
 ]
 function removeAndHide(type, mod, item) {
     if (type == 'cut') {

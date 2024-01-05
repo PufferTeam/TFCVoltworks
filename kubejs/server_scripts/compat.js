@@ -17,9 +17,6 @@ ServerEvents.recipes(event => {
             }
             let output = quernRecipe.result.item;
             let outputCount = quernRecipe.result.count;
-            if (outputCount == undefined) {
-                outputCount = 1
-            }
             if (output == undefined) {
                 output = quernRecipe.result.stack.item
             }
@@ -35,7 +32,7 @@ ServerEvents.recipes(event => {
     global.colors.forEach(i => barrelBlacklist.push(`tfc:${i}_dye`));
     const rxBarrelBlacklist = new RegExp(barrelBlacklist.join('|'));
 
-    event.forEachRecipe({ type: "tfc:barrel_sealed" }, recipe => {
+    event.forEachRecipe([{ type: "tfc:barrel_sealed"}, { type: "tfc:barrel_instant"}], recipe => {
         const barrelRecipe = JSON.parse(recipe.json);
         let input = undefined
         let inputFluid = undefined
@@ -47,12 +44,14 @@ ServerEvents.recipes(event => {
         let isTag = false
         let isFluidTag = true
         let isFood = false
+        let isValid = true
+        let time = 50
+        if(barrelRecipe.duration !== undefined) {
+            time = (barrelRecipe.duration / 10)
+        }
         if(barrelRecipe.input_item !== undefined) {
             input = barrelRecipe.input_item.ingredient.item;
             inputCount = barrelRecipe.input_item.count;
-        }
-        if(inputCount == undefined) {
-            inputCount = 1
         }
         if (input == undefined && barrelRecipe.input_item.ingredient.ingredient !== undefined) {
             input = barrelRecipe.input_item.ingredient.ingredient.item;
@@ -61,10 +60,14 @@ ServerEvents.recipes(event => {
                 input = barrelRecipe.input_item.ingredient.ingredient.tag;
                 isTag = true
             }
+            if(barrelRecipe.input_item.ingredient.type == 'tfc:has_trait') {
+                isFood = false
+                isValid = false
+            }
         }
         if (input == undefined) {
             input = barrelRecipe.input_item.ingredient.tag;
-            isFluidTag = true
+            isTag = true
         }
         inputFluid = barrelRecipe.input_fluid.ingredient.tag;
         if (inputFluid == undefined) {
@@ -72,9 +75,6 @@ ServerEvents.recipes(event => {
             isFluidTag = false
         }
         inputFluidCount = barrelRecipe.input_fluid.amount;
-        if(inputFluidCount == undefined) {
-            inputFluidCount = 1000
-        }
         if(!rxBarrelBlacklist.test(inputFluid) && !rxBarrelBlacklist.test(input)) {
             if(barrelRecipe.output_item !== undefined) {
                 output = barrelRecipe.output_item.item
@@ -89,19 +89,16 @@ ServerEvents.recipes(event => {
             if(outputCount == undefined && barrelRecipe.output_fluid !== undefined) {
                 outputCount = barrelRecipe.output_fluid.amount;
             }
-            if (outputCount == undefined) {
-                outputCount = 1
-            }
-            if(outputCount > 64 && outputType == 'item' && barrelRecipe.output_fluid !== undefined && barrelRecipe.output_item !== undefined) {
-                outputType = 'fluid_no_item'
-                output = barrelRecipe.output_fluid.fluid
-            }
             if(input == 'firmalife:cheesecloth') {
                 outputType = 'item_no_item'
             }
-
-            if(input !== undefined && inputFluid !== undefined && output !== undefined) {
-                global.createMixing(isTag, isFood, outputType, output, outputCount, isFluidTag, inputFluid, inputFluidCount, input, inputCount)
+            if(barrelRecipe.output_fluid !== undefined && barrelRecipe.output_item !== undefined) {
+                outputType = 'fluid_no_item'
+                output = barrelRecipe.output_fluid.fluid
+            }
+            if(isValid && input !== undefined && inputFluid !== undefined && output !== undefined) {
+                //console.log(isTag + ' ' + isFood + ' ' + outputType + ' ' + output + ' ' + outputCount + ' ' + isFluidTag + ' ' + inputFluid + ' ' + inputFluidCount + ' ' + input + ' ' + inputCount) 
+                global.createMixing(isTag, isFood, outputType, output, outputCount, isFluidTag, inputFluid, inputFluidCount, input, inputCount, time)
             }
         }
  

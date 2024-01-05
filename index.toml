@@ -434,11 +434,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6594460df41328568a6e40f56f7818ae847338e0ea8303e3a1e669d15cd07990"
+hash = "f860df22d0a71f2790e2c59cbe117a1c4fdb891e6c07ca2d92544acf74850631"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "854f23043ce22dc7a57c13628f1b23cc3514e4f15688dcebcd0b9ba2ccdb5378"
+hash = "ef35900fecb11794a33054b79ed8ad23cbfe84b99e74eba2d892fdcc2aa2c4d8"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -490,7 +490,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -622,11 +622,11 @@ hash = "3d8819715651f627f8d99fccc7d408af7e447ba824180d6882542c5e58402fb3"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "d2c168f4de0c727a33013cdcad71b96f33e5f9133850450115777cf86160e0ba"
+hash = "b330cc7c0df43fa3f0b657749c98189c9ba3e80fc74857fe218d27b08654b603"
 
 [[files]]
 file = "kubejs/server_scripts/compat.js"
-hash = "d3e1328fb8230e44853f650448565af7a2694d678c0bbe795b7cdb955f47b0dc"
+hash = "6bbd151f1d53c200595f62615275fdc3a5fc1e26ad9f6899f4e25f5d7ac6ed13"
 
 [[files]]
 file = "kubejs/server_scripts/cut_recipes.js"
@@ -634,7 +634,7 @@ hash = "d174004e18899b7d4c8890779dfed3e255a943d139cb5f05e9fd3088f024da28"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
-hash = "6d68095d96b66fddcac2b8c3d13f22eec29f626983b4f62bca89d0f81d7b00c1"
+hash = "f58809a1cb4cd6118d16ef9964f566d8bee6293f625f3ec645c108dc7022ba83"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
@@ -654,7 +654,7 @@ hash = "a43accec0c13bf97aea90f5c4ab55ea563db83e5435aa5c1cad4968513c3cc94"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"
-hash = "d21b2c0772e3b04285813f4c114f7c4c70976ce5215ee427c95b328ac1b87388"
+hash = "7c98aa92935ce111ac7cf884da27617151e5a4b82fb984e9d56c4d825c57403b"
 
 [[files]]
 file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"

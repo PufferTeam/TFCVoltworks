@@ -33,23 +33,8 @@
 [munitions]
 	#.
 	#.
-	#If an entity should be invulnerable for a while after being hit by a mod projectile.
-	invulnerableAfterProjectileHurt = false
-	#.
-	#How many Powder Charges a Mortar Stone can handle before breaking. Set to less than 0 to make Mortar Stones unbreakable.
-	#Range: -1.0 ~ 3.4028234663852886E38
-	maximumMortarStonePowderCharges = 2.0
-	#.
 	#If projectiles can bounce, ricochet, and be deflected.
 	projectilesCanBounce = true
-	#.
-	#How long the smoke cloud spawned by a Smoke Shell lasts for, in ticks. 1 second = 20 ticks.
-	#Range: > 1
-	smokeShellCloudDuration = 300
-	#.
-	#How large the smoke cloud spawned by a Smoke Shell is.
-	#Range: 1.0 ~ 20.0
-	smokeShellCloudSize = 10.0
 	#.
 	#The minimum velocity necessary to activate the penetration bonus, in meters per game tick. (1 m/gt = 20 m/s)
 	#Range: 0.0 ~ 3.4028234663852886E38
@@ -89,34 +74,9 @@
 	#Grouped Munitions
 	[munitions.groupedMunitions]
 		#.
-		#How much fluid in millibuckets (mB) a Fluid Shell can contain.
-		#Range: > 1
-		fluidShellCapacity = 2000
-		#.
-		#The amount of fluid in millibuckets (mB) required to spawn a Fluid Blob on Fluid Shell detonation.
-		#Any remaining fluid after spawning will be rounded up to one additional projectile.
-		#Range: > 25
-		millibucketsPerFluidBlob = 250
-		#.
-		#How much Fluid Blobs spread on release.
-		#Range: 0.009999999776482582 ~ 3.4028234663852886E38
-		fluidBlobSpread = 1.0
-		#.
-		#How many millibuckets (mB) of fluid in a Fluid Blob are required to increase its area of effect (AOE) by one block in each direction.
-		#Range: > 25
-		millibucketsPerAreaOfEffectRadius = 50
-		#.
 		#The chance of a fluid blob affecting a block in its area of effect (AOE). 0 is 0% (never), 1 is 100% (always).
 		#Range: 0.0 ~ 1.0
 		fluidBlobBlockEffectChance = 0.5
-
-	#.
-	#Propellant
-	[munitions.propellant]
-		#.
-		#The maximum amount of power a Big Cartridge can store.
-		#Range: 1 ~ 8
-		maxBigCartridgePower = 4
 
 	#.
 	#Deflection
@@ -171,6 +131,9 @@
 	#.
 	#Range: 0.0 ~ 3.4028234663852886E38
 	autocannonRecoilScale = 0.5
+	#.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	minimumBigCannonSpread = 0.10000000149011612
 
 	#.
 	#Loading Tools

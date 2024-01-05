@@ -434,11 +434,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "b3753740c4d1a440caaec2b46b61b813a916fe51ae3177117b64b866347f0e76"
+hash = "c83be4aa37447a9ce595f56597f107a63267d11d1d1d33aa8007282df61a8033"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "34cf65f6f695011651a7ed2b2169ffca34138b8309fba3b6abee3ad8c9b9ce24"
+hash = "980a04f39ceead08eb9a7f58808b13320639c95645bacb6ee5a9b16f029a3fc5"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -490,7 +490,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -526,7 +526,11 @@ hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "e9a829e67309524c934f5bfc981296c228df1f1b5e5ed6cdb44f458a34ceb7f8"
+hash = "a078da832f28fd5a36e13073976410c835df00a968daa5d6420a80ce2cf61dba"
+
+[[files]]
+file = "defaultconfigs/create_connected-server.toml"
+hash = "c1119b7037697211df7ac49e839544e0e22cdd30e88d30e36186434865851716"
 
 [[files]]
 file = "defaultconfigs/create_power_loader-server.toml"
@@ -534,7 +538,7 @@ hash = "2db571275f1ca0e467b15de4182da3724f215381ef9cfc925299177dbb6e8cd3"
 
 [[files]]
 file = "defaultconfigs/createbigcannons-server.toml"
-hash = "3f0fa19cfd249f8ec37d4bdb66cc834bbf461a618b2f5a133789503bffb61fd7"
+hash = "c58c471deb7eef46d7134d608c8d9bfe42196c8e071d295e62df20d52e9b6332"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
@@ -558,7 +562,7 @@ hash = "dd81f1efe613489929479cbcbf6f7d7cf816292cdfe565e2d47ae35ee2e512df"
 
 [[files]]
 file = "defaultconfigs/ftbranks/README.txt"
-hash = "573e5bab92de06b0254793fa5618b03b4f982cfe50f17ee52a46e097d74ed682"
+hash = "78313fbab3710d3fd4367beea419f3af9a0c7981d0b66923c902b76149b4da46"
 
 [[files]]
 file = "defaultconfigs/ftbranks/players.snbt"

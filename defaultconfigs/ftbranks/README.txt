@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Sat Dec 23 22:03:02 EST 2023
+Last README file update: Wed Jan 03 22:13:00 EST 2024
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -63,6 +63,20 @@ command.attribute.target.attribute.modifier.value.get.uuid.scale
 command.backup
 command.backup.command
 command.backup.command.name
+command.bookshelf
+command.bookshelf.font
+command.bookshelf.font.block
+command.bookshelf.font.block.font
+command.bookshelf.font.block.font.pos
+command.bookshelf.font.book
+command.bookshelf.font.book.font
+command.bookshelf.font.item
+command.bookshelf.font.item.font
+command.bookshelf.font.say
+command.bookshelf.font.say.font
+command.bookshelf.font.say.font.message
+command.bookshelf.hand
+command.bookshelf.hand.output_type
 command.bossbar
 command.bossbar.add
 command.bossbar.add.id
@@ -1171,6 +1185,15 @@ command.forge.track.start.entity.duration
 command.forge.track.start.te
 command.forge.track.start.te.duration
 command.forge.track.te
+command.ftbfiltersystem
+command.ftbfiltersystem.dump_nbt
+command.ftbfiltersystem.get_filter
+command.ftbfiltersystem.get_filter.pretty
+command.ftbfiltersystem.parse
+command.ftbfiltersystem.parse.string
+command.ftbfiltersystem.set_filter
+command.ftbfiltersystem.set_filter.string
+command.ftbfiltersystem.try_match
 command.ftblibrary
 command.ftblibrary.day
 command.ftblibrary.gamemode
@@ -1950,6 +1973,9 @@ command.recipe.take.targets.recipe
 command.reload
 command.return
 command.return.value
+command.revive
+command.revive.targets
+command.revive.targets.skipEffects
 command.ride
 command.ride.target
 command.ride.target.dismount

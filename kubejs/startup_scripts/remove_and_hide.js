@@ -55,6 +55,7 @@ global.removeAndHide = [
     'tfc:crankshaft',
     'tfc:steel_pump',
     'tfc:steel_pipe',
+    'tfc:trip_hammer'
 ]
 function removeAndHide(type, mod, item) {
     if (type == 'cut') {

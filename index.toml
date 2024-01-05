@@ -366,7 +366,7 @@ hash = "f42c9f03687c95c23fa92343f6712e791f551fcbbbc7a7773b08611a175a33cd"
 
 [[files]]
 file = "config/openloader/resources/TFCVoltworks-Resources.zip"
-hash = "06760627d72a31289336d1b2062daa41c9e369fb7678612f6aee627aac062aee"
+hash = "a3cf682900cb1186fbca2c69e5c755fdbc97bf4b63b1d1db41b3756dd4568acf"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -434,11 +434,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "f860df22d0a71f2790e2c59cbe117a1c4fdb891e6c07ca2d92544acf74850631"
+hash = "b3753740c4d1a440caaec2b46b61b813a916fe51ae3177117b64b866347f0e76"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ef35900fecb11794a33054b79ed8ad23cbfe84b99e74eba2d892fdcc2aa2c4d8"
+hash = "34cf65f6f695011651a7ed2b2169ffca34138b8309fba3b6abee3ad8c9b9ce24"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -490,7 +490,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -654,7 +654,7 @@ hash = "48fac26b6daff882ccc3db5532d1309cb32cf0b082d5a119630030d1545eaf43"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_and_hide.js"
-hash = "7c98aa92935ce111ac7cf884da27617151e5a4b82fb984e9d56c4d825c57403b"
+hash = "e5b42cd8c747a26d1ec3309f85ffd9221f3b66eb2333daa7386ff094a7503983"
 
 [[files]]
 file = "mods/CTM_DEV-1.20.1-1.1.8+test.jar"

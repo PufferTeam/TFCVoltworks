@@ -169,10 +169,6 @@ file = "config/defaultoptions/options.txt"
 hash = "c74952d6dab463ceeaf8d354ff2d1d790b79190ce04bf5a03df26a852df9b384"
 
 [[files]]
-file = "config/dynamic_lights_reforged.toml"
-hash = "f6e6e9b80a3d95639a0cf81f53bd6fdd2b9064e56124025fbd7cb5731fcfd253"
-
-[[files]]
 file = "config/embeddium++.toml"
 hash = "faa3ea331b7174448f0fb6c39f7b72a860c26b33e0100c54c38deff54acb52d8"
 
@@ -851,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium-plus.pw.toml"
-hash = "15cc53ebc7d6b7cc70e701a8d9dbe7a173e4753fa603f23979153500b36fe51e"
+hash = "752a909969b368eba91cfa87789a6d7f6dd77946dd0cb309752e1b8d79bf35ff"
 metafile = true
 
 [[files]]

@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "4e359db33e315b2d7cbc19ca4fda79aa761f7bcae41b223da557ec757dd4c9cb"
+hash = "639fbef8dfb1b8e8fa3ab9ebdc1a9ee563a187c32854c990da0c006d066ab796"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c0e5950b4d2aed751ea9f9f64428fb71ddc0dfab0e2c1fa047c36f09ffb67993"
+hash = "a9324c8c36bba8cd2fd97433268f6a1d5b2a5b64bd1a6c6b651fc3ba4d592dfc"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium-plus.pw.toml"
-hash = "752a909969b368eba91cfa87789a6d7f6dd77946dd0cb309752e1b8d79bf35ff"
+hash = "15cc53ebc7d6b7cc70e701a8d9dbe7a173e4753fa603f23979153500b36fe51e"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "09d8e90563eccd14036316e3251c6bbee1408e6d5e0f405bb8f42e44ec2c85d7"
+hash = "b6b025b64fb5ed5d33a2408fa62511bef25b5d97d40a6837480bed60c7b4716e"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "3c9b49b0ecd8bdca754479b7c1b032f0bc268ef0360c916d2080ab12e25f49ff"
+hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
 metafile = true
 
 [[files]]
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "dae4dd79e8db2daea3ec318b456fc0e30f529b9acca0a444b4ce7d1debfca143"
+hash = "5e23307c99dc10a01346aeb54802a52bd49cf32043cccd1ed0e9a40617ee4ba4"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "2931165803710c1bc721cfbc49c43a5ef2214038c39a39c8538e4cfecf6fc05c"
+hash = "79d4d34c848aea93c2b21d661011ea366fb0d91ea3fa4a038148917904b1c595"
 metafile = true
 
 [[files]]
@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ed71c0d0d5dcc475a8077bb14b9ccdaccd1b009f9d57e12dea9cd44391d73fc6"
+hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
 metafile = true
 
 [[files]]

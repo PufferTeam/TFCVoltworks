@@ -1573,19 +1573,16 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "create_power_loader-1.2.4-mc1.20.1.jar",
+                    "file_name": "create_power_loader-1.3.2-mc1.20.1.jar",
                     "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20.4"
+                        "1.20.1"
                     ],
                     "loaders": [
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4979/784/create_power_loader-1.2.4-mc1.20.1.jar",
-                    "id": 4979784,
+                    "url": "https://edge.forgecdn.net/files/5012/17/create_power_loader-1.3.2-mc1.20.1.jar",
+                    "id": 5012017,
                     "required_dependencies": [
                         "328085"
                     ]
@@ -1593,21 +1590,18 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "create_power_loader-1.2.4-mc1.20.1.jar",
+                    "file_name": "create_power_loader-1.3.2-mc1.20.1.jar",
                     "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
+                        "1.20.1"
                     ],
                     "loaders": [
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/kueY12ob/create_power_loader-1.2.4-mc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/Z9fWGwPf/create_power_loader-1.3.2-mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "7110eb0b91c5af3d302f050dfbf94f92ce81ca3c18b06fcb065281d19a7b7c2512e05f0777b75da54f4fcbc2d78d5ed024077fd45e7d3ac3f82c901683238536",
-                        "sha1": "c0691340c4e78442a5112c83442819310a68ba9f"
+                        "sha512": "57c11b0f49e73a302e3bb668c436b012ac0bed277c95ad1158b20bfa6a8129e11e0169b4a3d17d41f755a2db7321f68da9c1cb60ef514b7d50de917222259816",
+                        "sha1": "e67a8c65c87717773668dbcbfa8cc537e4917ea7"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
@@ -1792,7 +1786,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "CreativeCore_FORGE_v2.11.17_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1801,15 +1795,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4992/380/CreativeCore_FORGE_v2.11.17_mc1.20.1.jar",
-                    "id": 4992380,
+                    "url": "https://edge.forgecdn.net/files/5005/88/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
+                    "id": 5005088,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "CreativeCore_FORGE_v2.11.17_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1818,10 +1812,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/GKcyVz0N/CreativeCore_FORGE_v2.11.17_mc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/OwUqgdCm/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "2bdbf3a421e0e2ef936d122e11a9625f28215ff09832a7d87288c873f16e506634d15d4db50124babc7965ff702e66d4a65e78417401c3399b5dd811e05188d4",
-                        "sha1": "8ae238ed8b4383acdf4aa6efc96ba56ad2e621d2"
+                        "sha512": "88e45b8c1745eeb592a8497826c0d3ac7bf3841552bdee431d6c1c267a6f9a13efaafb95b48a15e4b7c9cfaa3a440248ee95ae99bef11be9996f00da1e1078c9",
+                        "sha1": "51927c0108b55ef62f62714908cca0bc53bbe6dd"
                     },
                     "required_dependencies": [
                     ]
@@ -2094,7 +2088,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "embeddiumplus-1.20.1-v1.1.0.jar",
+                    "file_name": "embeddiumplus-1.20.1-v1.2.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2103,16 +2097,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4958/320/embeddiumplus-1.20.1-v1.1.0.jar",
-                    "id": 4958320,
+                    "url": "https://edge.forgecdn.net/files/5016/550/embeddiumplus-1.20.1-v1.2.0.jar",
+                    "id": 5016550,
                     "required_dependencies": [
+                        "910506",
                         "908741"
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "embeddiumplus-1.20.1-v1.1.0.jar",
+                    "file_name": "embeddiumplus-1.20.1-v1.2.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2121,13 +2116,14 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/SaEEcVyn/embeddiumplus-1.20.1-v1.1.0.jar",
+                    "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/w58gQij3/embeddiumplus-1.20.1-v1.2.0.jar",
                     "hashes": {
-                        "sha512": "1de714a00e3c3f73e908a4f63da5ffb27fc0624dbc8aaf402b4a401f33b2cf6820692c176e468f18d76e99ad943bb8fa0ccd52e3b652d78d9bd07e7bef07e0b5",
-                        "sha1": "e6c9a0264fe6e524da4147a13a31f37d59fcae77"
+                        "sha512": "973969edfef6005d84d8e738cd8c44d14ff163f21285b995d005622073d744308a8c40d3d87f5b73305cec436583fdd6ba9d6a1d6efdf8e27a4d9edbf2167712",
+                        "sha1": "a599be075a78e05216d9ff254b3574b996be6161"
                     },
                     "required_dependencies": [
-                        "sk9rgfiA"
+                        "sk9rgfiA",
+                        "S1tndFDa"
                     ]
                 }
             ]
@@ -2216,7 +2212,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "everycomp-1.20-2.6.21.jar",
+                    "file_name": "everycomp-1.20-2.6.23.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2224,8 +2220,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4997/892/everycomp-1.20-2.6.21.jar",
-                    "id": 4997892,
+                    "url": "https://edge.forgecdn.net/files/5019/609/everycomp-1.20-2.6.23.jar",
+                    "id": 5019609,
                     "required_dependencies": [
                         "499980"
                     ]
@@ -2233,7 +2229,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "everycomp-1.20-2.6.21.jar",
+                    "file_name": "everycomp-1.20-2.6.23.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2241,10 +2237,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wwkDXkMM/everycomp-1.20-2.6.21.jar",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iKoYYTPq/everycomp-1.20-2.6.23.jar",
                     "hashes": {
-                        "sha512": "928f9ffa270c1d23092bdcf32f8ea4f14e45132ef18967b872799ca6e55b6a4ab9ad266e33b0fc90d52728916fdae67d3b8597a09ef506a11da7045757ab6b51",
-                        "sha1": "eeadc26d6c37f8d57b8f0be5a0de8b2656d7950c"
+                        "sha512": "f4ce25f4ecb94cb42c29b8825d8b4767b50dc51bb0d240dc2d81ff471724ba0488e78a0bd47e2a58b116a207aabcd60d6a017729a73729ecc3bd061b0a604e5e",
+                        "sha1": "46614e2eac672b186f4a2cd4fde3e5fffccb3e3d"
                     },
                     "required_dependencies": [
                         "twkfQtEc"
@@ -3427,7 +3423,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "kubejs-forge-2001.6.4-build.114.jar",
+                    "file_name": "kubejs-forge-2001.6.4-build.120.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3435,8 +3431,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4948/967/kubejs-forge-2001.6.4-build.114.jar",
-                    "id": 4948967,
+                    "url": "https://edge.forgecdn.net/files/5012/72/kubejs-forge-2001.6.4-build.120.jar",
+                    "id": 5012072,
                     "required_dependencies": [
                         "419699",
                         "416294"
@@ -3445,7 +3441,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "kubejs-forge-2001.6.4-build.114.jar",
+                    "file_name": "kubejs-forge-2001.6.4-build.120.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3453,14 +3449,14 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/1na6fpcK/kubejs-forge-2001.6.4-build.114.jar",
+                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/Br93DtM2/kubejs-forge-2001.6.4-build.120.jar",
                     "hashes": {
-                        "sha512": "fa8302aedb7371cc121060e47747f5d65e5bc7cc94ac84bef5265abe270dd2e74f80fcbda6857a4f53eede76ea3ffc191180f7b1eb51d2ffc40613e685930859",
-                        "sha1": "55800bfde990f5dc4fb65f03740dd26583886b51"
+                        "sha512": "66a3fa49be6f84f7411b9d36d139e960c3023926577529939155b1a7b2ca10f65cea6fdfb8c14057a3d546042846f4731d7ea889bf483d78ee14a1c02e8fec8a",
+                        "sha1": "9e0f66e565e1ff6a22f20cf73e7da34e9584e304"
                     },
                     "required_dependencies": [
-                        "lhGA9TYQ",
-                        "sk9knFPE"
+                        "sk9knFPE",
+                        "lhGA9TYQ"
                     ]
                 }
             ]
@@ -4107,36 +4103,34 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "file_name": "notenoughanimations-forge-1.7.0-mc1.20.1.jar",
                     "mc_versions": [
-                        "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4573/913/notenoughanimations-forge-1.6.4-mc1.20.jar",
-                    "id": 4573913,
+                    "url": "https://edge.forgecdn.net/files/5008/760/notenoughanimations-forge-1.7.0-mc1.20.1.jar",
+                    "id": 5008760,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "file_name": "notenoughanimations-forge-1.7.0-mc1.20.1.jar",
                     "mc_versions": [
-                        "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/QWDLTMMa/notenoughanimations-forge-1.6.4-mc1.20.jar",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/YsF3W35k/notenoughanimations-forge-1.7.0-mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "32624b2a345d4f4d53b3bf7efc5680f43df09f95d497075fc6d61c806cbd056d76f48e51f05c7e60c4b01885c3239daecb0292616bf39a7d7e0de1d29a76dba8",
-                        "sha1": "47099dc3b5c339ce918bd06523bae22f59c5c65a"
+                        "sha512": "c518d389179a87cbbe44b22e684ddab99ba41ba04e77f641572931fb0acd28a7b7c9ff5827d0cc434805e37343ef3f4f228ff7f3a527ce2492e0191cb419c48b",
+                        "sha1": "f0638ee8456c4676c11b3f9a1eae7a48e0966800"
                     },
                     "required_dependencies": [
                     ]
@@ -4479,7 +4473,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "pneumaticcraft-repressurized-6.0.12+mc1.20.1.jar",
+                    "file_name": "pneumaticcraft-repressurized-6.0.13+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4487,8 +4481,8 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4921/181/pneumaticcraft-repressurized-6.0.12%2bmc1.20.1.jar",
-                    "id": 4921181,
+                    "url": "https://edge.forgecdn.net/files/5013/959/pneumaticcraft-repressurized-6.0.13%2bmc1.20.1.jar",
+                    "id": 5013959,
                     "required_dependencies": [
                         "306770"
                     ]
@@ -4496,7 +4490,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "pneumaticcraft-repressurized-6.0.12+mc1.20.1.jar",
+                    "file_name": "pneumaticcraft-repressurized-6.0.13+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4504,10 +4498,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ncAcdgk7/versions/mcrdWaCP/pneumaticcraft-repressurized-6.0.12%2Bmc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/ncAcdgk7/versions/KWELaxTw/pneumaticcraft-repressurized-6.0.13%2Bmc1.20.1.jar",
                     "hashes": {
-                        "sha512": "e950aa97f2ab02472f84f289e1e4c96fd53de49afe1d9ee7b0a112c654f56b9627bb9a1d210970bb4b0e9c6d9d3f0217e415a3d2b7328fe52c24abcd839f730e",
-                        "sha1": "be23c8704ef41afc451e2432a5d7b0976de03d5a"
+                        "sha512": "7b05f6c9c1ab63b0b9b4e78372604d0e049033b6ac01abc33a4f47ba5c9238661503ed011aa24866ce06be4b920dc0b134501cc8bb42c793bf89266a3a9f7591",
+                        "sha1": "5bb23c1c881c3cec8497aa563bf5c761283c53cc"
                     },
                     "required_dependencies": [
                         "nU0bVIaL"
@@ -4802,7 +4796,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "moonlight-1.20-2.8.79-forge.jar",
+                    "file_name": "moonlight-1.20-2.8.81-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4810,15 +4804,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5000/808/moonlight-1.20-2.8.79-forge.jar",
-                    "id": 5000808,
+                    "url": "https://edge.forgecdn.net/files/5018/124/moonlight-1.20-2.8.81-forge.jar",
+                    "id": 5018124,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "moonlight-1.20-2.8.79-forge.jar",
+                    "file_name": "moonlight-1.20-2.8.81-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4826,10 +4820,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/7NLlFrFF/moonlight-1.20-2.8.79-forge.jar",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/IZUE22nG/moonlight-1.20-2.8.81-forge.jar",
                     "hashes": {
-                        "sha512": "1c7c646c4a882403edfe330b14ed8adaba285aa57fca249346b0b1f8a1295a334c1ad8c2352a3d3a0130353360fa7ede2618c7fd3b5b0e118181ef7b1bb79332",
-                        "sha1": "82eafec560a47eac304226950ed636cf31a4ab56"
+                        "sha512": "211960b40dd534d0df3f74818bbe9753da3ed3839313824d099673e3ce7a254fbcbffc5f8d9762454b3546cc9c001ea2934b366cafba8567ef9aa5013a669c26",
+                        "sha1": "34a838c558d41332f040d2f5198e0e833ffc0e04"
                     },
                     "required_dependencies": [
                     ]

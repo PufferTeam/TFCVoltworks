@@ -1,7 +1,7 @@
 ignoreUpdate:0
 updateNotification:true
 allowInternetAccess:true
-differentiateByServerAddress:true
+differentiateByServerAddress:false
 caveMapsAllowed:true
 debug:false
 lighting:true

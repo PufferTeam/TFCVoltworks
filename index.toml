@@ -366,7 +366,7 @@ hash = "f42c9f03687c95c23fa92343f6712e791f551fcbbbc7a7773b08611a175a33cd"
 
 [[files]]
 file = "config/openloader/resources/TFCVoltworks-Resources.zip"
-hash = "a3cf682900cb1186fbca2c69e5c755fdbc97bf4b63b1d1db41b3756dd4568acf"
+hash = "9cfc77245855011f9caf67637532a53e5480f4a83024af2fa359c36114c7ea67"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -434,11 +434,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "289f8f60c04bc2fbf81a33c144c0f110b5dfb77d4bd6b9b73ae1c8bd78ef9377"
+hash = "e4ee408ee55700a83f0e4d7cc88fdad22c28c5de7b36de2c0d350f5033dbc81f"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ecfaa3a3c09387675e89f0fd05b9dd6ce8c0dca93f7d332ab850526d3d84363e"
+hash = "b28508c741ed2d296d6c1c65b46e644a772fd3502165451780aac6c72ea01c16"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -490,7 +490,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -502,7 +502,7 @@ hash = "476fdba7c421cc4129032a3e5f85637ae971cc6c30fc2ec44ad137924430cecf"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+hash = "7c40b846955c1616d3422af105784b0a54ac7e3286030c30806b27277378a388"
 
 [[files]]
 file = "defaultconfigs/additionalplacements-server.toml"

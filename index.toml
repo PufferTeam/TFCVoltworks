@@ -53,6 +53,26 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "c60541200efef6d10187d7307997ab80e3fa0589a23805737f8f17b6ad7a1e0d"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
 hash = "4244fd8e77b0970dc9ee907bbf8838b4f2fec6f43b86dbe6e16066eab0528ed7"
 
@@ -434,11 +454,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "4b0cba2ea2cdd11b5e181e77c56a92cf6207dceaa32f3c1831cee1015d569353"
+hash = "82be3e7d2de437fb671d4798297d718ea911974a24701339d98bc9f31e332884"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "76559e7bd580eb4a9c296ce1b81e4d58ca50032ed8ee1e52e04f30eda88ad834"
+hash = "ba7a116a9b8731076af3dca42e765c49b8ae3f5ce79f469a2fb5053c28394b35"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -490,7 +510,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "config/xaeropatreon.txt"

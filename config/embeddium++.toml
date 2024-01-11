@@ -19,7 +19,7 @@
 		fpsDisplayGravity = "LEFT"
 		#Toggle FPS Display shadow
 		#In case sometimes you can't see the text
-		fpsDisplayShadow = false
+		fpsDisplayShadow = true
 		#Configure FPS Display margin
 		#Give some space between corner and text
 		#Range: 0 ~ 48
@@ -37,7 +37,7 @@
 		#Toggles Minecraft Fonts shadows
 		#Depending of the case may increase performance
 		#Gives a flat style text
-		fontShadows = false
+		fontShadows = true
 
 		[embeddiumplus.performance.distanceCulling]
 

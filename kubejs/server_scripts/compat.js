@@ -6,6 +6,7 @@ ServerEvents.recipes(event => {
         let input = undefined
         let isTag = false
         let isFood = false
+        let isValid = true
         input = quernRecipe.ingredient.item;
         if (input == undefined && quernRecipe.ingredient.ingredient !== undefined) {
             input = quernRecipe.ingredient.ingredient.item;
@@ -20,9 +21,16 @@ ServerEvents.recipes(event => {
         if (output == undefined) {
             output = quernRecipe.result.stack.item
         }
-        if (output !== undefined && input !== undefined) {
-            global.createMillstone(isTag, isFood, output, outputCount, input)
+        if(output !== undefined && input !== undefined) {
+            let id = global.getId('milling', input, output)
+            if(global.rxBlacklist.test(id)) {
+                isValid = false
+            }
+            if (isValid) {
+                global.createMillstone(isTag, isFood, output, outputCount, input)
+            }
         }
+
     });
 
     //Barrel to Mixing
@@ -96,10 +104,17 @@ ServerEvents.recipes(event => {
                 outputType = 'fluid_no_item'
                 output = barrelRecipe.output_fluid.fluid
             }
-            if (isValid && input !== undefined && inputFluid !== undefined && output !== undefined) {
-                //console.log(isTag + ' ' + isFood + ' ' + outputType + ' ' + output + ' ' + outputCount + ' ' + isFluidTag + ' ' + inputFluid + ' ' + inputFluidCount + ' ' + input + ' ' + inputCount) 
-                global.createMixing(isTag, isFood, outputType, output, outputCount, isFluidTag, inputFluid, inputFluidCount, input, inputCount, time)
+            if(input !== undefined && inputFluid !== undefined && output !== undefined) {
+                let id = global.getId('mixing', input, output, inputFluid)
+                if(global.rxBlacklist.test(id)) {
+                    isValid = false
+                }
+                if (isValid) {
+                    console.log(isTag + ' ' + isFood + ' ' + outputType + ' ' + output + ' ' + outputCount + ' ' + isFluidTag + ' ' + inputFluid + ' ' + inputFluidCount + ' ' + input + ' ' + inputCount) 
+                    global.createMixing(isTag, isFood, outputType, output, outputCount, isFluidTag, inputFluid, inputFluidCount, input, inputCount, time)
+                }
             }
+
         }
 
 

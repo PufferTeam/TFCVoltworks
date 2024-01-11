@@ -13,6 +13,7 @@ global.recipesOutputToRemove = []
 global.recipesIdToRemove = []
 global.recipesModToRemove = []
 global.recipesTypeToRemove = []
+global.recipesGenToRemove = []
 
 /*
     Misc values

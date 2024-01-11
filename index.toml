@@ -6,7 +6,7 @@ hash = "dede44786231afcbecd1993246ea8206d17b3f013f39ec9866a9bc18335e4bc7"
 
 [[files]]
 file = "config/Mekanism/client.toml"
-hash = "5bc9b0151797329f1143975a85b2a412f4c453f00efb6724bb8042a4b6185865"
+hash = "13675dd47a7bedf20fa339336026b4688e31d4928b609e3689aef1e61fdde0f7"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -189,8 +189,16 @@ file = "config/defaultoptions/options.txt"
 hash = "c74952d6dab463ceeaf8d354ff2d1d790b79190ce04bf5a03df26a852df9b384"
 
 [[files]]
+file = "config/destroy-client.toml"
+hash = "8ef08207a73af16ad7d34a977520063dd38b3963c5b6150149f4c673011f0f73"
+
+[[files]]
+file = "config/destroy-common.toml"
+hash = "1d37387981ff9099b324507fa7957b17cc730bf630d14c718659fc40fc4de610"
+
+[[files]]
 file = "config/embeddium++.toml"
-hash = "7d2b66e57fe81f89d89713e3349a84f9614fd231ba7e0f59730001e44ba61c93"
+hash = "57103bd27972851b08ea6f28e1e9d981b919d8705ec9da034cf6653027d3629a"
 
 [[files]]
 file = "config/embeddium++mixin.toml"
@@ -306,11 +314,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "d44a64a52c5b46fb399b3a3e4c45632c4f2ad87975a6d1c5d06199ba2b1f11e4"
+hash = "e803101fd8f297c6f0ff4a2fd7f5c42377bd4cda632d3cfa5c6dd03c03dfa4c4"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "bd416e71be5374110df244c96ea46f61d25470761d1a2751b807e5ee2d0cd219"
+hash = "038d6a6cabbe448ba1cd12d06a763dad3e1d8a544edf1c6a32556011dca55f81"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -330,7 +338,7 @@ hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "dc6fc586e9fe520b271278f5c16a678ce8b8686e728fb0440a2002ba63d46545"
+hash = "6a508fda03216273cc798858bbd4b2aca8847f68283e91efb4f8f37a36adddf7"
 
 [[files]]
 file = "config/kubejs-tfc.toml"
@@ -450,15 +458,15 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
+hash = "fd471688cd26d2982856bc85c6df8d0d0f857e7ef5da149f651b75bc7a0cf2d7"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "82be3e7d2de437fb671d4798297d718ea911974a24701339d98bc9f31e332884"
+hash = "aaa66d66c4e0e341ac83bbf3348909efeeee2fdad56a4aa12bf0b376df193aee"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "ba7a116a9b8731076af3dca42e765c49b8ae3f5ce79f469a2fb5053c28394b35"
+hash = "21c70e3aa77bd852462e5e52737683e8e015d6c720d306095e201f6ef9f3ac55"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -510,7 +518,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -646,11 +654,11 @@ hash = "3d8819715651f627f8d99fccc7d408af7e447ba824180d6882542c5e58402fb3"
 
 [[files]]
 file = "kubejs/server_scripts/add_recipes.js"
-hash = "5a75ccf54f8faa681aec00c37263f118ba7debe4161e78fe36d923da1058ce13"
+hash = "4da2999577af7acd17689b13ba35b6e48ac4ff52c829832a7074eab50de00b77"
 
 [[files]]
 file = "kubejs/server_scripts/compat.js"
-hash = "833564212d421d8a2dc378454707f3e85893d293eb0c3fa9cf88f90765f3f60c"
+hash = "51e20a73e88b76680103273648d4d21cd259c66d2daa3edcb2c454248c85e880"
 
 [[files]]
 file = "kubejs/server_scripts/cut_recipes.js"
@@ -658,11 +666,11 @@ hash = "d174004e18899b7d4c8890779dfed3e255a943d139cb5f05e9fd3088f024da28"
 
 [[files]]
 file = "kubejs/server_scripts/functions.js"
-hash = "1548c5490e66a249f08980296d7eadbe74d790bc585bc5f37e1744c6926aa2e4"
+hash = "98fdfcb604c871ca28584499e9324b9d6451edd622aeaf1422257deabfdfcb74"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "1a50627724fbc4f5826224756872a0268e4308a1016ba3e82e9d8e5a2d70b0c0"
+hash = "ab18bf4dbbc77da7e8204e4be03304a781a3998e0a1183afce8912b8f50fcebd"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_replace.js"
@@ -670,7 +678,7 @@ hash = "4976b7dcfd7b9011f256ee0bbf6fc2303b4371f2c23b5f7922698179b414807d"
 
 [[files]]
 file = "kubejs/startup_scripts/constants.js"
-hash = "d4a99b8488534a1a24f8462abb5241aa5042adf8e37bdb4a6ebb0ca3b7ee1a4f"
+hash = "dd37242eb0e6b61cb516cf72a55c84f491b9d3a67c65e722b4be754daf3e2330"
 
 [[files]]
 file = "kubejs/startup_scripts/functions.js"

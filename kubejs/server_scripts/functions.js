@@ -40,6 +40,17 @@ global.getFluid = function getFluid(isTag, fluid, fluidAmount) {
     return i2
 }
 
+global.getTFCFluid = function getTFCFluid(isTag, fluid, fluidAmount) {
+    let it = fluid
+    if (isTag) {
+        it = `#${fluid}`
+    }
+
+    let i2 = TFC.fluidStackIngredient(it, fluidAmount)
+
+    return i2
+}
+
 global.getItem = function getItem(isTag, item, itemCount, isFood) {
     let it = item
     if (isTag) {

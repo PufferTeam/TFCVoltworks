@@ -1356,7 +1356,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "create_connected-0.3.1-mc1.20.1.jar",
+                    "file_name": "create_connected-0.4.1-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1364,8 +1364,8 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4991/503/create_connected-0.3.1-mc1.20.1.jar",
-                    "id": 4991503,
+                    "url": "https://edge.forgecdn.net/files/5024/519/create_connected-0.4.1-mc1.20.1.jar",
+                    "id": 5024519,
                     "required_dependencies": [
                         "328085"
                     ]
@@ -1373,7 +1373,7 @@
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "create_connected-0.3.1-mc1.20.1.jar",
+                    "file_name": "create_connected-0.4.1-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1381,10 +1381,10 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/9VWGEKOr/create_connected-0.3.1-mc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Ca0bdDbG/create_connected-0.4.1-mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "fc098dbdf9c967c275c199e6a5adfd331bf9759f686b089fa69e3a95d2d1ed7ebcaa5eefcc2a7c4029378c5f59ac487d35755df599856e8f04a026c19928d650",
-                        "sha1": "63a4eb3e5158c6f5ddd8d3680183eb9718f0d46f"
+                        "sha512": "6fefb02023e478daedf160a9c9768329746eb43f0ac84d8c17560cc5bdff78ee6a97a9c9f5a8ea5baac10c01f09b45e071d29d30d527172d5512b7b4e755c0d8",
+                        "sha1": "f7ce2eff069c4a9fb9a993f19ade80f7bdd36dd0"
                     },
                     "required_dependencies": [
                         "LNytGWDc"

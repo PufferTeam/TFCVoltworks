@@ -2088,7 +2088,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "embeddiumplus-1.20.1-v1.1.0.jar",
+                    "file_name": "embeddiumplus-1.20.1-v1.2.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2097,30 +2097,31 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4958/320/embeddiumplus-1.20.1-v1.1.0.jar",
-                    "id": 4958320,
+                    "url": "https://edge.forgecdn.net/files/5023/95/embeddiumplus-1.20.1-v1.2.1.jar",
+                    "id": 5023095,
                     "required_dependencies": [
+                        "910506",
                         "908741"
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "embeddiumplus-1.20.1-v1.1.0.jar",
+                    "file_name": "embeddiumplus-1.20.1-v1.2.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "forge",
-                        "neoforge"
+                        "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/SaEEcVyn/embeddiumplus-1.20.1-v1.1.0.jar",
+                    "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/EzLNls5M/embeddiumplus-1.20.1-v1.2.1.jar",
                     "hashes": {
-                        "sha512": "1de714a00e3c3f73e908a4f63da5ffb27fc0624dbc8aaf402b4a401f33b2cf6820692c176e468f18d76e99ad943bb8fa0ccd52e3b652d78d9bd07e7bef07e0b5",
-                        "sha1": "e6c9a0264fe6e524da4147a13a31f37d59fcae77"
+                        "sha512": "71e8fe13ea7b9bbb9d12db7e61e442a641a582fd8d97739afd5dbf38e89dc5303967647e1a7413b3dac7765627ed6bd6ff9b1aa1fd236ff54bb6f91165eae31e",
+                        "sha1": "51a0d1336425234104d8edbed4c8ca935e9f3261"
                     },
                     "required_dependencies": [
+                        "S1tndFDa",
                         "sk9rgfiA"
                     ]
                 }

@@ -110,7 +110,6 @@ ServerEvents.recipes(event => {
                     isValid = false
                 }
                 if (isValid) {
-                    console.log(isTag + ' ' + isFood + ' ' + outputType + ' ' + output + ' ' + outputCount + ' ' + isFluidTag + ' ' + inputFluid + ' ' + inputFluidCount + ' ' + input + ' ' + inputCount) 
                     global.createMixing(isTag, isFood, outputType, output, outputCount, isFluidTag, inputFluid, inputFluidCount, input, inputCount, time)
                 }
             }

@@ -658,7 +658,7 @@ hash = "4da2999577af7acd17689b13ba35b6e48ac4ff52c829832a7074eab50de00b77"
 
 [[files]]
 file = "kubejs/server_scripts/compat.js"
-hash = "51e20a73e88b76680103273648d4d21cd259c66d2daa3edcb2c454248c85e880"
+hash = "414b2875534ecde6e06e8dc2fe614b9280af30947658ff41aa2bad2765e120ff"
 
 [[files]]
 file = "kubejs/server_scripts/cut_recipes.js"

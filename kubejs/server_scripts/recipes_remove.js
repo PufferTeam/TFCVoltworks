@@ -36,7 +36,7 @@ ServerEvents.recipes(event => {
     global.recipesTypeToRemove.forEach(i => event.remove({ type: i }));
 
     global.recipesGenToRemove.push(
-        'test'
+
     )
     global.rxBlacklist = new RegExp(global.recipesGenToRemove.join('|'));
 

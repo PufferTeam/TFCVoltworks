@@ -670,7 +670,7 @@ hash = "98fdfcb604c871ca28584499e9324b9d6451edd622aeaf1422257deabfdfcb74"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_remove.js"
-hash = "ab18bf4dbbc77da7e8204e4be03304a781a3998e0a1183afce8912b8f50fcebd"
+hash = "25aa7edf553490f83a79519552c796c280582eb21175b6143e30b30db57dbf6e"
 
 [[files]]
 file = "kubejs/server_scripts/recipes_replace.js"
@@ -678,7 +678,7 @@ hash = "4976b7dcfd7b9011f256ee0bbf6fc2303b4371f2c23b5f7922698179b414807d"
 
 [[files]]
 file = "kubejs/startup_scripts/constants.js"
-hash = "dd37242eb0e6b61cb516cf72a55c84f491b9d3a67c65e722b4be754daf3e2330"
+hash = "e026a120a4ebd4d4ad7921f005eac6a7e03b9e37f33829a2209b01cba81aac23"
 
 [[files]]
 file = "kubejs/startup_scripts/functions.js"
@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "aa3b063ebd7f61a77146cea7d95e12fffcebe5549b38951b09709ccd494f996e"
+hash = "f66991994937c8e691c35d9d1dbfdaa4429eb2ba964f22574e29a765ecb1ebdf"
 metafile = true
 
 [[files]]

@@ -26,6 +26,7 @@
 /mods/.index/**
 /mods/**.jar
 !/mods/CTM_DEV**.jar
+*.disabled
 
 /config/valkyrienskies/**
 /config/jei/world/local/**

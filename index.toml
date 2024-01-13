@@ -366,7 +366,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "2ccfa861c2972c2c1a433340aae0f3580ddc548f50185a56b39fa8bfa1508d79"
+hash = "b702e3474c8ca4b0451de529365f76cf560ed7d5600672e7daabd4388bb526ee"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -462,11 +462,11 @@ hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "791212c25e69634351168c635c47d2e7ee0049171adffe536c150dc7ba1bfd5e"
+hash = "bc727816309854b57df8c583f78ad3779b9802fc3dcda3b6e98f6d0a1b8be0f4"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "3af0d5a125855833536b9451f450e7bcc49fb3b33591e7293078f0d1d925afdb"
+hash = "89f994212637474b3f33477cb942cfe9f7124a0d7d4a67f04780769702f907b3"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -518,7 +518,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium-plus.pw.toml"
-hash = "22b9346ae6b179c675f7ffece788284d0fe0e690d19fc9d4524bbc3f3b800be9"
+hash = "17b81e7ae54d65521f26df3ead7e243662784a89eaf968dfce5b84beba93b264"
 metafile = true
 
 [[files]]

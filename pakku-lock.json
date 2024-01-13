@@ -3859,7 +3859,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "modernfix-forge-5.11.1+mc1.20.1.jar",
+                    "file_name": "modernfix-forge-5.12.1+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3867,15 +3867,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4980/929/modernfix-forge-5.11.1%2bmc1.20.1.jar",
-                    "id": 4980929,
+                    "url": "https://edge.forgecdn.net/files/5027/104/modernfix-forge-5.12.1%2bmc1.20.1.jar",
+                    "id": 5027104,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "modernfix-forge-5.11.1+mc1.20.1.jar",
+                    "file_name": "modernfix-forge-5.12.1+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3883,10 +3883,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/gepXNUac/modernfix-forge-5.11.1%2Bmc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/uUQmiRzm/modernfix-forge-5.12.1%2Bmc1.20.1.jar",
                     "hashes": {
-                        "sha512": "32ebf65e0e3d1809e63ad608a1320abbee630eb92483841c6ea34aa7147ac1923cd0186ad6d8d4ba259259ef1a06326d2d2dc8037315f6bd13d2ea5c7be5f54b",
-                        "sha1": "38446389264d82bc9ecb935c1d4dc96e76697477"
+                        "sha512": "3bae1b48b4ffbb2e4c6fd31b1ea11917a3bfef392e548ff9dc0bc08a1deea560c090cf49dd7d48187c8385fb190c96d0f50508c0d429ae79cea1c415973541e3",
+                        "sha1": "f6ee10b2339c397821c0ef81e04340018e4f0adc"
                     },
                     "required_dependencies": [
                     ]
@@ -4755,7 +4755,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "moonlight-1.20-2.8.81-forge.jar",
+                    "file_name": "moonlight-1.20-2.8.82-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4763,15 +4763,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5018/124/moonlight-1.20-2.8.81-forge.jar",
-                    "id": 5018124,
+                    "url": "https://edge.forgecdn.net/files/5025/566/moonlight-1.20-2.8.82-forge.jar",
+                    "id": 5025566,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "moonlight-1.20-2.8.81-forge.jar",
+                    "file_name": "moonlight-1.20-2.8.82-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4779,10 +4779,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/IZUE22nG/moonlight-1.20-2.8.81-forge.jar",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Jv6lR8aV/moonlight-1.20-2.8.82-forge.jar",
                     "hashes": {
-                        "sha512": "211960b40dd534d0df3f74818bbe9753da3ed3839313824d099673e3ce7a254fbcbffc5f8d9762454b3546cc9c001ea2934b366cafba8567ef9aa5013a669c26",
-                        "sha1": "34a838c558d41332f040d2f5198e0e833ffc0e04"
+                        "sha512": "00f38f9fb4ccf83d348d0bf6373f2e3357f1b2332019eb319455d22847f37b264f162e8aca54f04bdc7c543a9b6a721e8e55134e83b79d466c020ec62d390c70",
+                        "sha1": "2db1d4224f402e0654182fee6b8cfef7e0c5b9fa"
                     },
                     "required_dependencies": [
                     ]

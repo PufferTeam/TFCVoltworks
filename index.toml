@@ -394,7 +394,7 @@ hash = "f42c9f03687c95c23fa92343f6712e791f551fcbbbc7a7773b08611a175a33cd"
 
 [[files]]
 file = "config/openloader/resources/TFCVoltworks-Resources.zip"
-hash = "cc5cca135f3f7329f13628b1fc583a5d18d95d15dd2b82ca419c1c33700bc5d5"
+hash = "a49271b0ba22cbf8a531f91569e19320d9202536759b49509f88ec6774544d3d"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -458,15 +458,15 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "fd471688cd26d2982856bc85c6df8d0d0f857e7ef5da149f651b75bc7a0cf2d7"
+hash = "38d5dabf8ca8db173146df34ecc179e3ccc619da8d6c889a51c8f65bddeb0c08"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "aaa66d66c4e0e341ac83bbf3348909efeeee2fdad56a4aa12bf0b376df193aee"
+hash = "791212c25e69634351168c635c47d2e7ee0049171adffe536c150dc7ba1bfd5e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "21c70e3aa77bd852462e5e52737683e8e015d6c720d306095e201f6ef9f3ac55"
+hash = "3af0d5a125855833536b9451f450e7bcc49fb3b33591e7293078f0d1d925afdb"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -518,7 +518,7 @@ hash = "3d04af0633a71ba8c42d7328909199f616af528e7fc089856e8663b9b7345a0a"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -1059,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
+hash = "10a80ae383e564d288cd8cf376d276a9eb091761eb987e6540312378d8fb9c42"
 metafile = true
 
 [[files]]
@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
+hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
 metafile = true
 
 [[files]]

@@ -988,6 +988,11 @@ hash = "1382dc49c71197e487e57199ce8c18acf0b42c538580255058d19e2e226d1e56"
 metafile = true
 
 [[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "7d92f3e6cea3ed6b39b92afebda16d363855b332a70595b5409fe3ca6423736e"
 metafile = true

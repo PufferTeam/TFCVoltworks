@@ -3076,6 +3076,65 @@
             ]
         },
         {
+            "pakku_id": "TNpe7fRodphRugLz",
+            "pakku_links": [
+                "OzDXE0ekHMLm1G5q"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "item-filters",
+                "modrinth": "item-filters"
+            },
+            "name": {
+                "curseforge": "Item Filters",
+                "modrinth": "Item Filters"
+            },
+            "id": {
+                "curseforge": "309674",
+                "modrinth": "1KLyhGRz"
+            },
+            "files": [
+                {
+                    "_internal": "CfFile",
+                    "type": "curseforge",
+                    "file_name": "item-filters-forge-2001.1.0-build.59.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4838/266/item-filters-forge-2001.1.0-build.59.jar",
+                    "id": 4838266,
+                    "required_dependencies": [
+                        "419699"
+                    ]
+                },
+                {
+                    "_internal": "MrFile",
+                    "type": "modrinth",
+                    "file_name": "item-filters-forge-2001.1.0-build.53.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/1KLyhGRz/versions/FMUX4THT/item-filters-forge-2001.1.0-build.53.jar",
+                    "hashes": {
+                        "sha512": "4bed10d923a6b6b03614a019a50a5676f4dc89213b6143a77f5af4c759fa7f9940e45a81192e07717efbb3c917324b2e33343c1db3a6ed61171ccebb4b09832f",
+                        "sha1": "ece6b67ad586e102164e04ea10fc4a0e95257802"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ]
+                }
+            ]
+        },
+        {
             "pakku_id": "ZcelrlnBypOOzSXD",
             "type": "MOD",
             "side": "BOTH",

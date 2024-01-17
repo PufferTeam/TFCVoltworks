@@ -1,0 +1,8 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "parent": "tfc:item/chest_simple",
+  "textures": {
+    "texture": "tfc:entity/chest/normal/ash",
+    "particle": "tfc:block/wood/planks/ash"
+  }
+}

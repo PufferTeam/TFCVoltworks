@@ -1786,7 +1786,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.11.19_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1795,15 +1795,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5005/88/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
-                    "id": 5005088,
+                    "url": "https://edge.forgecdn.net/files/5036/724/CreativeCore_FORGE_v2.11.19_mc1.20.1.jar",
+                    "id": 5036724,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
+                    "file_name": "CreativeCore_FORGE_v2.11.20_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1812,10 +1812,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/OwUqgdCm/CreativeCore_FORGE_v2.11.18_mc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/2GtNXZTI/CreativeCore_FORGE_v2.11.20_mc1.20.1.jar",
                     "hashes": {
-                        "sha512": "88e45b8c1745eeb592a8497826c0d3ac7bf3841552bdee431d6c1c267a6f9a13efaafb95b48a15e4b7c9cfaa3a440248ee95ae99bef11be9996f00da1e1078c9",
-                        "sha1": "51927c0108b55ef62f62714908cca0bc53bbe6dd"
+                        "sha512": "20e0d3bfc9d3eadfab227d54650995cc5607d5f06ed2ed3cafc8141417bc3d17f83912c91c7bcee01e9d12fad0286b9e138444045bdd7ebdebf964afbb38c889",
+                        "sha1": "404a8af8151142a1f514d6cc818b251ed0054335"
                     },
                     "required_dependencies": [
                     ]
@@ -2029,7 +2029,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "embeddium-0.2.16+mc1.20.1.jar",
+                    "file_name": "embeddium-0.2.18+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2038,15 +2038,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4984/832/embeddium-0.2.16%2bmc1.20.1.jar",
-                    "id": 4984832,
+                    "url": "https://edge.forgecdn.net/files/5034/486/embeddium-0.2.18%2bmc1.20.1.jar",
+                    "id": 5034486,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "embeddium-0.2.16+mc1.20.1.jar",
+                    "file_name": "embeddium-0.2.18+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2055,10 +2055,10 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/WqH4m6Io/embeddium-0.2.16%2Bmc1.20.1.jar",
+                    "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/5UhQey9d/embeddium-0.2.18%2Bmc1.20.1.jar",
                     "hashes": {
-                        "sha512": "b90192d6c6d9560d56cb5532708c92cd950313b9792eae96fc704dc1283713dc9dc5698b4c885617201d21f8d2395739daf6adea38e45e679587f584beeb1f3f",
-                        "sha1": "81800daa46a4089c5f30e4f6dde692bcaf66c473"
+                        "sha512": "1fbe113ea69949e0d9f641caa433f4c6ff63a8cb2cdd6c770d00abace72e82573b9c3a51c900eee523776e3bf4c8c9d78b7c0a39bacd0605d9aa7863dd6def49",
+                        "sha1": "4a35e0ad24ce7111c78fe6e5e2c5fcad3dcf8f02"
                     },
                     "required_dependencies": [
                     ]
@@ -3485,7 +3485,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "kubejs-forge-2001.6.4-build.120.jar",
+                    "file_name": "kubejs-forge-2001.6.4-build.127.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3493,17 +3493,17 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5012/72/kubejs-forge-2001.6.4-build.120.jar",
-                    "id": 5012072,
+                    "url": "https://edge.forgecdn.net/files/5034/251/kubejs-forge-2001.6.4-build.127.jar",
+                    "id": 5034251,
                     "required_dependencies": [
-                        "419699",
-                        "416294"
+                        "416294",
+                        "419699"
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "kubejs-forge-2001.6.4-build.120.jar",
+                    "file_name": "kubejs-forge-2001.6.4-build.127.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3511,14 +3511,14 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/Br93DtM2/kubejs-forge-2001.6.4-build.120.jar",
+                    "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/lmLSVeVQ/kubejs-forge-2001.6.4-build.127.jar",
                     "hashes": {
-                        "sha512": "66a3fa49be6f84f7411b9d36d139e960c3023926577529939155b1a7b2ca10f65cea6fdfb8c14057a3d546042846f4731d7ea889bf483d78ee14a1c02e8fec8a",
-                        "sha1": "9e0f66e565e1ff6a22f20cf73e7da34e9584e304"
+                        "sha512": "0b7e3e311ccbc5aad14d954643a4c63214495edb7ba5993e691fb26eb475da712ffbdfa540c1edf25229af0131cad6fec0dd38b8148a8457e705d1b3e062ca36",
+                        "sha1": "6c8b3ec393123fbd64e6f53faf223bcd27c0375d"
                     },
                     "required_dependencies": [
-                        "sk9knFPE",
-                        "lhGA9TYQ"
+                        "lhGA9TYQ",
+                        "sk9knFPE"
                     ]
                 }
             ]
@@ -4179,7 +4179,7 @@
                 {
                     "_internal": "CfFile",
                     "type": "curseforge",
-                    "file_name": "notenoughcrashes-4.4.6+1.20.1-forge.jar",
+                    "file_name": "notenoughcrashes-4.4.7+1.20.1-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4187,15 +4187,15 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4684/47/notenoughcrashes-4.4.6+1.20.1-forge.jar",
-                    "id": 4684047,
+                    "url": "https://edge.forgecdn.net/files/5035/999/notenoughcrashes-4.4.7%2b1.20.1-forge.jar",
+                    "id": 5035999,
                     "required_dependencies": [
                     ]
                 },
                 {
                     "_internal": "MrFile",
                     "type": "modrinth",
-                    "file_name": "notenoughcrashes-4.4.6+1.20.1-forge.jar",
+                    "file_name": "notenoughcrashes-4.4.7+1.20.1-forge.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -4203,10 +4203,10 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yM94ont6/versions/YEZifFXd/notenoughcrashes-4.4.6%2B1.20.1-forge.jar",
+                    "url": "https://cdn.modrinth.com/data/yM94ont6/versions/W6W0bVtN/notenoughcrashes-4.4.7%2B1.20.1-forge.jar",
                     "hashes": {
-                        "sha512": "60763632b70a146d2405db7024cbcfdacf405899a9cda2c974e7b5f84de0b40d4de1ce7cebdab539b2c1879c5cc4890e667f8f7613076d5ef123e073eb08dc8c",
-                        "sha1": "822196bf1be350fea8d9695f2a2de41961ae0626"
+                        "sha512": "9128836e8bed4ff60f5569b0541a132eafa009275657c6816792b210d31b8cb9f83afc9469335f0018890484c0b744b4ad0be865ee4f89ad665eac05ca27cafb",
+                        "sha1": "0cd0d0f49762dcaf3716e72c5e159ed9645ce468"
                     },
                     "required_dependencies": [
                     ]
